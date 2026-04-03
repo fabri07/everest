@@ -79,15 +79,15 @@ Ejemplos:
 
 ## Salidas del pipeline
 
-- `data/processed/himalaya_master_clean.csv`
-- `data/processed/himalaya_model_ready.csv`
-- `reports/tables/age_inconsistencies.csv`
-- `reports/tables/occupation_group_summary.csv`
-- `reports/tables/occupation_raw_summary.csv`
-- `reports/tables/region_summary.csv`
-- `reports/metrics/data_quality_summary.json`
-- `reports/metrics/baseline_metrics.json`
-- `reports/predictions/baseline_predictions.csv`
+- `02_data_processing/data/himalaya_master_clean.csv`
+- `02_data_processing/data/himalaya_model_ready.csv`
+- `05_data_analytics/tables/age_inconsistencies.csv`
+- `05_data_analytics/tables/occupation_group_summary.csv`
+- `05_data_analytics/tables/occupation_raw_summary.csv`
+- `05_data_analytics/tables/region_summary.csv`
+- `04_model_evaluation/metrics/data_quality_summary.json`
+- `04_model_evaluation/metrics/baseline_metrics.json`
+- `04_model_evaluation/predictions/baseline_predictions.csv`
 
 ## Estrategia de modelado
 
@@ -136,11 +136,11 @@ Script:
 
 Salidas:
 
-- `reports/metrics/catboost_metrics.json`
-- `reports/predictions/catboost_predictions.csv`
-- `reports/tables/catboost_calibration_summary.csv`
-- `reports/figures/shap/*.csv`
-- `reports/figures/shap/*.png`
+- `04_model_evaluation/metrics/catboost_metrics.json`
+- `04_model_evaluation/predictions/catboost_predictions.csv`
+- `04_model_evaluation/metrics/catboost_calibration_summary.csv`
+- `04_model_evaluation/figures/shap/*.csv`
+- `04_model_evaluation/figures/shap/*.png`
 
 Notas:
 

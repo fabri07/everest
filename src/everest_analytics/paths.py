@@ -2,13 +2,12 @@ from pathlib import Path
 
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
-DATA_RAW_DIR = ROOT_DIR / "data" / "raw"
-DATA_PROCESSED_DIR = ROOT_DIR / "data" / "processed"
-REPORTS_DIR = ROOT_DIR / "reports"
-METRICS_DIR = REPORTS_DIR / "metrics"
-PREDICTIONS_DIR = REPORTS_DIR / "predictions"
-TABLES_DIR = REPORTS_DIR / "tables"
-FIGURES_DIR = REPORTS_DIR / "figures"
+DATA_RAW_DIR = ROOT_DIR / "01_data_ingestion" / "raw"
+DATA_PROCESSED_DIR = ROOT_DIR / "02_data_processing" / "data"
+METRICS_DIR = ROOT_DIR / "04_model_evaluation" / "metrics"
+PREDICTIONS_DIR = ROOT_DIR / "04_model_evaluation" / "predictions"
+TABLES_DIR = ROOT_DIR / "05_data_analytics" / "tables"
+FIGURES_DIR = ROOT_DIR / "04_model_evaluation" / "figures"
 SHAP_DIR = FIGURES_DIR / "shap"
 
 
@@ -22,4 +21,3 @@ def ensure_output_dirs() -> None:
         SHAP_DIR,
     ]:
         directory.mkdir(parents=True, exist_ok=True)
-
