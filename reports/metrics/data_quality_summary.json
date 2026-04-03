@@ -1,0 +1,56 @@
+{
+  "rows_master": 89000,
+  "duplicate_expids_in_exped": [
+    "EVER21101",
+    "EVER22101",
+    "EVER24101",
+    "KANG10101"
+  ],
+  "n_duplicate_expids_in_exped": 4,
+  "outcome_4_counts": {
+    "abandona_vive": 51173,
+    "cima_vive": 36669,
+    "abandona_muere": 898,
+    "cima_muere": 260
+  },
+  "age_valid_count": 81111,
+  "age_invalid_count": 2481,
+  "age_missing_count": 5408,
+  "occupation_missing_count": 30739,
+  "occupation_group_counts": {
+    "unknown": 30739,
+    "other": 15181,
+    "guide_instructor": 9633,
+    "business_exec": 8445,
+    "engineer": 6083,
+    "doctor_health": 4138,
+    "trades_manual": 3416,
+    "scientist_academic": 3088,
+    "student": 2591,
+    "military_police": 2008,
+    "climber_alpinist": 1889,
+    "media_photo": 1789
+  },
+  "top_missing_columns_master": {
+    "msmttime3": 99.99,
+    "msmtdate3": 99.98,
+    "exp_ascent4": 99.83,
+    "exp_route4": 99.82,
+    "msmttime2": 99.73,
+    "exp_ascent3": 99.71,
+    "hcn": 99.67,
+    "exp_route3": 99.51,
+    "msmtdate2": 99.5,
+    "deathtime": 99.36,
+    "peak_trekyear": 99.09,
+    "exp_ascent2": 98.73,
+    "deathdate": 98.73,
+    "deathclass": 98.7,
+    "deathtype": 98.7,
+    "exp_route2": 96.02,
+    "exp_primid": 95.12,
+    "peak_restrict": 94.24,
+    "peak_psmtnote": 93.05,
+    "exp_achievment": 90.68
+  }
+}

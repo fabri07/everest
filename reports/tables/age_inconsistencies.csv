@@ -1,0 +1,2482 @@
+expid,peakid,myear,mseason,sex,status,citizen_clean,occupation_raw_clean,age_raw
+AMAD00110,AMAD,1930,Spring,M,H-A Worker,Nepal,unknown,-43.0
+AMAD84402,AMAD,1954,Winter,M,H-A Worker,Nepal,unknown,-4.0
+AMAD00313,AMAD,1955,Autumn,M,H-A Worker,Nepal,unknown,2.0
+AMAD00401,AMAD,1955,Winter,M,H-A Worker,Nepal,unknown,-14.0
+AMAD97401,AMAD,1955,Winter,M,H-A Worker,Nepal,unknown,-5.0
+AMAD88303,AMAD,1956,Autumn,F,Climber,Switzerland,secretary,1.0
+AMAD99404,AMAD,1956,Winter,M,Climber,USA,gauge technician,5.0
+AMAD00112,AMAD,1957,Spring,M,H-A Worker,Nepal,unknown,-21.0
+AMAD00112,AMAD,1957,Spring,M,H-A Worker,Nepal,unknown,-3.0
+AMAD00324,AMAD,1959,Autumn,M,H-A Worker,Nepal,unknown,-6.0
+AMAD98401,AMAD,1959,Winter,M,H-A Worker,Nepal,unknown,-1.0
+AMAD99318,AMAD,1959,Autumn,M,H-A Worker,Nepal,unknown,-3.0
+AMAD99318,AMAD,1959,Autumn,M,H-A Worker,Nepal,unknown,-1.0
+AMAD00110,AMAD,1960,Spring,M,H-A Worker,Nepal,unknown,-2.0
+AMAD99308,AMAD,1960,Autumn,M,H-A Worker,Nepal,unknown,-14.0
+AMAD99317,AMAD,1960,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+AMAD94103,AMAD,1963,Spring,F,Climber,Japan,designer of children s clothing,11.0
+AMAD85102,AMAD,1965,Spring,M,Climber,Japan,worker plastics factory,2.0
+AMAD98316,AMAD,1965,Autumn,M,H-A Worker,Nepal,unknown,2.0
+AMAD99306,AMAD,1965,Autumn,M,Climber,USA,alpine guide,8.0
+AMAD97104,AMAD,1969,Spring,M,Climber,USA,climbing equipment salesman,9.0
+AMAD98101,AMAD,1969,Spring,M,Sirdar,Nepal,unknown,5.0
+AMAD98332,AMAD,1969,Autumn,M,Leader,USA,alpine guide,1.0
+AMAD99317,AMAD,1969,Autumn,M,Climber,Switzerland,carpenter,1.0
+AMAD99321,AMAD,1969,Autumn,M,Leader,USA,alpine guide,1.0
+AMAD00307,AMAD,1970,Autumn,M,H-A Worker,Nepal,unknown,1.0
+AMAD94101,AMAD,1970,Spring,M,Sirdar,Nepal,unknown,10.0
+AMAD00316,AMAD,1972,Autumn,M,Co-Leader,USA,alpine guide,-1.0
+AMAD00316,AMAD,1972,Autumn,M,Co-Leader,USA,alpine guide,-4.0
+AMAD00321,AMAD,1972,Autumn,M,Co-Leader,Canada,film production administrator,3.0
+AMAD00322,AMAD,1972,Autumn,M,Leader,New Zealand,alpine guide,3.0
+AMAD00322,AMAD,1972,Autumn,F,Climber,Canada,alpine guide,1.0
+AMAD00322,AMAD,1972,Autumn,M,Climber,New Zealand,electrician,2.0
+AMAD00322,AMAD,1972,Autumn,M,Climber,UK,alpine guide,10.0
+AMAD00322,AMAD,1972,Autumn,M,H-A Worker,Nepal,unknown,2.0
+AMAD00323,AMAD,1972,Autumn,M,Climber,USA,retail store owner,0.0
+AMAD00323,AMAD,1972,Autumn,M,Leader,Canada,alpine guide,11.0
+AMAD00323,AMAD,1972,Autumn,M,Climber,Norway,engineer,4.0
+AMAD00324,AMAD,1972,Autumn,M,Leader,UK,hong kong police force,8.0
+AMAD00325,AMAD,1972,Autumn,M,Climber,USA,graphic artist,10.0
+AMAD00325,AMAD,1972,Autumn,M,Climber,USA,waiter and photographer,1.0
+AMAD00325,AMAD,1972,Autumn,M,Climber,USA,architect,9.0
+AMAD00325,AMAD,1972,Autumn,M,Climber,USA,architect,6.0
+AMAD00325,AMAD,1972,Autumn,M,Climber,USA,does field testing for sports clothes manufacturer,10.0
+AMAD00401,AMAD,1972,Winter,M,Climber,UK,geophysicist,0.0
+AMAD00401,AMAD,1972,Winter,M,Climber,UK,engineer,9.0
+AMAD00401,AMAD,1972,Winter,F,Climber,USA,web producer,4.0
+AMAD00401,AMAD,1972,Winter,M,Climber,UK,crime-scene expert,3.0
+AMAD00401,AMAD,1972,Winter,M,Leader,UK,alpine guide,4.0
+AMAD00402,AMAD,1972,Winter,M,Climber,S Korea,alpine instructor,8.0
+AMAD00402,AMAD,1972,Winter,M,Climber,S Korea,sports equipment salesman,3.0
+AMAD00402,AMAD,1972,Winter,M,Climber,S Korea,mountain equipment shop keeper,5.0
+AMAD00402,AMAD,1972,Winter,M,Climber,S Korea,sportswear salesman,4.0
+AMAD00402,AMAD,1972,Winter,M,Climber,S Korea,just graduated from university - no job,-2.0
+AMAD00402,AMAD,1972,Winter,M,H-A Worker,Nepal,unknown,1.0
+AMAD00403,AMAD,1972,Winter,M,Climber,USA,broker,-2.0
+AMAD00403,AMAD,1972,Winter,M,Climber,USA,marketing manager,-1.0
+AMAD00403,AMAD,1972,Winter,M,Climber,UK,university lecturer in art and design,9.0
+AMAD00403,AMAD,1972,Winter,M,Leader,Spain,alpine guide climbing instructor,5.0
+AMAD00403,AMAD,1972,Winter,M,Climber,Australia,police officer,-2.0
+AMAD00403,AMAD,1972,Winter,M,Climber,UK,army captain,0.0
+AMAD00403,AMAD,1972,Winter,M,Climber,UK,management consultant,1.0
+AMAD00403,AMAD,1972,Winter,M,Climber,USA,unknown,6.0
+AMAD00403,AMAD,1972,Winter,M,H-A Worker,Nepal,unknown,-5.0
+AMAD00403,AMAD,1972,Winter,M,H-A Worker,Nepal,unknown,-2.0
+AMAD00301,AMAD,1973,Autumn,M,Climber,Austria,alpine guide,2.0
+AMAD00301,AMAD,1973,Autumn,M,Climber,Italy,mechanic,4.0
+AMAD00301,AMAD,1973,Autumn,M,Climber,Italy,tea company salesman,4.0
+AMAD00302,AMAD,1973,Autumn,M,Climber,Italy,unskilled laborer,4.0
+AMAD00302,AMAD,1973,Autumn,M,Leader,Italy,alpine guide,4.0
+AMAD00302,AMAD,1973,Autumn,M,Climber,Italy,alpine guide,8.0
+AMAD00302,AMAD,1973,Autumn,M,Climber,Italy,bank clerk,1.0
+AMAD00302,AMAD,1973,Autumn,M,Exp Doctor,Italy,physician,9.0
+AMAD00302,AMAD,1973,Autumn,M,Climber,Italy,engineer in factory producing telephone systems,11.0
+AMAD00303,AMAD,1973,Autumn,F,Climber,Germany,teacher,-1.0
+AMAD00303,AMAD,1973,Autumn,M,Leader,Germany,engineer,2.0
+AMAD00304,AMAD,1973,Autumn,M,Leader,Germany,public relations manager for business magazine,9.0
+AMAD00307,AMAD,1973,Autumn,M,Climber,Japan,import company staff,0.0
+AMAD00307,AMAD,1973,Autumn,M,Leader,Japan,travel agency staff,7.0
+AMAD00308,AMAD,1973,Autumn,M,Leader,France,mountain refuge guard,-5.0
+AMAD00309,AMAD,1973,Autumn,M,Climber,Spain,plumber,-1.0
+AMAD00309,AMAD,1973,Autumn,M,Climber,Spain,kindergarten,-1.0
+AMAD00309,AMAD,1973,Autumn,M,Climber,Spain,mason,0.0
+AMAD00309,AMAD,1973,Autumn,M,Leader,Spain,housepainter,4.0
+AMAD00310,AMAD,1973,Autumn,M,Climber,Italy,alpine guide,12.0
+AMAD00310,AMAD,1973,Autumn,M,Climber,Italy,alpine guide equipment,7.0
+AMAD00310,AMAD,1973,Autumn,M,Climber,Italy,pilot,11.0
+AMAD00311,AMAD,1973,Autumn,M,Leader,Austria,chemical company sales manager,4.0
+AMAD00311,AMAD,1973,Autumn,M,Climber,Austria,engineer,5.0
+AMAD00312,AMAD,1973,Autumn,M,Climber,Switzerland,alpine guide,7.0
+AMAD00312,AMAD,1973,Autumn,M,Climber,Switzerland,telecommunicatons engineer,1.0
+AMAD00312,AMAD,1973,Autumn,M,Leader,Switzerland,alpine guide ski instrucor paragliding taxi pilot,-3.0
+AMAD00312,AMAD,1973,Autumn,M,Climber,Switzerland,alpine guide ski instructor,5.0
+AMAD00313,AMAD,1973,Autumn,M,Climber,Switzerland,sculptor,8.0
+AMAD00313,AMAD,1973,Autumn,M,Climber,Switzerland,mason bricklayer,-1.0
+AMAD00313,AMAD,1973,Autumn,M,Climber,Switzerland,electrical engineer,7.0
+AMAD00313,AMAD,1973,Autumn,M,Leader,Switzerland,alpine guide,2.0
+AMAD00313,AMAD,1973,Autumn,M,Climber,Switzerland,mason bricklayer,7.0
+AMAD00314,AMAD,1973,Autumn,M,Climber,Germany,firefighter,1.0
+AMAD00314,AMAD,1973,Autumn,F,Climber,Germany,unknown,11.0
+AMAD00314,AMAD,1973,Autumn,M,Climber,Germany,salesman,7.0
+AMAD00314,AMAD,1973,Autumn,M,Climber,Germany,electronics engineer,10.0
+AMAD00314,AMAD,1973,Autumn,M,H-A Worker,Nepal,unknown,1.0
+AMAD00315,AMAD,1973,Autumn,F,Climber,Poland,economist,-5.0
+AMAD00315,AMAD,1973,Autumn,M,Climber,USA,gardener,2.0
+AMAD00315,AMAD,1973,Autumn,M,Climber,USA,computer expert,6.0
+AMAD00315,AMAD,1973,Autumn,M,Climber,USA,contractor,12.0
+AMAD00315,AMAD,1973,Autumn,M,Climber,USA,bio-medical engineer,11.0
+AMAD00315,AMAD,1973,Autumn,M,Climber,Poland,enginner,11.0
+AMAD00315,AMAD,1973,Autumn,M,H-A Worker,Nepal,unknown,0.0
+AMAD00318,AMAD,1973,Autumn,F,Climber,UK,logistics manager,5.0
+AMAD00318,AMAD,1973,Autumn,M,Climber,UK,company director,11.0
+AMAD00318,AMAD,1973,Autumn,M,Climber,UK,student,-9.0
+AMAD00318,AMAD,1973,Autumn,F,Climber,UK,alpine instructor,4.0
+AMAD00318,AMAD,1973,Autumn,M,Climber,UK,computer consultant,10.0
+AMAD00318,AMAD,1973,Autumn,M,Climber,USA,computer system owner,3.0
+AMAD00318,AMAD,1973,Autumn,M,H-A Worker,Nepal,unknown,3.0
+AMAD00319,AMAD,1973,Autumn,M,Leader,Canada,alpine guide,4.0
+AMAD00320,AMAD,1973,Autumn,M,Leader,UK,alpine guide,-3.0
+AMAD99304,AMAD,1974,Autumn,M,Sirdar,Nepal,unknown,4.0
+AMAD00101,AMAD,1978,Spring,M,Climber,New Zealand,computer consultant,7.0
+AMAD00101,AMAD,1978,Spring,M,Leader,New Zealand,electronics engineer,11.0
+AMAD00101,AMAD,1978,Spring,M,Climber,New Zealand,alpine guide,7.0
+AMAD00101,AMAD,1978,Spring,M,Climber,New Zealand,alpine guide,12.0
+AMAD00101,AMAD,1978,Spring,F,Climber,New Zealand,architect,9.0
+AMAD00102,AMAD,1978,Spring,M,Climber,Russia,installs car alarms,4.0
+AMAD00103,AMAD,1978,Spring,M,Climber,Austria,alpine guide,12.0
+AMAD00104,AMAD,1978,Spring,M,Leader,USA,alpine guide,12.0
+AMAD00104,AMAD,1978,Spring,M,Climber,USA,student,1.0
+AMAD00104,AMAD,1978,Spring,M,Climber,USA,student,3.0
+AMAD00104,AMAD,1978,Spring,M,Climber,USA,alpinist guide,6.0
+AMAD00107,AMAD,1978,Spring,M,Leader,Italy,alpine guide,9.0
+AMAD00108,AMAD,1978,Spring,M,Climber,USA,medical student,6.0
+AMAD00109,AMAD,1978,Spring,M,Climber,USA,alpine guide instructor,8.0
+AMAD00109,AMAD,1978,Spring,F,Climber,USA,outdoor educator,9.0
+AMAD00109,AMAD,1978,Spring,M,Climber,USA,medical student,11.0
+AMAD00110,AMAD,1978,Spring,M,Climber,USA,alpine shop,9.0
+AMAD00110,AMAD,1978,Spring,M,Climber,USA,alpine guide,6.0
+AMAD00110,AMAD,1978,Spring,M,Climber,USA,alpine guide,11.0
+AMAD00110,AMAD,1978,Spring,M,Climber,USA,photographer,6.0
+AMAD00110,AMAD,1978,Spring,M,Climber,USA,alpine guide,12.0
+AMAD00110,AMAD,1978,Spring,M,Climber,USA,speaker alpinist,10.0
+AMAD00111,AMAD,1978,Spring,M,Climber,Mexico,student of computer engineering,1.0
+AMAD00111,AMAD,1978,Spring,M,Climber,Mexico,law student,1.0
+AMAD00111,AMAD,1978,Spring,M,Leader,Mexico,mechanical engineering university student,0.0
+AMAD00111,AMAD,1978,Spring,F,Climber,Mexico,graphic designer,8.0
+AMAD00111,AMAD,1978,Spring,M,Climber,Mexico,architect,3.0
+AMAD99304,AMAD,1978,Autumn,M,Climber,Norway,economist,12.0
+AMAD99304,AMAD,1978,Autumn,M,Climber,Norway,economist,11.0
+AMAD99304,AMAD,1978,Autumn,M,Leader,Norway,construction engineer,12.0
+AMAD99319,AMAD,1978,Autumn,M,Climber,USA,assistant manger of climbing gym,3.0
+AMAD99319,AMAD,1978,Autumn,M,Climber,USA,golf instructor,8.0
+AMAD99301,AMAD,1980,Autumn,M,Climber,USA,student,10.0
+AMAD99301,AMAD,1980,Autumn,M,Climber,UK,physician,7.0
+AMAD99301,AMAD,1980,Autumn,M,Climber,UK,commercial manager,11.0
+AMAD99301,AMAD,1980,Autumn,M,Climber,UK,geotechnical technician,10.0
+AMAD99301,AMAD,1980,Autumn,M,H-A Worker,Nepal,unknown,6.0
+AMAD99301,AMAD,1980,Autumn,M,H-A Worker,Nepal,unknown,9.0
+AMAD99303,AMAD,1980,Autumn,M,Climber,Spain,car dealer,9.0
+AMAD99303,AMAD,1980,Autumn,M,Climber,Spain,veterinarian,11.0
+AMAD99305,AMAD,1980,Autumn,M,Leader,New Zealand,alpine guide,11.0
+AMAD99305,AMAD,1980,Autumn,F,Climber,New Zealand,manager of outdoor-equipment store,6.0
+AMAD99305,AMAD,1980,Autumn,M,Climber,New Zealand,alpine guide,4.0
+AMAD99306,AMAD,1980,Autumn,M,Climber,USA,environmental consultant,10.0
+AMAD99307,AMAD,1980,Autumn,M,Climber,USA,financial advisor,8.0
+AMAD99307,AMAD,1980,Autumn,M,Climber,USA,alpine guide,10.0
+AMAD99307,AMAD,1980,Autumn,M,Climber,USA,student,7.0
+AMAD99307,AMAD,1980,Autumn,M,Leader,USA,expedition leader alpine trekking guide,7.0
+AMAD99308,AMAD,1980,Autumn,M,Climber,Netherlands,furniture wholesaler,8.0
+AMAD99310,AMAD,1980,Autumn,F,Climber,Switzerland,draftswoman,8.0
+AMAD99310,AMAD,1980,Autumn,M,Climber,Switzerland,engineer,11.0
+AMAD99310,AMAD,1980,Autumn,M,Climber,Switzerland,alpine guide,12.0
+AMAD99310,AMAD,1980,Autumn,M,Climber,Switzerland,alpine guide,2.0
+AMAD99310,AMAD,1980,Autumn,M,Climber,Switzerland,furniture maker,11.0
+AMAD99311,AMAD,1980,Autumn,M,Climber,Germany,carpenter,6.0
+AMAD99312,AMAD,1980,Autumn,M,Climber,UK,unknown,11.0
+AMAD99312,AMAD,1980,Autumn,M,H-A Worker,Nepal,unknown,12.0
+AMAD99313,AMAD,1980,Autumn,M,Climber,Sweden,businessman,9.0
+AMAD99313,AMAD,1980,Autumn,M,Climber,Sweden,alpine guide,10.0
+AMAD99313,AMAD,1980,Autumn,M,Climber,UK,surveyor,8.0
+AMAD99313,AMAD,1980,Autumn,M,Climber,Sweden,photographer,8.0
+AMAD99313,AMAD,1980,Autumn,M,Climber,New Zealand,screen printer,11.0
+AMAD99314,AMAD,1980,Autumn,M,H-A Worker,Nepal,unknown,10.0
+AMAD99315,AMAD,1980,Autumn,M,Climber,USA,ski patrol member carpenter,10.0
+AMAD99316,AMAD,1980,Autumn,M,Climber,France,alpine guide,9.0
+AMAD99316,AMAD,1980,Autumn,M,Climber,France,engineer,9.0
+AMAD99316,AMAD,1980,Autumn,M,Climber,France,computer technician,12.0
+AMAD99316,AMAD,1980,Autumn,M,Climber,France,computer technician,10.0
+AMAD99317,AMAD,1980,Autumn,M,Climber,Switzerland,alpine guide,9.0
+AMAD99317,AMAD,1980,Autumn,F,Climber,Switzerland,pharmacist,9.0
+AMAD99401,AMAD,1980,Winter,M,Climber,Australia,sign writer,7.0
+AMAD99402,AMAD,1980,Winter,M,Climber,USA,alpine guide,12.0
+AMAD99402,AMAD,1980,Winter,M,Climber,Yugoslavia,businessman,11.0
+AMAD99402,AMAD,1980,Winter,F,Climber,USA,gardner landscaper,12.0
+AMAD99402,AMAD,1980,Winter,M,Climber,UK,worker,9.0
+AMAD99402,AMAD,1980,Winter,M,Climber,USA,medical student,9.0
+AMAD99402,AMAD,1980,Winter,M,Climber,USA,alpinist,8.0
+AMAD99402,AMAD,1980,Winter,M,H-A Worker,Nepal,unknown,3.0
+AMAD99403,AMAD,1980,Winter,M,Climber,Australia,alpine guide,10.0
+AMAD99404,AMAD,1980,Winter,M,Climber,USA,project coordinator to establish greenbelt from yukon to yellowstone,11.0
+AMAD99404,AMAD,1980,Winter,M,Climber,USA,alpine guide,4.0
+AMAD99405,AMAD,1980,Winter,M,Climber,USA,alpine guide instructor,6.0
+AMAD99405,AMAD,1980,Winter,M,Member,USA,national park ranger,8.0
+AMAD98401,AMAD,1982,Winter,M,Climber,USA,ski instructor climbing guide instructor,7.0
+AMAD98402,AMAD,1982,Winter,M,Leader,Australia,geologist and mountain guide,12.0
+AMAD98402,AMAD,1982,Winter,M,Climber,Australia,consultant outdoor activities,11.0
+AMAD98301,AMAD,1983,Autumn,M,Climber,Ukraine,alpinist,12.0
+AMAD98301,AMAD,1983,Autumn,M,Climber,Ukraine,alpinist,12.0
+AMAD98302,AMAD,1983,Autumn,M,Climber,Czech Republic,student,8.0
+AMAD98303,AMAD,1983,Autumn,M,Climber,Russia,ski instructor,9.0
+AMAD98303,AMAD,1983,Autumn,M,Climber,Russia,alpine instructor of boys,9.0
+AMAD98307,AMAD,1983,Autumn,M,Climber,USA,student,5.0
+AMAD98307,AMAD,1983,Autumn,M,Climber,USA,cook,6.0
+AMAD98307,AMAD,1983,Autumn,M,H-A Worker,Nepal,unknown,6.0
+AMAD98311,AMAD,1983,Autumn,M,Climber,Canada,training to be alpine guide,7.0
+AMAD98311,AMAD,1983,Autumn,M,Climber,Canada,university student of resource based tourism,5.0
+AMAD98311,AMAD,1983,Autumn,M,Climber,USA,alpine guide student,9.0
+AMAD98312,AMAD,1983,Autumn,M,Climber,Italy,sports shop staff,12.0
+AMAD98313,AMAD,1983,Autumn,F,Climber,France,mountain hut manager,11.0
+AMAD98313,AMAD,1983,Autumn,M,Climber,Switzerland,unknown,9.0
+AMAD98318,AMAD,1983,Autumn,M,Climber,USA,shoe cobbler,12.0
+AMAD98318,AMAD,1983,Autumn,M,Climber,USA,national park ranger,12.0
+AMAD98318,AMAD,1983,Autumn,F,Climber,USA,alpine guide,8.0
+AMAD98318,AMAD,1983,Autumn,M,Leader,USA,alpine guide,10.0
+AMAD98320,AMAD,1983,Autumn,M,Climber,France,alpine guide rescuer,8.0
+AMAD98323,AMAD,1983,Autumn,M,Climber,Sweden,college teacher social science and history,12.0
+AMAD98323,AMAD,1983,Autumn,M,Climber,Sweden,electronics engineer,12.0
+AMAD98323,AMAD,1983,Autumn,M,Climber,Poland,student,8.0
+AMAD98325,AMAD,1983,Autumn,M,Climber,Iceland,technician,8.0
+AMAD98325,AMAD,1983,Autumn,M,Climber,Iceland,trades school student,8.0
+AMAD98325,AMAD,1983,Autumn,M,Climber,Iceland,mechanic,8.0
+AMAD98325,AMAD,1983,Autumn,M,Climber,Iceland,mechanic,12.0
+AMAD98326,AMAD,1983,Autumn,M,Climber,Austria,computer software,12.0
+AMAD98328,AMAD,1983,Autumn,M,H-A Worker,Nepal,unknown,9.0
+AMAD58301,AMAD,1984,Autumn,M,Climber,Italy,unknown,101.0
+AMAD23320,AMAD,2023,Autumn,M,Climber,USA,self-employed,-1.0
+ANN170102,ANN1,1953,Spring,M,H-A Worker,Nepal,unknown,5.0
+ANN179102,ANN1,1954,Spring,M,H-A Worker,Nepal,unknown,5.0
+ANN181101,ANN1,1954,Spring,M,H-A Worker,Nepal,unknown,5.0
+ANN195101,ANN1,1955,Spring,M,H-A Worker,Nepal,unknown,-9.0
+ANN100303,ANN1,1956,Autumn,M,Climber,France,alpine guide,-17.0
+ANN100303,ANN1,1956,Autumn,M,Climber,France,alpine guide,-8.0
+ANN100303,ANN1,1956,Autumn,M,Climber,France,glacial researcher,-13.0
+ANN194401,ANN1,1959,Winter,M,H-A Worker,Nepal,unknown,-3.0
+ANN184304,ANN1,1963,Autumn,M,Climber,Spain,alpine instructor,2.0
+ANN184304,ANN1,1963,Autumn,F,Member,Spain,teacher,3.0
+ANN184304,ANN1,1963,Autumn,F,Member,Spain,primary school teacher,2.0
+ANN191306,ANN1,1964,Autumn,M,Climber,Poland,businessman,6.0
+ANN186101,ANN1,1965,Spring,M,Climber,Bulgaria,student of physical education,8.0
+ANN186101,ANN1,1965,Spring,M,Climber,Bulgaria,student of history sofia university,6.0
+ANN199102,ANN1,1970,Spring,M,Member,Spain,economist,12.0
+ANN100301,ANN1,1974,Autumn,M,Climber,France,physician,2.0
+ANN100301,ANN1,1974,Autumn,M,Climber,France,alpine guide,4.0
+ANN100301,ANN1,1974,Autumn,M,Climber,France,alpine guide,1.0
+ANN100302,ANN1,1974,Autumn,F,Climber,Japan,office worker government employee,11.0
+ANN100302,ANN1,1974,Autumn,M,Climber,Japan,office worker,9.0
+ANN100302,ANN1,1974,Autumn,F,Climber,Japan,shop saleswoman,3.0
+ANN100302,ANN1,1974,Autumn,M,Climber,Japan,office worker in paint company,5.0
+ANN100102,ANN1,1977,Spring,M,Climber,Spain,marketing manager,12.0
+ANN100103,ANN1,1977,Spring,M,Climber,France,sergeant-major in army,11.0
+ANN100103,ANN1,1977,Spring,M,Deputy Leader,France,alpine guide in army lieutenant,8.0
+ANN100103,ANN1,1977,Spring,M,Climber,France,alpine guide,9.0
+ANN100103,ANN1,1977,Spring,M,Climber,France,army corporal,6.0
+ANN100103,ANN1,1977,Spring,M,Climber,France,army alpine guide sergeant,4.0
+ANN100104,ANN1,1977,Spring,M,Climber,Finland,alpinist,9.0
+ANN100101,ANN1,1978,Spring,M,Co-Leader,Spain,mechanic,10.0
+ANN100101,ANN1,1978,Spring,M,Co-Leader,Spain,alpinist,11.0
+ANN100102,ANN1,1978,Spring,M,Climber,Spain,plumber,8.0
+ANN100102,ANN1,1978,Spring,M,Climber,Spain,pilot,11.0
+ANN199101,ANN1,1981,Spring,M,Climber,Spain,cameraman,5.0
+ANN199101,ANN1,1981,Spring,M,Climber,Spain,student alpine guide,11.0
+ANN199101,ANN1,1981,Spring,M,Climber,Spain,student,7.0
+ANN199101,ANN1,1981,Spring,M,Climber,Spain,sound technician,6.0
+ANN199101,ANN1,1981,Spring,M,Climber,Spain,firefighter,11.0
+ANN199101,ANN1,1981,Spring,M,Climber,S Korea,television cameraman,12.0
+ANN199101,ANN1,1981,Spring,M,H-A Worker,Nepal,unknown,9.0
+ANN199102,ANN1,1981,Spring,F,Climber,Spain,psychologist,12.0
+ANN199102,ANN1,1981,Spring,F,Climber,Spain,physical education teacher,12.0
+ANN199102,ANN1,1981,Spring,F,Climber,Spain,computer operator,10.0
+ANN199102,ANN1,1981,Spring,M,Climber,Spain,sound engineer,10.0
+ANN199102,ANN1,1981,Spring,M,Climber,Spain,physical education teacher,10.0
+ANN199102,ANN1,1981,Spring,M,Climber,Spain,physical education teacher,12.0
+ANN198301,ANN1,1983,Autumn,M,Climber,USA,computer consultant,12.0
+ANN283301,ANN2,1969,Autumn,M,Sirdar,Nepal,unknown,9.0
+ANN250201,ANN2,1984,Summer,M,Leader,UK,unknown,86.0
+ANN398301,ANN3,1959,Autumn,M,H-A Worker,Nepal,unknown,5.0
+ANN300301,ANN3,1969,Autumn,M,Sirdar,Nepal,unknown,7.0
+ANN300301,ANN3,1973,Autumn,M,Climber,Slovenia,machine technician,6.0
+ANN300301,ANN3,1973,Autumn,M,Climber,Slovenia,salesman in climbing-equipment,3.0
+ANN300301,ANN3,1973,Autumn,M,Climber,Slovenia,electrical linesman,-1.0
+ANN300301,ANN3,1973,Autumn,M,Climber,Slovenia,engineer,11.0
+ANN300301,ANN3,1973,Autumn,M,Climber,Slovenia,software engineer,4.0
+ANN300301,ANN3,1973,Autumn,M,Climber,Slovenia,forestry student,-3.0
+ANN300301,ANN3,1973,Autumn,M,Leader,Slovenia,journalist and photographer,9.0
+ANN300301,ANN3,1973,Autumn,M,Climber,Slovenia,technical school student of machinery,-1.0
+ANN300301,ANN3,1973,Autumn,M,Climber,Slovenia,technical school student of electricity,-4.0
+ANN491101,ANN4,1938,Spring,M,H-A Worker,Nepal,unknown,-27.0
+ANN483301,ANN4,1954,Autumn,M,Sirdar,Nepal,unknown,4.0
+ANN487301,ANN4,1954,Autumn,M,H-A Worker,Nepal,unknown,-4.0
+ANN492304,ANN4,1954,Autumn,M,H-A Worker,Nepal,unknown,-17.0
+ANN491301,ANN4,1960,Autumn,M,Sirdar,Nepal,unknown,-2.0
+ANN481301,ANN4,1962,Autumn,M,Climber,Italy,office clerk,2.0
+ANN481301,ANN4,1962,Autumn,M,Climber,Italy,student,2.0
+ANN481301,ANN4,1962,Autumn,M,Climber,Italy,alpine guide,12.0
+ANN481301,ANN4,1962,Autumn,M,Climber,Italy,office worker,12.0
+ANN481301,ANN4,1962,Autumn,M,Climber,Italy,alpine guide,6.0
+ANN481301,ANN4,1963,Autumn,M,Exp Doctor,Italy,physician,9.0
+ANN498301,ANN4,1983,Autumn,M,Climber,Czech Republic,university student,5.0
+ANN450201,ANN4,1999,Summer,M,Leader,UK,unknown,101.0
+ANN450201,ANN4,1999,Summer,M,Scientist,UK,botanist,100.0
+ANN453101,ANN4,1999,Spring,M,Leader,UK,unknown,97.0
+ANN453101,ANN4,1999,Spring,M,Member,UK,unknown,97.0
+ANNE00301,ANNE,1957,Autumn,M,Climber,France,alpine guide,-7.0
+ANNE00301,ANNE,1957,Autumn,M,Climber,France,alpine guide,-16.0
+ANNE00301,ANNE,1957,Autumn,M,Climber,France,glacial researcher,-12.0
+ANNE84301,ANNE,1962,Autumn,M,Climber,Switzerland,alpine guide,1.0
+ANNE84301,ANNE,1962,Autumn,M,Exp Doctor,Switzerland,physician alpine guide member of swiss air mtn rescue,9.0
+ANNE84301,ANNE,1962,Autumn,M,Climber,Switzerland,alpine guide,3.0
+ANNM84302,ANNM,1962,Autumn,M,Climber,Switzerland,alpine guide,1.0
+ANNM84302,ANNM,1962,Autumn,M,Exp Doctor,Switzerland,physician alpine guide member of swiss air mtn rescue,9.0
+ANNM84302,ANNM,1962,Autumn,M,Climber,Switzerland,alpine guide,3.0
+ANNS91302,ANNS,1960,Autumn,F,Climber,USA,application enginner,10.0
+APIM83401,APIM,1954,Winter,M,Climber,Poland,artist painter,12.0
+APIM53101,APIM,1979,Spring,M,Scientist,UK,unknown,93.0
+APIM54101,APIM,1984,Spring,M,Leader,Italy,unknown,101.0
+BARU94101,BARU,1954,Spring,M,Climber,Czechoslovakia,worker on tall buildings,-13.0
+BARU00307,BARU,1955,Autumn,M,Climber,Italy,alpine guide,6.0
+BARU99302,BARU,1955,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+BARU99303,BARU,1955,Autumn,M,Exp Doctor,Germany,gynecologist,-5.0
+BARU00101,BARU,1956,Spring,M,Climber,Germany,clerk,-6.0
+BARU98305,BARU,1959,Autumn,M,H-A Worker,Nepal,unknown,-10.0
+BARU98102,BARU,1960,Spring,M,Climber,Switzerland,mountaineering trekking agency staff,-12.0
+BARU84302,BARU,1962,Autumn,F,Member,Spain,primary school teacher,1.0
+BARU93302,BARU,1964,Autumn,M,Climber,Germany,roofer,-4.0
+BARU93302,BARU,1964,Autumn,M,Climber,Germany,manufacturing engineer,-2.0
+BARU80302,BARU,1965,Autumn,M,Climber,USA,ski instructor,9.0
+BARU88301,BARU,1965,Autumn,M,Exp Doctor,W Germany,physician,12.0
+BARU00306,BARU,1970,Autumn,M,H-A Worker,Nepal,unknown,-8.0
+BARU00306,BARU,1970,Autumn,M,H-A Worker,Nepal,unknown,8.0
+BARU00301,BARU,1972,Autumn,M,Leader,Japan,pharmacist,9.0
+BARU00301,BARU,1972,Autumn,M,Climber,Japan,plastics factory employee,4.0
+BARU00301,BARU,1972,Autumn,M,Climber,Japan,employee of fukui prefecture government,9.0
+BARU00304,BARU,1972,Autumn,M,Climber,UK,raf squardon leader personnel policy,7.0
+BARU00304,BARU,1972,Autumn,M,Climber,UK,raf instructor of helicopter crews,5.0
+BARU00304,BARU,1972,Autumn,F,Climber,UK,senior staff officer at joint service headquarters,4.0
+BARU00304,BARU,1972,Autumn,F,Exp Doctor,UK,emergency physician,3.0
+BARU00305,BARU,1972,Autumn,M,Climber,Slovakia,information technology consultant,1.0
+BARU00305,BARU,1972,Autumn,M,Climber,Slovakia,worker in tire manufacturing company,9.0
+BARU00305,BARU,1972,Autumn,F,Climber,Slovakia,accountant,1.0
+BARU00306,BARU,1972,Autumn,M,Climber,Sweden,photographer,12.0
+BARU00306,BARU,1972,Autumn,F,Climber,Sweden,economics student,-1.0
+BARU00306,BARU,1972,Autumn,F,Climber,Sweden,graphic designer,3.0
+BARU00306,BARU,1972,Autumn,F,Climber,Sweden,underwear designer and producer,11.0
+BARU00306,BARU,1972,Autumn,F,Exp Doctor,Sweden,physician,6.0
+BARU00306,BARU,1972,Autumn,F,Climber,Sweden,travel guide,7.0
+BARU00306,BARU,1972,Autumn,F,Leader,Sweden,student of design designing gadgets websites exhibitions etc,2.0
+BARU00306,BARU,1972,Autumn,F,Climber,Sweden,travel agent,11.0
+BARU00306,BARU,1972,Autumn,M,Climber,Sweden,photographer,8.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,electrician,6.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,helicopter pilot,5.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,student,-6.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,furniture maker,5.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,electrician,2.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,postman,12.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,furniture maker,10.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,house painter,1.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,alpine guide,11.0
+BARU00307,BARU,1972,Autumn,M,Climber,Italy,locksmith,1.0
+BARU00307,BARU,1972,Autumn,M,Climber,Germany,student,-8.0
+BARU00101,BARU,1977,Spring,F,Exp Doctor,Germany,physician,9.0
+BARU00101,BARU,1977,Spring,M,Climber,Germany,engineer,11.0
+BARU00101,BARU,1977,Spring,M,Climber,Germany,engineer,12.0
+BARU00101,BARU,1977,Spring,M,Climber,Germany,physiotherapist,11.0
+BARU00102,BARU,1977,Spring,M,Climber,UK,commercial driver,10.0
+BARU00102,BARU,1977,Spring,M,Climber,UK,commerical driver,11.0
+BARU00102,BARU,1977,Spring,M,Climber,New Zealand,information technology consultant,8.0
+BARU00102,BARU,1977,Spring,M,H-A Worker,Nepal,unknown,9.0
+BARU00102,BARU,1977,Spring,M,H-A Worker,Nepal,unknown,-1.0
+BARU00103,BARU,1977,Spring,M,Deputy Leader,UK,alpine guide,6.0
+BARU00103,BARU,1977,Spring,M,Climber,UK,service director,10.0
+BARU00103,BARU,1977,Spring,M,Climber,USA,events coordinator,9.0
+BARU00103,BARU,1977,Spring,M,H-A Worker,Nepal,unknown,4.0
+BARU99301,BARU,1980,Autumn,F,Climber,France,sports teacher,5.0
+BARU99301,BARU,1980,Autumn,M,Climber,France,sports teacher,6.0
+BARU99302,BARU,1980,Autumn,M,Leader,USA,alpine guide,12.0
+BARU99302,BARU,1980,Autumn,M,Climber,UK,fitter,12.0
+BARU99304,BARU,1980,Autumn,M,Climber,France,computer engineer,4.0
+BARU99306,BARU,1980,Autumn,M,Climber,Italy,office staff of street-cleaning company,7.0
+BARU99308,BARU,1980,Autumn,F,Climber,France,student,0.0
+BARU99308,BARU,1980,Autumn,M,Climber,France,student radio broadcaster,4.0
+BARU99308,BARU,1980,Autumn,M,Climber,Pakistan,alpine guide,2.0
+BARU99308,BARU,1980,Autumn,F,Climber,France,student,0.0
+BARU99308,BARU,1980,Autumn,M,Climber,France,alpine guide,11.0
+BARU99308,BARU,1980,Autumn,F,Climber,France,alpinist,2.0
+BARU99308,BARU,1980,Autumn,F,Climber,France,skiing instructor,2.0
+BARU99310,BARU,1980,Autumn,M,Climber,Germany,student,12.0
+BARU99310,BARU,1980,Autumn,M,Climber,Germany,civil servant,12.0
+BARU98301,BARU,1983,Autumn,M,Climber,USA,professional skier,12.0
+BARU98301,BARU,1983,Autumn,F,Climber,USA,medical student,11.0
+BARU98302,BARU,1983,Autumn,M,H-A Worker,Nepal,unknown,12.0
+BARU98303,BARU,1983,Autumn,M,Climber,Austria,farmer,10.0
+BARU98303,BARU,1983,Autumn,M,Climber,Austria,dental technician,12.0
+BARU98304,BARU,1983,Autumn,M,Climber,Austria,student of communications writing media - not technical,6.0
+BARU98305,BARU,1983,Autumn,M,Climber,Belgium,sports store manager,12.0
+BHRI82301,BHRI,1970,Autumn,F,Member,Austria,office worker,11.0
+BHRI99201,BHRI,1981,Summer,F,Climber,Japan,office worker,11.0
+BHRI99201,BHRI,1981,Summer,M,Climber,Japan,university student,4.0
+BHRI99201,BHRI,1981,Summer,M,H-A Worker,Nepal,unknown,12.0
+BHRI98301,BHRI,1983,Autumn,M,Climber,Spain,supermarket manager,12.0
+BHUL64301,BHUL,1939,Autumn,M,Leader,UK,schoolmaster,11.0
+BHUL64301,BHUL,1939,Autumn,M,Climber,UK,master at clifton college bristol,9.0
+BHUL64301,BHUL,1939,Autumn,M,Climber,UK,engineer has been supervising construction of screw factory,1.0
+BHUL64301,BHUL,1939,Autumn,M,Climber,UK,physician maudsley hospital s institute of psychiatry,4.0
+BOKT91101,BOKT,1964,Spring,M,Climber,Yugoslavia,student,-1.0
+BOKT91101,BOKT,1964,Spring,M,Climber,Yugoslavia,geologist,-1.0
+BOKT91101,BOKT,1964,Spring,M,Climber,Yugoslavia,sports teacher,8.0
+CHAG89301,CHAG,1964,Autumn,M,Climber,UK,programmer,1.0
+CHAG89301,CHAG,1964,Autumn,M,Co-Leader,UK,writer,1.0
+CHAG89301,CHAG,1964,Autumn,M,Co-Leader,UK,alpine guide,4.0
+CHAM00101,CHAM,1974,Spring,M,Exp Doctor,UK,physician,7.0
+CHMN94301,CHMN,1959,Autumn,M,H-A Worker,Nepal,unknown,4.0
+CHMN00301,CHMN,1972,Autumn,M,Climber,Sweden,salesman of tele-communications devices,-1.0
+CHMN00301,CHMN,1972,Autumn,M,Leader,UK,electrician,5.0
+CHMN00301,CHMN,1972,Autumn,M,Climber,UK,architectural technician,-3.0
+CHMN00301,CHMN,1972,Autumn,M,Climber,UK,music sound engineer,-2.0
+CHOB79301,CHOB,1949,Autumn,M,Leader,UK,agricultural scientist,6.0
+CHOL00301,CHOL,1971,Autumn,M,Climber,USA,alpine guide,1.0
+CHOL00301,CHOL,1971,Autumn,M,Leader,USA,student of mechanical engineering,-9.0
+CHOL00301,CHOL,1971,Autumn,M,Climber,USA,mechanical engineer,1.0
+CHOL00301,CHOL,1971,Autumn,M,Climber,USA,undergraduate student,-8.0
+CHOP99301,CHOP,1980,Autumn,M,Leader,Germany,civil engineer,7.0
+CHOY78302,CHOY,1938,Autumn,M,Leader,W Germany,natural science journalist,-3.0
+CHOY93316,CHOY,1949,Autumn,M,Leader,S Korea,shoe material company owner,-12.0
+CHOY82101,CHOY,1954,Spring,M,Sirdar,Nepal,unknown,1.0
+CHOY89302,CHOY,1954,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+CHOY91303,CHOY,1954,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+CHOY92106,CHOY,1954,Spring,M,H-A Worker,Nepal,unknown,-14.0
+CHOY94106,CHOY,1954,Spring,F,Climber,Italy,secretary,-11.0
+CHOY00321,CHOY,1955,Autumn,M,H-A Worker,Nepal,unknown,-18.0
+CHOY95106,CHOY,1955,Spring,M,Climber,Austria,cabin dispatcher in austrian airlines,-14.0
+CHOY95303,CHOY,1955,Autumn,M,H-A Worker,Nepal,high-altitude porter,-8.0
+CHOY96313,CHOY,1955,Autumn,M,Climber,Andorra,commercial,-4.0
+CHOY97101,CHOY,1955,Spring,M,Leader,Armenia,president of computer programming business,-9.0
+CHOY97103,CHOY,1955,Spring,M,H-A Worker,Nepal,unknown,-4.0
+CHOY97110,CHOY,1955,Spring,M,Climber,Austria,unknown,-1.0
+CHOY98307,CHOY,1955,Autumn,M,H-A Worker,Nepal,unknown,-19.0
+CHOY98314,CHOY,1955,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+CHOY98314,CHOY,1955,Autumn,M,H-A Worker,Nepal,unknown,-16.0
+CHOY99111,CHOY,1955,Spring,M,Exp Doctor,Chile,physician,-6.0
+CHOY99318,CHOY,1955,Autumn,M,H-A Worker,Nepal,high-altitude porter,-8.0
+CHOY85102,CHOY,1956,Spring,M,Climber,China,unknown,-8.0
+CHOY85102,CHOY,1956,Spring,M,Climber,China,unknown,-9.0
+CHOY99319,CHOY,1956,Autumn,M,H-A Worker,Nepal,unknown,-10.0
+CHOY99319,CHOY,1956,Autumn,M,H-A Worker,Nepal,unknown,-6.0
+CHOY99319,CHOY,1956,Autumn,M,H-A Worker,Nepal,unknown,-14.0
+CHOY99319,CHOY,1956,Autumn,M,H-A Worker,Nepal,unknown,-9.0
+CHOY00302,CHOY,1959,Autumn,M,H-A Worker,Nepal,unknown,-10.0
+CHOY00313,CHOY,1959,Autumn,M,H-A Worker,Nepal,unknown,-2.0
+CHOY94301,CHOY,1959,Autumn,M,H-A Worker,Nepal,unknown,-1.0
+CHOY94301,CHOY,1959,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+CHOY97117,CHOY,1959,Spring,M,Leader,S Korea,clerk,5.0
+CHOY97117,CHOY,1959,Spring,M,Climber,S Korea,office worker,-13.0
+CHOY97117,CHOY,1959,Spring,M,Climber,S Korea,unknown,-3.0
+CHOY00112,CHOY,1960,Spring,M,H-A Worker,Nepal,unknown,-11.0
+CHOY91106,CHOY,1960,Spring,M,Climber,Switzerland,unknown,-8.0
+CHOY91303,CHOY,1960,Autumn,M,Exp Doctor,France,physician,4.0
+CHOY98315,CHOY,1960,Autumn,M,H-A Worker,Nepal,unknown,-5.0
+CHOY98315,CHOY,1960,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+CHOY98315,CHOY,1960,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+CHOY99311,CHOY,1960,Autumn,M,H-A Worker,Nepal,unknown,-8.0
+CHOY99311,CHOY,1960,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+CHOY89101,CHOY,1963,Spring,M,Sirdar,Nepal,unknown,8.0
+CHOY92106,CHOY,1964,Spring,M,Climber,Switzerland,alpine guide,7.0
+CHOY96106,CHOY,1964,Spring,M,Climber,New Zealand,bulder alpine guide,-1.0
+CHOY96108,CHOY,1964,Spring,F,Climber,Switzerland,journalist,10.0
+CHOY96302,CHOY,1965,Autumn,M,Climber,S Korea,sports shop owner,2.0
+CHOY96315,CHOY,1965,Autumn,M,Climber,Czech Republic,bank official,-1.0
+CHOY97314,CHOY,1965,Autumn,M,Climber,Spain,funcionario rescue expert,7.0
+CHOY97321,CHOY,1965,Autumn,M,Climber,Spain,teacher,3.0
+CHOY98320,CHOY,1965,Autumn,M,Climber,Spain,geography professor,3.0
+CHOY82302,CHOY,1969,Autumn,F,Climber,W Germany,university student of physics,10.0
+CHOY90101,CHOY,1969,Spring,M,Climber,Japan,unknown,12.0
+CHOY90101,CHOY,1969,Spring,M,Climber,Japan,unknown,5.0
+CHOY90101,CHOY,1969,Spring,M,Climber,Japan,unknown,1.0
+CHOY00328,CHOY,1970,Autumn,M,H-A Worker,Nepal,unknown,6.0
+CHOY88305,CHOY,1970,Autumn,F,Member,Poland,unknown,10.0
+CHOY93106,CHOY,1970,Spring,M,Climber,Italy,alpine guide,10.0
+CHOY93106,CHOY,1970,Spring,M,Climber,Italy,policeman,6.0
+CHOY94104,CHOY,1970,Spring,F,Climber,Switzerland,medical secretary,4.0
+CHOY95309,CHOY,1970,Autumn,M,Climber,USA,businessman,10.0
+CHOY00315,CHOY,1971,Autumn,M,Leader,UK,writer,5.0
+CHOY00315,CHOY,1971,Autumn,M,Climber,UK,photographer,11.0
+CHOY00315,CHOY,1971,Autumn,M,Climber,Australia,cafe owner,9.0
+CHOY00316,CHOY,1971,Autumn,M,Climber,Italy,physics researcher,12.0
+CHOY00316,CHOY,1971,Autumn,M,Climber,Italy,graphic designer,9.0
+CHOY00316,CHOY,1971,Autumn,F,Climber,Italy,student,-1.0
+CHOY00316,CHOY,1971,Autumn,M,Climber,Italy,physics researcher,0.0
+CHOY00316,CHOY,1971,Autumn,M,Climber,Italy,engineering researcher,2.0
+CHOY00316,CHOY,1971,Autumn,M,Climber,Italy,journalist,5.0
+CHOY00316,CHOY,1971,Autumn,M,Climber,Italy,airplane pilot,6.0
+CHOY00316,CHOY,1971,Autumn,M,Climber,France,computer engineer,2.0
+CHOY00316,CHOY,1971,Autumn,M,Climber,Italy,geologist,10.0
+CHOY00316,CHOY,1971,Autumn,M,Climber,Italy,journalist,11.0
+CHOY00317,CHOY,1971,Autumn,M,Climber,Spain,petroleum refinery mechanic,6.0
+CHOY00317,CHOY,1971,Autumn,M,Climber,Spain,laboratory technician,8.0
+CHOY00318,CHOY,1971,Autumn,M,Leader,Czech Republic,surveying engineer,2.0
+CHOY00318,CHOY,1971,Autumn,M,Exp Doctor,Czech Republic,surgeon,11.0
+CHOY00318,CHOY,1971,Autumn,M,Climber,USA,furniture export-import business,12.0
+CHOY00318,CHOY,1971,Autumn,M,Climber,Czech Republic,aircraft engineer,12.0
+CHOY00318,CHOY,1971,Autumn,M,Climber,Czech Republic,roofing technician,6.0
+CHOY00320,CHOY,1971,Autumn,F,Climber,France,photographer,8.0
+CHOY00322,CHOY,1971,Autumn,M,Climber,USA,electrical engineer,12.0
+CHOY00322,CHOY,1971,Autumn,M,Climber,France,student,-5.0
+CHOY00322,CHOY,1971,Autumn,M,Climber,France,trekking guide,3.0
+CHOY00322,CHOY,1971,Autumn,F,Climber,USA,fitness instructor,12.0
+CHOY00322,CHOY,1971,Autumn,M,Climber,France,student,-8.0
+CHOY00322,CHOY,1971,Autumn,M,Climber,USA,electrical engineer,10.0
+CHOY00322,CHOY,1971,Autumn,M,H-A Worker,Nepal,unknown,0.0
+CHOY00322,CHOY,1971,Autumn,M,H-A Worker,Nepal,unknown,0.0
+CHOY00323,CHOY,1971,Autumn,M,Climber,Poland,worker,11.0
+CHOY00323,CHOY,1971,Autumn,M,Climber,Poland,businessman,12.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,Canada,investor,11.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,USA,aircraft mechanic,6.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,UK,bar owner,1.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,USA,bartender,-3.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,USA,physicist,3.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,USA,member of sierra college faculty,5.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,France,phd student,-1.0
+CHOY00324,CHOY,1971,Autumn,M,Leader,USA,housebuilder,11.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,USA,medical student,-1.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,USA,bartender,6.0
+CHOY00324,CHOY,1971,Autumn,M,Co-Leader,USA,travel consultant,1.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,France,engineer,7.0
+CHOY00324,CHOY,1971,Autumn,M,Climber,UK,scuba-diving instrictor,7.0
+CHOY00324,CHOY,1971,Autumn,M,H-A Worker,Nepal,unknown,10.0
+CHOY00325,CHOY,1971,Autumn,M,Climber,Italy,theater director and producer,5.0
+CHOY00325,CHOY,1971,Autumn,M,Climber,Italy,ski instructor,-6.0
+CHOY00326,CHOY,1971,Autumn,F,Climber,Mexico,nutritionist,5.0
+CHOY00326,CHOY,1971,Autumn,M,Climber,USA,technician on oil tankers ships,11.0
+CHOY00326,CHOY,1971,Autumn,F,Climber,France,restaurant cashier,10.0
+CHOY00326,CHOY,1971,Autumn,M,H-A Worker,Nepal,unknown,-2.0
+CHOY00326,CHOY,1971,Autumn,M,H-A Worker,Nepal,unknown,0.0
+CHOY00326,CHOY,1971,Autumn,M,H-A Worker,Nepal,unknown,-1.0
+CHOY00327,CHOY,1971,Autumn,M,Leader,France,alpine guide,9.0
+CHOY00327,CHOY,1971,Autumn,M,Climber,Italy,alpine guide,10.0
+CHOY00328,CHOY,1971,Autumn,F,Climber,Spain,financial analyst,4.0
+CHOY00328,CHOY,1971,Autumn,M,Leader,Spain,businessman,6.0
+CHOY00330,CHOY,1971,Autumn,M,Climber,Spain,university student,-7.0
+CHOY00330,CHOY,1971,Autumn,M,Climber,Spain,hospital orderly,7.0
+CHOY00330,CHOY,1971,Autumn,M,Climber,Spain,environmental technician,3.0
+CHOY00330,CHOY,1971,Autumn,M,Leader,Spain,firefighter,9.0
+CHOY00301,CHOY,1972,Autumn,F,Climber,USA,alpine guide,6.0
+CHOY00301,CHOY,1972,Autumn,M,Climber,USA,venture capitalist,2.0
+CHOY00301,CHOY,1972,Autumn,M,Leader,USA,alpine guide,-2.0
+CHOY00301,CHOY,1972,Autumn,M,Climber,USA,geologist,5.0
+CHOY00301,CHOY,1972,Autumn,M,H-A Worker,Nepal,unknown,10.0
+CHOY00301,CHOY,1972,Autumn,M,H-A Worker,Nepal,unknown,-8.0
+CHOY00303,CHOY,1972,Autumn,M,Climber,S Korea,fisherman,2.0
+CHOY00303,CHOY,1972,Autumn,M,Climber,S Korea,fisherman,9.0
+CHOY00303,CHOY,1972,Autumn,M,Climber,S Korea,fisherman,9.0
+CHOY00303,CHOY,1972,Autumn,M,Leader,S Korea,fish company salesman,12.0
+CHOY00303,CHOY,1972,Autumn,M,Climber,S Korea,student,1.0
+CHOY00304,CHOY,1972,Autumn,M,Climber,S Korea,automobile assembly,1.0
+CHOY00304,CHOY,1972,Autumn,M,Climber,S Korea,automobile assembly line engineer,6.0
+CHOY00304,CHOY,1972,Autumn,M,Climber,S Korea,automobile manufacturer s technical engineer,6.0
+CHOY00304,CHOY,1972,Autumn,M,Climber,S Korea,automobile assembly line engineer,8.0
+CHOY00304,CHOY,1972,Autumn,M,Climber,S Korea,automobile manufacturer s assembly line engineer,3.0
+CHOY00304,CHOY,1972,Autumn,M,Climber,S Korea,automobile assembly line engineer,3.0
+CHOY00304,CHOY,1972,Autumn,M,H-A Worker,Nepal,unknown,12.0
+CHOY00305,CHOY,1972,Autumn,M,Co-Leader,Australia,outdoor education teacher,6.0
+CHOY00305,CHOY,1972,Autumn,M,Co-Leader,Australia,outdoor education teacher,2.0
+CHOY00307,CHOY,1972,Autumn,M,Climber,S Korea,alpine guide,0.0
+CHOY00307,CHOY,1972,Autumn,M,Climber,S Korea,businessman,12.0
+CHOY00307,CHOY,1972,Autumn,M,Climber,S Korea,farmer,10.0
+CHOY00307,CHOY,1972,Autumn,M,Climber,S Korea,alpine guide,5.0
+CHOY00307,CHOY,1972,Autumn,M,Climber,S Korea,alpine guide,6.0
+CHOY00307,CHOY,1972,Autumn,M,Climber,S Korea,car salesman,5.0
+CHOY00307,CHOY,1972,Autumn,M,Climber,S Korea,shop owner,4.0
+CHOY00307,CHOY,1972,Autumn,M,H-A Worker,Nepal,unknown,-6.0
+CHOY00308,CHOY,1972,Autumn,M,Climber,S Korea,student,-4.0
+CHOY00308,CHOY,1972,Autumn,M,Climber,S Korea,student,2.0
+CHOY00308,CHOY,1972,Autumn,M,Climber,S Korea,student,-1.0
+CHOY00308,CHOY,1972,Autumn,M,Leader,S Korea,student,4.0
+CHOY00308,CHOY,1972,Autumn,M,Climber,S Korea,student,-2.0
+CHOY00308,CHOY,1972,Autumn,M,Climber,S Korea,student,-3.0
+CHOY00308,CHOY,1972,Autumn,M,Climber,S Korea,student,-5.0
+CHOY00308,CHOY,1972,Autumn,M,Climber,S Korea,student,5.0
+CHOY00309,CHOY,1972,Autumn,F,Climber,USA,business consultant,4.0
+CHOY00309,CHOY,1972,Autumn,M,Climber,USA,chef photographer,4.0
+CHOY00309,CHOY,1972,Autumn,M,Climber,USA,alpine guide ski instructor,7.0
+CHOY00310,CHOY,1972,Autumn,F,Leader,USA,owner of company organizing treks and expeditions,5.0
+CHOY00310,CHOY,1972,Autumn,M,Climber,USA,alpine guide nurse,7.0
+CHOY00310,CHOY,1972,Autumn,M,Climber,USA,financial derivaties salesman,6.0
+CHOY00310,CHOY,1972,Autumn,M,Climber,USA,carpenter,-1.0
+CHOY00311,CHOY,1972,Autumn,M,Climber,S Korea,student,-4.0
+CHOY00311,CHOY,1972,Autumn,M,Climber,S Korea,driving instructor,0.0
+CHOY00311,CHOY,1972,Autumn,M,Leader,S Korea,tour company owner,12.0
+CHOY00311,CHOY,1972,Autumn,M,Climber,S Korea,student,0.0
+CHOY00311,CHOY,1972,Autumn,M,Climber,S Korea,student,-4.0
+CHOY00311,CHOY,1972,Autumn,M,Climber,S Korea,coffee shop owner,2.0
+CHOY00312,CHOY,1972,Autumn,M,Climber,S Korea,office worker,-2.0
+CHOY00312,CHOY,1972,Autumn,M,Climber,S Korea,student,-3.0
+CHOY00312,CHOY,1972,Autumn,M,Climber,S Korea,student,-4.0
+CHOY00312,CHOY,1972,Autumn,M,Climber,S Korea,head of window-washing company,9.0
+CHOY00313,CHOY,1972,Autumn,M,Climber,Venezuela,engineer,7.0
+CHOY00313,CHOY,1972,Autumn,M,Climber,USA,alpine guide,4.0
+CHOY00313,CHOY,1972,Autumn,M,Climber,UK,investment manager,8.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,high school sports teacher,4.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,student,-5.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,customs official,8.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,plumber,10.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,carpenter,11.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,shopkeeper,1.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,goverment environment supervisor,11.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,spanish-wnglish translator,10.0
+CHOY00314,CHOY,1972,Autumn,F,Climber,Spain,shoe factory owner,9.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,high school teacher,4.0
+CHOY00314,CHOY,1972,Autumn,M,Climber,Spain,computer programmer,10.0
+CHOY00314,CHOY,1972,Autumn,M,Deputy Leader,Spain,alpine guide,5.0
+CHOY00314,CHOY,1972,Autumn,M,H-A Worker,Nepal,unknown,4.0
+CHOY00315,CHOY,1972,Autumn,M,Climber,UK,internet marketing director,5.0
+CHOY00315,CHOY,1972,Autumn,M,ABC Manager,UK,installs safety nets on tall buildings,0.0
+CHOY00315,CHOY,1972,Autumn,M,Climber,UK,primary school teacher,8.0
+CHOY00315,CHOY,1972,Autumn,M,Climber,UK,finance director of marconi telecommunications company,6.0
+CHOY00329,CHOY,1972,Autumn,M,Leader,Spain,student,-4.0
+CHOY00331,CHOY,1972,Autumn,M,Leader,Germany,alpine guide,1.0
+CHOY00331,CHOY,1972,Autumn,M,Exp Doctor,Germany,physician,4.0
+CHOY00331,CHOY,1972,Autumn,M,Climber,Germany,civil servant pension insurance,5.0
+CHOY00331,CHOY,1972,Autumn,F,Climber,Germany,medical assistant,4.0
+CHOY00331,CHOY,1972,Autumn,M,Climber,Italy,mechanical engineer,7.0
+CHOY00331,CHOY,1972,Autumn,M,Climber,Germany,marketing manager for his high tech industry,3.0
+CHOY00331,CHOY,1972,Autumn,M,H-A Worker,Nepal,unknown,1.0
+CHOY00331,CHOY,1972,Autumn,M,H-A Worker,Nepal,unknown,-4.0
+CHOY94108,CHOY,1974,Spring,M,Climber,UK,photo lab manager,12.0
+CHOY00101,CHOY,1977,Spring,M,Climber,Austria,explorer,11.0
+CHOY00102,CHOY,1977,Spring,M,Climber,Finland,goldsmith,7.0
+CHOY00102,CHOY,1977,Spring,M,Climber,Finland,firefighter,4.0
+CHOY00102,CHOY,1977,Spring,M,Climber,Finland,paper factory,5.0
+CHOY00102,CHOY,1977,Spring,F,Climber,Finland,student of food economics,3.0
+CHOY00103,CHOY,1977,Spring,M,Climber,Germany,alpine guide sports instructor,7.0
+CHOY00103,CHOY,1977,Spring,M,Leader,Germany,alpine guide sports instructor,9.0
+CHOY00104,CHOY,1977,Spring,M,Climber,Ecuador,alpine guide,8.0
+CHOY00104,CHOY,1977,Spring,M,Climber,Mexico,engineer,5.0
+CHOY00105,CHOY,1977,Spring,M,Climber,Belgium,engineer,5.0
+CHOY00105,CHOY,1977,Spring,M,Climber,Belgium,electrician,12.0
+CHOY00105,CHOY,1977,Spring,M,Climber,Belgium,army captain,11.0
+CHOY00105,CHOY,1977,Spring,M,Climber,Belgium,engineer,8.0
+CHOY00105,CHOY,1977,Spring,M,Climber,Belgium,office worker,7.0
+CHOY00105,CHOY,1977,Spring,M,Climber,Belgium,engineer,6.0
+CHOY00105,CHOY,1977,Spring,M,Exp Doctor,Belgium,physician,5.0
+CHOY00105,CHOY,1977,Spring,M,Climber,Belgium,floriculturist,6.0
+CHOY00105,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,12.0
+CHOY00106,CHOY,1977,Spring,M,Climber,Spain,truck driver,8.0
+CHOY00106,CHOY,1977,Spring,M,Leader,Spain,alpine guide,9.0
+CHOY00106,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,6.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,unknown,3.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,unknown,2.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,unknown,12.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,teacher,0.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,unknown,1.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,unknown,4.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,unknown,2.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,teacher,8.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,university student,0.0
+CHOY00107,CHOY,1977,Spring,M,Climber,Iran,unknown,8.0
+CHOY00107,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,10.0
+CHOY00107,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,10.0
+CHOY00108,CHOY,1977,Spring,F,Climber,USA,business student,11.0
+CHOY00108,CHOY,1977,Spring,M,Climber,USA,stock investor,7.0
+CHOY00108,CHOY,1977,Spring,M,Climber,USA,scientist,7.0
+CHOY00108,CHOY,1977,Spring,M,Climber/Guide,USA,alpine guide,4.0
+CHOY00108,CHOY,1977,Spring,M,Climber/Guide,USA,alpine guide,3.0
+CHOY00108,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,9.0
+CHOY00108,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,-1.0
+CHOY00108,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,7.0
+CHOY00108,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,-3.0
+CHOY00109,CHOY,1977,Spring,M,Leader,Australia,flower,7.0
+CHOY00109,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,7.0
+CHOY00110,CHOY,1977,Spring,M,Climber,S Korea,drug salesman,4.0
+CHOY00110,CHOY,1977,Spring,M,Climber,S Korea,unemployed,10.0
+CHOY00110,CHOY,1977,Spring,M,Climber,S Korea,businessman import/export,9.0
+CHOY00110,CHOY,1977,Spring,M,Climber,S Korea,student,-1.0
+CHOY00110,CHOY,1977,Spring,M,Climber,S Korea,businessman textiles,2.0
+CHOY00110,CHOY,1977,Spring,M,Climber,S Korea,computer company employee,12.0
+CHOY00111,CHOY,1977,Spring,M,Climber,S Korea,office worker,10.0
+CHOY00111,CHOY,1977,Spring,M,Climber,S Korea,milk cooperative union officer,11.0
+CHOY00111,CHOY,1977,Spring,M,Climber,S Korea,student,0.0
+CHOY00111,CHOY,1977,Spring,F,Climber,S Korea,student,-4.0
+CHOY00111,CHOY,1977,Spring,M,Climber,S Korea,student,2.0
+CHOY00111,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,-4.0
+CHOY00112,CHOY,1977,Spring,M,Climber,S Korea,student,-9.0
+CHOY00113,CHOY,1977,Spring,M,Climber,USA,alpine guide,6.0
+CHOY00114,CHOY,1977,Spring,M,Climber,Australia,nurse,12.0
+CHOY00114,CHOY,1977,Spring,M,Leader,Australia,army captain,8.0
+CHOY00114,CHOY,1977,Spring,M,Climber,Australia,air force sergeant,9.0
+CHOY00114,CHOY,1977,Spring,M,Climber,Australia,lieutenant commander in australian navy,10.0
+CHOY00114,CHOY,1977,Spring,M,Climber,Australia,army captain,4.0
+CHOY00114,CHOY,1977,Spring,M,Climber,Australia,army engineer,5.0
+CHOY00114,CHOY,1977,Spring,M,Exp Doctor,Australia,physician,9.0
+CHOY00114,CHOY,1977,Spring,M,Climber,Australia,army officer pilot,11.0
+CHOY00115,CHOY,1977,Spring,M,Climber,Japan,unknown,10.0
+CHOY00117,CHOY,1977,Spring,M,Climber,Japan,engineer,11.0
+CHOY00117,CHOY,1977,Spring,M,Climber,Japan,alpine equipment shop salesman,12.0
+CHOY00117,CHOY,1977,Spring,M,Climber,Japan,travel agent,11.0
+CHOY00117,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,7.0
+CHOY00117,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,4.0
+CHOY00117,CHOY,1977,Spring,M,H-A Worker,Nepal,unknown,11.0
+CHOY98308,CHOY,1980,Autumn,M,H-A Worker,Nepal,unknown,10.0
+CHOY99301,CHOY,1980,Autumn,M,Climber,S Korea,national park ranger,12.0
+CHOY99301,CHOY,1980,Autumn,M,Climber,S Korea,electrical engineer,12.0
+CHOY99301,CHOY,1980,Autumn,M,Climber,S Korea,unemployed car salesman,12.0
+CHOY99301,CHOY,1980,Autumn,M,Climber,S Korea,office worker,10.0
+CHOY99303,CHOY,1980,Autumn,M,Climber,Slovenia,telephone technician,7.0
+CHOY99306,CHOY,1980,Autumn,M,Climber,Japan,works for landscape gardening business sometimes in office,11.0
+CHOY99306,CHOY,1980,Autumn,M,Climber,Japan,works for landscape gardening business,7.0
+CHOY99307,CHOY,1980,Autumn,M,Climber,France,alpine guide,11.0
+CHOY99307,CHOY,1980,Autumn,F,Climber,France,biology researcher,9.0
+CHOY99307,CHOY,1980,Autumn,M,Climber,France,movie director,11.0
+CHOY99307,CHOY,1980,Autumn,M,Climber,Switzerland,technician,8.0
+CHOY99309,CHOY,1980,Autumn,M,Climber,France,engineer,12.0
+CHOY99309,CHOY,1980,Autumn,M,Climber,France,telecommunications engineer,11.0
+CHOY99314,CHOY,1980,Autumn,M,Leader,Ecuador,student,4.0
+CHOY99314,CHOY,1980,Autumn,M,Climber,Ecuador,engineering student,3.0
+CHOY99317,CHOY,1980,Autumn,F,Climber,Japan,alpinist,12.0
+CHOY99317,CHOY,1980,Autumn,M,Climber,Australia,engineer,9.0
+CHOY99318,CHOY,1980,Autumn,F,Exp Doctor (C1 only),UK,physician,12.0
+CHOY99319,CHOY,1980,Autumn,M,Deputy Leader,USA,student alpine guide,4.0
+CHOY99321,CHOY,1980,Autumn,M,Climber,Spain,book shop assistant,7.0
+CHOY93308,CHOY,1981,Autumn,M,Climber,Italy,student,10.0
+CHOY93310,CHOY,1981,Autumn,M,H-A Worker,Nepal,unknown,10.0
+CHOY93310,CHOY,1981,Autumn,M,H-A Worker,Nepal,unknown,10.0
+CHOY94307,CHOY,1981,Autumn,M,H-A Worker,Nepal,unknown,11.0
+CHOY96306,CHOY,1981,Autumn,M,H-A Worker,Nepal,unknown,9.0
+CHOY98116,CHOY,1981,Spring,M,Climber,China,beijing university student,5.0
+CHOY99101,CHOY,1981,Spring,F,Climber,Germany,nurse,10.0
+CHOY99101,CHOY,1981,Spring,M,Climber,Germany,engineer,11.0
+CHOY99102,CHOY,1981,Spring,M,Co-Leader,Spain,bar tender/waiter,9.0
+CHOY99102,CHOY,1981,Spring,M,Co-Leader,Spain,construction worker,9.0
+CHOY99103,CHOY,1981,Spring,M,H-A Worker,Nepal,unknown,10.0
+CHOY99103,CHOY,1981,Spring,M,H-A Worker,Nepal,unknown,7.0
+CHOY99105,CHOY,1981,Spring,F,Climber,Spain,supermarket employee,7.0
+CHOY99106,CHOY,1981,Spring,M,Leader,Austria,alpine guide management trainer,11.0
+CHOY99106,CHOY,1981,Spring,F,Climber,Austria,waitress,6.0
+CHOY99107,CHOY,1981,Spring,M,Climber,Germany,joiner,10.0
+CHOY99107,CHOY,1981,Spring,M,H-A Worker,Nepal,unknown,10.0
+CHOY99108,CHOY,1981,Spring,F,Climber,Switzerland,nurse,10.0
+CHOY99108,CHOY,1981,Spring,M,Climber,Germany,education student,8.0
+CHOY99108,CHOY,1981,Spring,M,Leader,Switzerland,bank employee,10.0
+CHOY99110,CHOY,1981,Spring,M,Climber,Italy,pschyology student,6.0
+CHOY99111,CHOY,1981,Spring,M,Climber,UK,chemical engineer,11.0
+CHOY99111,CHOY,1981,Spring,M,Climber,Chile,alpine guide,12.0
+CHOY99111,CHOY,1981,Spring,F,Climber,Chile,alpine guide instructor,5.0
+CHOY99111,CHOY,1981,Spring,M,Climber,UK,scientist,9.0
+CHOY99111,CHOY,1981,Spring,M,Climber,Sweden,student,5.0
+CHOY99111,CHOY,1981,Spring,M,H-A Worker,Nepal,unknown,8.0
+CHOY99114,CHOY,1981,Spring,M,Leader,Mexico,employee in conveyor-belt distribution company,12.0
+CHOY99114,CHOY,1981,Spring,M,Climber,Mexico,student of architecture,5.0
+CHOY99115,CHOY,1981,Spring,M,Climber,Colombia,environmentalist,12.0
+CHOY99116,CHOY,1981,Spring,M,Climber,Canada,carpenter,7.0
+CHOY99116,CHOY,1981,Spring,M,Climber,Canada,salesman for flower distributor,9.0
+CHOY99117,CHOY,1981,Spring,F,Climber,USA,guide in hiking cross-country skiing,11.0
+CHOY95301,CHOY,1982,Autumn,M,H-A Worker,Nepal,unknown,11.0
+CHOY95304,CHOY,1982,Autumn,M,H-A Worker,Nepal,unknown,9.0
+CHOY96321,CHOY,1982,Autumn,M,Climber,Spain,computer programmer,12.0
+CHOY97108,CHOY,1982,Spring,M,Climber,Germany,engineer,12.0
+CHOY97108,CHOY,1982,Spring,M,Climber,Germany,student,12.0
+CHOY97108,CHOY,1982,Spring,M,Leader,Germany,civil engineer,9.0
+CHOY97312,CHOY,1982,Autumn,M,H-A Worker,Nepal,unknown,6.0
+CHOY98307,CHOY,1983,Autumn,M,Climber,USA,student,11.0
+CHOY98308,CHOY,1983,Autumn,M,H-A Worker,Nepal,unknown,4.0
+CHOY98309,CHOY,1983,Autumn,M,Climber,Spain,teacher,12.0
+CHOY98310,CHOY,1983,Autumn,M,Climber,Spain,economics student,9.0
+CHOY98310,CHOY,1983,Autumn,F,Climber,Spain,education student,9.0
+CHOY98312,CHOY,1983,Autumn,M,Climber,Spain,industrial engineering student,10.0
+CHOY98312,CHOY,1983,Autumn,M,Climber,Spain,cartographer,11.0
+CHOY98312,CHOY,1983,Autumn,M,Climber,Spain,surveying student,9.0
+CHOY98313,CHOY,1983,Autumn,M,H-A Worker,Nepal,unknown,12.0
+CHOY98313,CHOY,1983,Autumn,M,H-A Worker,Nepal,unknown,12.0
+CHOY98314,CHOY,1983,Autumn,M,Climber,USA,outdoor leadership instructor,12.0
+CHOY98315,CHOY,1983,Autumn,M,Climber,UK,student,7.0
+CHOY98316,CHOY,1983,Autumn,M,Climber,Estonia,air-traffic controller,12.0
+CHOY98317,CHOY,1983,Autumn,M,Climber,Spain,industrial engineer,12.0
+CHOY98318,CHOY,1983,Autumn,M,Climber,UK,student,6.0
+CHOY98318,CHOY,1983,Autumn,M,H-A Worker,Nepal,unknown,7.0
+CHOY98322,CHOY,1983,Autumn,M,H-A Worker,Nepal,unknown,12.0
+CHRE82301,CHRE,1965,Autumn,M,Climber,France,alpine guide,8.0
+CHRE82301,CHRE,1965,Autumn,M,Climber,France,medical student,4.0
+CHRE82301,CHRE,1965,Autumn,M,Climber,France,photographer,7.0
+CHRE82301,CHRE,1965,Autumn,M,Climber,France,veterinarian,7.0
+CHRW90301,CHRW,1962,Autumn,M,Climber,S Korea,metallurgical engineer,-3.0
+CHRW90301,CHRW,1962,Autumn,M,Climber,S Korea,metallurgical engineer,-5.0
+CHRW90301,CHRW,1970,Autumn,M,Leader,S Korea,metallurgical engineer,9.0
+CHRW90301,CHRW,1982,Autumn,M,H-A Worker,Nepal,unknown,10.0
+CHUR90301,CHUR,1965,Autumn,M,Climber,S Korea,metallurgical engineer,0.0
+CHWT00201,CHWT,1974,Summer,M,H-A Worker,Nepal,unknown,8.0
+CTSE86101,CTSE,1964,Spring,M,Climber,China,unknown,-1.0
+CTSE86101,CTSE,1964,Spring,M,Climber,China,unknown,2.0
+CTSE90101,CTSE,1964,Spring,M,Climber,USA,geologist alpine guide,12.0
+CTSE90101,CTSE,1964,Spring,M,Climber,USA,unknown,8.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,9.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,12.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,4.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,12.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,5.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,3.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,6.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,3.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,7.0
+CTSE86101,CTSE,1969,Spring,M,Climber,China,unknown,7.0
+CTSE89201,CTSE,1970,Summer,M,Leader,China,chinese mountaineering association staff member,10.0
+CTSE89201,CTSE,1970,Summer,M,Climber,China,unknown,7.0
+CTSE89201,CTSE,1970,Summer,M,Climber,China,unknown,7.0
+CTSE90301,CTSE,1970,Autumn,M,Leader,UK,tour operator,11.0
+CTSE36101,CTSE,1984,Spring,M,Leader,UK,unknown,100.0
+DHA199305,DHA1,1922,Autumn,M,H-A Worker,Nepal,unknown,-50.0
+DHA181101,DHA1,1954,Spring,M,H-A Worker,Nepal,high-altitude porter,-1.0
+DHA182101,DHA1,1954,Spring,M,H-A Worker,Nepal,unknown,-1.0
+DHA182101,DHA1,1954,Spring,M,H-A Worker,Nepal,unknown,-3.0
+DHA186101,DHA1,1954,Spring,M,H-A Worker/Climber,Nepal,unknown,-7.0
+DHA193304,DHA1,1954,Autumn,M,H-A Worker,Nepal,unknown,-4.0
+DHA197305,DHA1,1958,Autumn,M,H-A Worker,Nepal,unknown,-16.0
+DHA196302,DHA1,1959,Autumn,M,H-A Worker,Nepal,unknown,-5.0
+DHA196302,DHA1,1959,Autumn,M,H-A Worker,Nepal,unknown,-13.0
+DHA196303,DHA1,1959,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+DHA194301,DHA1,1960,Autumn,M,Sirdar,Nepal,unknown,2.0
+DHA198301,DHA1,1960,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+DHA198305,DHA1,1960,Autumn,M,H-A Worker,Nepal,unknown,-5.0
+DHA198305,DHA1,1960,Autumn,M,H-A Worker,Nepal,unknown,-4.0
+DHA198305,DHA1,1960,Autumn,M,H-A Worker,Nepal,unknown,0.0
+DHA198305,DHA1,1960,Autumn,M,H-A Worker,Nepal,unknown,-2.0
+DHA199102,DHA1,1960,Spring,M,H-A Worker,Nepal,unknown,-4.0
+DHA199304,DHA1,1960,Autumn,M,H-A Worker,Nepal,unknown,-1.0
+DHA100302,DHA1,1970,Autumn,M,H-A Worker,Nepal,unknown,6.0
+DHA193103,DHA1,1970,Spring,M,Member,China,interpreter,8.0
+DHA196104,DHA1,1970,Spring,M,Climber,Italy,alpine guide,12.0
+DHA100303,DHA1,1973,Autumn,M,Climber,France,alpine guide,6.0
+DHA100303,DHA1,1973,Autumn,M,Climber,France,physician,7.0
+DHA100303,DHA1,1973,Autumn,M,Climber,France,engineer,10.0
+DHA100301,DHA1,1974,Autumn,M,Film Team,S Korea,student,2.0
+DHA100301,DHA1,1974,Autumn,M,Climber,S Korea,purchasing department staff of air-conditioning manufacturing company,4.0
+DHA100301,DHA1,1974,Autumn,M,Climber,S Korea,student,0.0
+DHA100301,DHA1,1974,Autumn,M,Climber,S Korea,student,-2.0
+DHA100301,DHA1,1974,Autumn,M,Climbing Leader,S Korea,salesman,9.0
+DHA100301,DHA1,1974,Autumn,M,Climber,S Korea,student,0.0
+DHA100301,DHA1,1974,Autumn,M,Climber,S Korea,farmer,1.0
+DHA100302,DHA1,1974,Autumn,M,Climber,Japan,engineer,12.0
+DHA100302,DHA1,1974,Autumn,M,Climber,Japan,engineer,4.0
+DHA100101,DHA1,1976,Spring,M,Climber,Germany,atomic physicist,10.0
+DHA100102,DHA1,1976,Spring,M,Climber,Germany,chemical technician,1.0
+DHA100101,DHA1,1977,Spring,M,Climber,Switzerland,electrician,10.0
+DHA199301,DHA1,1980,Autumn,M,Climber,Slovenia,technician,12.0
+DHA199301,DHA1,1980,Autumn,M,Leader,Slovenia,electrician,11.0
+DHA199302,DHA1,1980,Autumn,M,Climber,Switzerland,alpine guide,12.0
+DHA199303,DHA1,1980,Autumn,M,Leader,Japan,salesman currently unemployed,12.0
+DHA199305,DHA1,1980,Autumn,M,Deputy Leader,France,alpine guide,6.0
+DHA199306,DHA1,1980,Autumn,M,Climber,Austria,psychologist,11.0
+DHA199306,DHA1,1980,Autumn,M,Climber,Australia,farmer,10.0
+DHA199307,DHA1,1980,Autumn,M,Climber,Mexico,dentist,12.0
+DHA199102,DHA1,1981,Spring,M,Climber,Switzerland,alpine guide,10.0
+DHA198301,DHA1,1983,Autumn,F,Climber,Spain,industrial engineer,10.0
+DHA198302,DHA1,1983,Autumn,M,Climber,Greece,alpine instructor guide,10.0
+DHA198305,DHA1,1983,Autumn,M,Climber,Japan,mechanical engineer,7.0
+DHA198307,DHA1,1983,Autumn,M,Climber,Japan,physician,12.0
+DHA198307,DHA1,1983,Autumn,M,Climber,Japan,does odd jobs no fixed occupation,8.0
+DHA379301,DHA3,1962,Autumn,M,Climber,Japan,university student japanese literature,6.0
+DHA379301,DHA3,1962,Autumn,M,Climber,Japan,university student,2.0
+DHA379301,DHA3,1962,Autumn,M,Climber,Japan,student at a college teaching how to make alcoholic beverages,3.0
+DHA379301,DHA3,1962,Autumn,M,Climber,Japan,restaurant manager,12.0
+DHA379301,DHA3,1962,Autumn,M,Climber,Japan,travel agent,11.0
+DHA379301,DHA3,1962,Autumn,M,Climber,Japan,freelance writer,11.0
+DHA379301,DHA3,1962,Autumn,M,Climber,Japan,university student photography,5.0
+DHA472101,DHA4,1996,Spring,M,Leader,Japan,farm owner,92.0
+DHA579301,DHA5,1956,Autumn,M,H-A Worker,Nepal,unknown,4.0
+DHA574101,DHA5,1959,Spring,M,Climber,Japan,student in okayama university medical school,9.0
+DHAM00201,DHAM,1974,Summer,M,Deputy Leader,Japan,computer operator,12.0
+DHAM97301,DHAM,1981,Autumn,M,H-A Worker,Nepal,unknown,8.0
+DHAM99101,DHAM,1981,Spring,F,Climber,Australia,teacher,8.0
+DHAM99101,DHAM,1981,Spring,F,Climber,USA,english instructor,10.0
+DHAM99101,DHAM,1981,Spring,M,H-A Worker,Nepal,unknown,9.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,company employee,-19.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,student,-21.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,employee of company,1.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,employee of world-business center,-16.0
+DOLM80301,DOLM,1936,Autumn,M,Exp Doctor,Japan,physician lecturer aichi-gakuin university,-8.0
+DOLM80301,DOLM,1936,Autumn,M,xClimber,Japan,company manager,-7.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,student,-21.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,firefighter,-18.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,employee of kameyama-automobile co,-16.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,company employee,-20.0
+DOLM80301,DOLM,1936,Autumn,M,Food,Japan,company employee,-10.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,student aichi-gukuin university,-21.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,cameraman,-1.0
+DOLM80301,DOLM,1936,Autumn,M,Tactician,Japan,employee of tomisu-unyu co,-11.0
+DOLM80301,DOLM,1936,Autumn,M,Food,Japan,employee of shinto-tsushin co,-12.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,manager of iwa to yuki co,-9.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,teacher,-17.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,staff member ministry education,-5.0
+DOLM80301,DOLM,1936,Autumn,M,Climber,Japan,reporter,-1.0
+DOLM80301,DOLM,1936,Autumn,M,H-A Worker/Climber,Nepal,high-altitude guide,-12.0
+DOLM80301,DOLM,1936,Autumn,M,H-A Worker/Climber,Nepal,alpine guide,-19.0
+DOLM84301,DOLM,1936,Autumn,M,Leader,Japan,law professor,-1.0
+DOLM84301,DOLM,1936,Autumn,M,Climbing Leader,Japan,sports shop manager,-9.0
+DOLM84301,DOLM,1936,Autumn,M,Deputy Leader,Japan,staff member ministry education,-5.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,salesman,-15.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,sports shop,-20.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,salesman,-22.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,office worker,-13.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,travel agent,-19.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,alpine guide,-15.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,engineer petroleum,-17.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,sports shop owner,-21.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,bookshop salesman,-24.0
+DOLM84301,DOLM,1936,Autumn,M,Climber,Japan,alpine guide,-11.0
+DOLM95301,DOLM,1936,Autumn,M,Leader,UK,director of waste-disposal company,-18.0
+DOLM95301,DOLM,1936,Autumn,M,Climber,UK,house painter,-19.0
+DOLM95301,DOLM,1936,Autumn,M,Climber,UK,veterinary surgeon,-31.0
+DOLM95301,DOLM,1936,Autumn,M,Climber,UK,computer software company director,-28.0
+DOLM95301,DOLM,1936,Autumn,M,Climber,UK,engineer servicing scientific equipment,-11.0
+DOLM95301,DOLM,1936,Autumn,M,Climber,UK,psychiatric nurse,-22.0
+DOLM95301,DOLM,1936,Autumn,M,Climber,UK,plumber,-18.0
+DOLM80101,DOLM,1937,Spring,M,Leader,Australia,6th battalion royal australian regiment enoggera qld,-13.0
+DOLM80101,DOLM,1937,Spring,M,Climber,Australia,alpine instructor,-14.0
+DOLM80101,DOLM,1937,Spring,M,Climber,Australia,warrant officer special air service regiment perth,-7.0
+DOLM80101,DOLM,1937,Spring,M,Climber,Australia,corporal from special air service regiment perth,-17.0
+DOLM80101,DOLM,1937,Spring,M,Climber,Australia,sergeant from special air service regiment perth,-12.0
+DOLM80101,DOLM,1937,Spring,M,Exp Doctor,Australia,surgeon civilian,7.0
+DOLM80101,DOLM,1937,Spring,M,Climber,Australia,sergeant from special air service regiment perth,-10.0
+DOLM80101,DOLM,1937,Spring,M,Climber,Australia,sergeant from special air service regiment perth,-4.0
+DOLM80101,DOLM,1937,Spring,M,Climber,Australia,retired from army was wo2 in special air service regiment,-3.0
+DOLM80101,DOLM,1937,Spring,M,H-A Worker,Nepal,unknown,-18.0
+DOLM80301,DOLM,1937,Autumn,M,Leader,Japan,law professor,0.0
+DOLM80301,DOLM,1937,Autumn,M,Climbing Leader,Japan,company employee,-10.0
+DOLM80301,DOLM,1937,Autumn,M,Deputy Leader,Japan,company employee,-6.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,student,-20.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,student,-22.0
+DOLM80301,DOLM,1937,Autumn,M,Equipment,Japan,unknown,-14.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,student,-22.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,company employee,-14.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,company employee,-10.0
+DOLM80301,DOLM,1937,Autumn,M,Transport,Japan,employee of shinshu-meitetsu unyu co,-12.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,student,-21.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,teacher of abacus,-19.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,student,-19.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,student,-23.0
+DOLM80301,DOLM,1937,Autumn,M,Climber,Japan,employee of matuno stone-merchant,-19.0
+DORJ79301,DORJ,1949,Autumn,M,Leader,UK,agricultural scientist,6.0
+DORJ00303,DORJ,1955,Autumn,M,H-A Worker,Nepal,unknown,-14.0
+DORJ00301,DORJ,1971,Autumn,M,Climber,France,cinema hall projector operator,4.0
+DORJ00301,DORJ,1971,Autumn,M,H-A Worker,Nepal,unknown,4.0
+DORJ00302,DORJ,1971,Autumn,M,Leader,Slovenia,graphic designer,-5.0
+DORJ00302,DORJ,1971,Autumn,F,Climber,Slovenia,physician,-3.0
+DORJ00302,DORJ,1971,Autumn,M,Climber,Slovenia,student,-9.0
+DORJ00302,DORJ,1971,Autumn,M,Deputy Leader,Slovenia,student,-3.0
+DORJ00303,DORJ,1971,Autumn,F,Climber,USA,manufacturers working with design and production stuff,1.0
+DORJ00303,DORJ,1971,Autumn,M,Climber,USA,student in high school,-11.0
+DORJ00303,DORJ,1971,Autumn,F,Leader,USA,alpine guide,2.0
+DORJ00303,DORJ,1971,Autumn,M,Climber,USA,alpine guide,-1.0
+DORJ00303,DORJ,1971,Autumn,F,Climber,USA,photographer,6.0
+DORJ81301,DORJ,1973,Autumn,M,Climber,Nepal,unknown,11.0
+DORJ99302,DORJ,1979,Autumn,M,H-A Worker,Nepal,unknown,12.0
+DORJ99301,DORJ,1980,Autumn,M,Climber,France,nurse,7.0
+DORJ99301,DORJ,1980,Autumn,M,H-A Worker,Nepal,unknown,11.0
+DORJ99302,DORJ,1980,Autumn,F,Climber,France,sports teacher,9.0
+DORJ99302,DORJ,1980,Autumn,M,Climber,France,student,4.0
+DORJ99302,DORJ,1980,Autumn,M,Climber,France,student,1.0
+DRAN95101,DRAN,1964,Spring,M,BC Manager,Sweden,shipbroker,12.0
+DROM99301,DROM,1980,Autumn,M,Climber,France,accountant,5.0
+DROM99301,DROM,1980,Autumn,M,Climber,UK,veterinarian,10.0
+DROM99301,DROM,1980,Autumn,M,Climber,New Zealand,teacher,7.0
+DROM98302,DROM,1983,Autumn,M,Climber,UK,physician,10.0
+EVER99130,EVER,1921,Spring,M,H-A Worker,Nepal,unknown,-38.0
+EVER95101,EVER,1930,Spring,M,H-A Worker,Nepal,unknown,-41.0
+EVER75102,EVER,1938,Spring,M,Climber,China,unknown,-13.0
+EVER00143,EVER,1949,Spring,M,H-A Worker,China,unknown,-34.0
+EVER81301,EVER,1949,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+EVER87307,EVER,1949,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+EVER88401,EVER,1949,Winter,M,H-A Worker,Nepal,unknown,-12.0
+EVER89104,EVER,1949,Spring,M,H-A Worker,Nepal,unknown,-12.0
+EVER72301,EVER,1953,Autumn,M,H-A Worker,Nepal,unknown,5.0
+EVER80101,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-2.0
+EVER81101,EVER,1954,Spring,M,Climber,France,army infantry captain helicopter pilot,2.0
+EVER81301,EVER,1954,Autumn,M,H-A Worker,Nepal,high-altitude porter,0.0
+EVER81301,EVER,1954,Autumn,M,Liaison Officer,Nepal,inspector nepal police,6.0
+EVER81302,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,6.0
+EVER81302,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,-5.0
+EVER82402,EVER,1954,Winter,M,H-A Worker,Nepal,unknown,2.0
+EVER83102,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-7.0
+EVER83303,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,-7.0
+EVER84305,EVER,1954,Autumn,M,Sirdar,Nepal,unknown,6.0
+EVER87102,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-1.0
+EVER87102,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-9.0
+EVER87303,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,6.0
+EVER89101,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-13.0
+EVER89308,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,-7.0
+EVER89308,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,1.0
+EVER89308,EVER,1954,Autumn,M,Sirdar,Nepal,unknown,4.0
+EVER90102,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-8.0
+EVER90104,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-6.0
+EVER90310,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,-10.0
+EVER91104,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-7.0
+EVER91107,EVER,1954,Spring,M,Climber,Australia,director of company that imports and makes camping equipment,8.0
+EVER92101,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-5.0
+EVER92101,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-11.0
+EVER92106,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-15.0
+EVER92108,EVER,1954,Spring,M,H-A Worker,Nepal,unknown,-7.0
+EVER92306,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,-10.0
+EVER92307,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,-16.0
+EVER92308,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+EVER92309,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,7.0
+EVER92402,EVER,1954,Winter,M,H-A Worker,Nepal,unknown,-6.0
+EVER93303,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,4.0
+EVER93303,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,-14.0
+EVER93304,EVER,1954,Autumn,M,H-A Worker,Nepal,unknown,-20.0
+EVER00101,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-13.0
+EVER00117,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-11.0
+EVER00117,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-18.0
+EVER00119,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-11.0
+EVER00119,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-10.0
+EVER00119,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-16.0
+EVER00120,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-22.0
+EVER00133,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-13.0
+EVER00133,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-16.0
+EVER00133,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-16.0
+EVER00133,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-15.0
+EVER00133,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,3.0
+EVER00303,EVER,1955,Autumn,M,H-A Worker,Nepal,unknown,-17.0
+EVER00303,EVER,1955,Autumn,M,H-A Worker,Nepal,unknown,-16.0
+EVER93105,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-4.0
+EVER94106,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,5.0
+EVER94106,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-15.0
+EVER94110,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-10.0
+EVER94113,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,7.0
+EVER94113,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-16.0
+EVER94113,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-13.0
+EVER94113,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-7.0
+EVER94306,EVER,1955,Autumn,M,H-A Worker,Nepal,unknown,-5.0
+EVER94307,EVER,1955,Autumn,M,H-A Worker,Nepal,unknown,-14.0
+EVER94307,EVER,1955,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+EVER95101,EVER,1955,Spring,M,H-A Worker,Nepal,trekking guide alpinist,-11.0
+EVER95107,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,5.0
+EVER95108,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-7.0
+EVER95109,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-4.0
+EVER95109,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,3.0
+EVER95109,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-10.0
+EVER95109,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-15.0
+EVER95109,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-5.0
+EVER95111,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-13.0
+EVER95112,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-12.0
+EVER95112,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-15.0
+EVER95203,EVER,1955,Summer,M,H-A Worker,Nepal,unknown,-4.0
+EVER96103,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-10.0
+EVER97103,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-9.0
+EVER97109,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-6.0
+EVER97109,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-21.0
+EVER97110,EVER,1955,Spring,M,Leader,New Zealand,alpine guide,3.0
+EVER97110,EVER,1955,Spring,M,Deputy Leader,New Zealand,alpine guide,-4.0
+EVER97110,EVER,1955,Spring,M,Climber,UK,farmer,-9.0
+EVER97110,EVER,1955,Spring,M,Climber,Belgium,professor of french,2.0
+EVER97110,EVER,1955,Spring,F,Climber,Netherlands,sports shop executive,-3.0
+EVER97110,EVER,1955,Spring,M,Film Team,Japan,television cameraman,-13.0
+EVER97110,EVER,1955,Spring,M,Climber,USA,dentist,8.0
+EVER97110,EVER,1955,Spring,M,Climber,Japan,television cameraman,7.0
+EVER97110,EVER,1955,Spring,M,Climber,USA,physician,-2.0
+EVER97110,EVER,1955,Spring,F,Climber,Japan,student,-20.0
+EVER97110,EVER,1955,Spring,M,Climber,Japan,student of international relations,-18.0
+EVER97110,EVER,1955,Spring,M,Climber,Japan,advertising manager,4.0
+EVER97110,EVER,1955,Spring,M,Exp Doctor,New Zealand,physician,8.0
+EVER97110,EVER,1955,Spring,M,Climber,Canada,alpine guide,-6.0
+EVER97110,EVER,1955,Spring,M,Film Team,Japan,television director,-8.0
+EVER97110,EVER,1955,Spring,M,Climber,Japan,student,-20.0
+EVER97110,EVER,1955,Spring,F,Climber,Japan,student,-12.0
+EVER97110,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-16.0
+EVER97302,EVER,1955,Autumn,M,H-A Worker,Nepal,unknown,-13.0
+EVER98103,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-4.0
+EVER98103,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-16.0
+EVER98108,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-10.0
+EVER98112,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-5.0
+EVER98114,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,2.0
+EVER98123,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-8.0
+EVER98124,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-13.0
+EVER98126,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-18.0
+EVER98303,EVER,1955,Autumn,M,H-A Worker,Nepal,unknown,3.0
+EVER99111,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-11.0
+EVER99111,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-4.0
+EVER99114,EVER,1955,Spring,M,Climber,Argentina,photographer alpinist,-7.0
+EVER99131,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-10.0
+EVER99131,EVER,1955,Spring,M,H-A Worker,Nepal,unknown,-19.0
+EVER00143,EVER,1956,Spring,M,H-A Worker,Nepal,unknown,8.0
+EVER78101,EVER,1956,Spring,M,Deputy Leader,China,alpinist,3.0
+EVER88101,EVER,1956,Spring,M,Dep Climbing Ldr (S),Nepal,alpine guide,1.0
+EVER90103,EVER,1956,Spring,M,Climber,China,unknown,-4.0
+EVER93102,EVER,1956,Spring,M,H-A Assistant,China,unknown,-9.0
+EVER97112,EVER,1956,Spring,M,H-A Assistant,China,unknown,-9.0
+EVER94103,EVER,1957,Spring,M,H-A Worker,Nepal,unknown,-14.0
+EVER96201,EVER,1958,Summer,M,H-A Worker,Nepal,unknown,-2.0
+EVER96201,EVER,1958,Summer,M,H-A Worker,Nepal,unknown,-10.0
+EVER96303,EVER,1958,Autumn,M,H-A Worker,Nepal,unknown,5.0
+EVER96303,EVER,1958,Autumn,M,H-A Worker,Nepal,unknown,-13.0
+EVER96305,EVER,1958,Autumn,M,H-A Worker,Nepal,unknown,-2.0
+EVER97111,EVER,1958,Spring,M,H-A Worker,Nepal,unknown,0.0
+EVER97310,EVER,1958,Autumn,M,H-A Worker,Nepal,unknown,0.0
+EVER97310,EVER,1958,Autumn,M,H-A Worker,Nepal,unknown,-5.0
+EVER97310,EVER,1958,Autumn,M,H-A Worker,Nepal,unknown,-10.0
+EVER98306,EVER,1959,Autumn,M,H-A Worker,Nepal,unknown,2.0
+EVER98307,EVER,1959,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+EVER98307,EVER,1959,Autumn,M,H-A Worker,Nepal,unknown,-2.0
+EVER99105,EVER,1959,Spring,M,H-A Worker,Nepal,unknown,-10.0
+EVER99117,EVER,1959,Spring,M,H-A Worker,Nepal,unknown,-14.0
+EVER99132,EVER,1959,Spring,M,H-A Worker,Nepal,unknown,-9.0
+EVER99132,EVER,1959,Spring,M,H-A Worker,Nepal,unknown,1.0
+EVER99302,EVER,1959,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+EVER00126,EVER,1960,Spring,M,H-A Worker,Nepal,unknown,-4.0
+EVER00139,EVER,1960,Spring,M,H-A Worker,Nepal,unknown,-6.0
+EVER00141,EVER,1960,Spring,M,H-A Worker,Nepal,unknown,-9.0
+EVER00146,EVER,1960,Spring,M,H-A Worker,Nepal,unknown,-19.0
+EVER00153,EVER,1960,Spring,M,H-A Worker,Nepal,unknown,-9.0
+EVER00157,EVER,1960,Spring,M,Member,Italy,clerk,-6.0
+EVER00157,EVER,1960,Spring,M,Member,Italy,unknown,4.0
+EVER00304,EVER,1960,Autumn,M,H-A Worker,Nepal,unknown,-7.0
+EVER82101,EVER,1960,Spring,M,Climber,USSR,mechanic,11.0
+EVER84104,EVER,1960,Spring,M,Climber,UK,unknown,5.0
+EVER84104,EVER,1960,Spring,M,Climber,UK,unknown,4.0
+EVER84105,EVER,1960,Spring,M,Deputy Leader,UK,unknown,12.0
+EVER84105,EVER,1960,Spring,M,Climber,UK,unknown,6.0
+EVER94201,EVER,1960,Summer,M,H-A Worker,Nepal,unknown,10.0
+EVER96110,EVER,1960,Spring,M,Radio Operator,India,itbp inspector/operator,7.0
+EVER97302,EVER,1960,Autumn,M,H-A Worker,Nepal,unknown,0.0
+EVER97311,EVER,1960,Autumn,M,H-A Worker,Nepal,unknown,-5.0
+EVER98306,EVER,1960,Autumn,M,H-A Worker,Nepal,unknown,-8.0
+EVER98306,EVER,1960,Autumn,M,H-A Worker,Nepal,unknown,-14.0
+EVER93102,EVER,1962,Spring,M,Climber,China,unknown,-1.0
+EVER92310,EVER,1964,Autumn,M,Climber,Italy,director-producer,6.0
+EVER92401,EVER,1964,Winter,M,Climber,UK,director of company arranging extreme outdoor activities,6.0
+EVER93115,EVER,1964,Spring,F,Climber,UK,nutritionist,7.0
+EVER94113,EVER,1964,Spring,M,Climber,Guatemala,biologist,3.0
+EVER95109,EVER,1964,Spring,F,BC Manager,USA,flight attendent,-5.0
+EVER95301,EVER,1964,Autumn,M,Exp Doctor,India,physician,11.0
+EVER96125,EVER,1964,Spring,M,Climber,Italy,worker steel fabricating plant,8.0
+EVER79302,EVER,1965,Autumn,M,Climber,Japan,travel agency employee,11.0
+EVER97103,EVER,1965,Spring,M,Exp Doctor,Indonesia,army head sergeant,8.0
+EVER00120,EVER,1969,Spring,F,BC Manager,USA,gardner landscaper,1.0
+EVER00128,EVER,1969,Spring,M,Climber,Japan,photographer,10.0
+EVER88103,EVER,1969,Spring,F,Support,USA,medical student,7.0
+EVER89315,EVER,1969,Autumn,M,Climber,Japan,unknown,10.0
+EVER89315,EVER,1969,Autumn,M,Climber,Japan,unknown,8.0
+EVER89315,EVER,1969,Autumn,M,Climber,Japan,unknown,4.0
+EVER97102,EVER,1969,Spring,M,Climber,Russia,trader,-3.0
+EVER99132,EVER,1969,Spring,M,Sirdar,Nepal,unknown,7.0
+EVER00302,EVER,1970,Autumn,M,Climber,S Korea,businessman,6.0
+EVER87301,EVER,1970,Autumn,M,Cameraman,Japan,unknown,11.0
+EVER89203,EVER,1970,Summer,M,Climber,Spain,army sergeant,12.0
+EVER89203,EVER,1970,Summer,M,Climber,Spain,army sergeant,11.0
+EVER89203,EVER,1970,Summer,M,Climber,Spain,army sergeant,11.0
+EVER89203,EVER,1970,Summer,M,Climber,Spain,army sergeant,9.0
+EVER89301,EVER,1970,Autumn,M,Climber,Chile,attorney,3.0
+EVER91304,EVER,1970,Autumn,M,H-A Worker,Nepal,unknown,10.0
+EVER91403,EVER,1970,Winter,M,H-A Worker,Nepal,unknown,7.0
+EVER92309,EVER,1970,Autumn,M,Climber,France,chemist,11.0
+EVER00301,EVER,1971,Autumn,M,Climber,Slovenia,electrician,-7.0
+EVER00301,EVER,1971,Autumn,M,Deputy Leader,Slovenia,journalist,4.0
+EVER00301,EVER,1971,Autumn,M,Climber,Slovenia,journalist photographer,1.0
+EVER00301,EVER,1971,Autumn,M,Exp Doctor,Slovenia,surgeon,0.0
+EVER00301,EVER,1971,Autumn,M,Leader,Slovenia,ski instructor,9.0
+EVER00301,EVER,1971,Autumn,M,Climber,Slovenia,student,-5.0
+EVER00301,EVER,1971,Autumn,F,Journalist,Slovenia,journalist,-3.0
+EVER00301,EVER,1971,Autumn,M,H-A Worker,Nepal,unknown,7.0
+EVER00301,EVER,1971,Autumn,M,H-A Worker,Nepal,unknown,-7.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,unknown,1.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,student,-5.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,motorcar engineer,1.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,local korean alpine federation,0.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,unknown,0.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,student,-4.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,climbing equipment store owner,5.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,student,-5.0
+EVER00302,EVER,1971,Autumn,M,Climbing Leader,S Korea,high school teacher,7.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,student,-3.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,owner of 2 buildings,6.0
+EVER00302,EVER,1971,Autumn,M,Climber,S Korea,journalist,4.0
+EVER00302,EVER,1971,Autumn,M,Leader,S Korea,building contractor,9.0
+EVER00303,EVER,1971,Autumn,M,Climbing Leader,S Korea,hyundai office worker,8.0
+EVER00303,EVER,1971,Autumn,M,Climber,S Korea,hyundai office worker,5.0
+EVER00303,EVER,1971,Autumn,M,Climber,S Korea,hyundai office worker,3.0
+EVER00303,EVER,1971,Autumn,M,Climber,S Korea,hyundai office worker,6.0
+EVER00303,EVER,1971,Autumn,M,Climber,S Korea,hyundai office worker,2.0
+EVER00303,EVER,1971,Autumn,M,Climber,S Korea,hyundai office worker,4.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,university student,-4.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,food shop owner,3.0
+EVER00304,EVER,1971,Autumn,M,Leader,S Korea,auto-repair shop owner,10.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,auto parts importer,3.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,works in taxi company office,-3.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,businessman,3.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,computer programmer,9.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,student,-3.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,private investor,4.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,student,-5.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,student,-3.0
+EVER00304,EVER,1971,Autumn,M,Climber,S Korea,construction company owner,7.0
+EVER00112,EVER,1974,Spring,M,H-A Worker,Nepal,unknown,7.0
+EVER00117,EVER,1974,Spring,M,H-A Worker,Nepal,unknown,-3.0
+EVER00119,EVER,1974,Spring,M,BC Support,Australia,technical engineer,-1.0
+EVER00131,EVER,1975,Spring,M,Climber/Cameraman,Spain,tv cameraman,-1.0
+EVER00131,EVER,1975,Spring,M,Climber,Spain,artist,5.0
+EVER00131,EVER,1975,Spring,F,Journalist,Spain,journalist on sports newspaper,2.0
+EVER00131,EVER,1975,Spring,M,Journalist,Spain,journalist,12.0
+EVER00131,EVER,1975,Spring,M,Climber/Cameraman,Spain,tv camera technician,-1.0
+EVER00131,EVER,1975,Spring,M,Climber/Cameraman,Spain,tv sound technician,0.0
+EVER00131,EVER,1975,Spring,M,Climber,Spain,firefighter,5.0
+EVER00132,EVER,1975,Spring,F,Climber,Switzerland,teacher,6.0
+EVER00132,EVER,1975,Spring,M,Climber,Switzerland,alpine guide,12.0
+EVER00132,EVER,1975,Spring,F,Climber,Switzerland,office secretary,7.0
+EVER00132,EVER,1975,Spring,M,BC Manager,Switzerland,product manager of climbing gear company,6.0
+EVER00132,EVER,1975,Spring,F,Climber,Nepal,student of languages,5.0
+EVER00135,EVER,1975,Spring,M,H-A Worker,Nepal,unknown,8.0
+EVER00135,EVER,1975,Spring,M,H-A Worker,Nepal,unknown,-2.0
+EVER00135,EVER,1975,Spring,M,H-A Worker,Nepal,unknown,1.0
+EVER00136,EVER,1975,Spring,M,Deputy Leader,Russia,professional alpinist,11.0
+EVER00136,EVER,1975,Spring,F,Climber,Russia,alpine guide,10.0
+EVER00136,EVER,1975,Spring,M,Climber,Russia,school teacher,11.0
+EVER00138,EVER,1975,Spring,M,Leader,UK,army major,8.0
+EVER00138,EVER,1975,Spring,M,Exp Doctor,New Zealand,physician,7.0
+EVER00138,EVER,1975,Spring,M,Climber,UK,business psychologist,11.0
+EVER00138,EVER,1975,Spring,M,Climber,UK,high school teacher,8.0
+EVER00138,EVER,1975,Spring,M,Climber,UK,police officer,10.0
+EVER00138,EVER,1975,Spring,M,BC Manager,UK,unemployed formerly a pub manager,11.0
+EVER00138,EVER,1975,Spring,M,BC Support,UK,information technology consultant,7.0
+EVER00138,EVER,1975,Spring,M,BC Support,UK,builder,11.0
+EVER00140,EVER,1975,Spring,M,Climber,UK,lecturer on arborculture,12.0
+EVER00140,EVER,1975,Spring,M,Climber,UK,computer analyst,12.0
+EVER00140,EVER,1975,Spring,M,Climber,Netherlands,cameraman,-1.0
+EVER00140,EVER,1975,Spring,F,Climber,Netherlands,logistic consultant,3.0
+EVER00140,EVER,1975,Spring,M,Climber,New Zealand,computer programmer,8.0
+EVER00140,EVER,1975,Spring,M,Climber,Netherlands,business development,7.0
+EVER00140,EVER,1975,Spring,M,Climber,UK,property developer,10.0
+EVER00140,EVER,1975,Spring,M,Climber,Netherlands,architect,8.0
+EVER00140,EVER,1975,Spring,M,Climber,UK,royal navy technician,12.0
+EVER00140,EVER,1975,Spring,M,Climber,Australia,teacher,10.0
+EVER00141,EVER,1975,Spring,M,Leader,Japan,student of international relations,2.0
+EVER00142,EVER,1975,Spring,M,Climber,Russia,president of armavir mountaineers club,3.0
+EVER00142,EVER,1975,Spring,M,Exp Doctor,Russia,physician,7.0
+EVER00142,EVER,1975,Spring,M,Climber,Russia,alpine guide instructor,12.0
+EVER00143,EVER,1975,Spring,M,H-A Worker,Nepal,unknown,-1.0
+EVER00144,EVER,1975,Spring,M,Leader,China,staff member of china-tibet mountaineering association,7.0
+EVER00145,EVER,1975,Spring,M,Climber,China,unknown,11.0
+EVER00145,EVER,1975,Spring,M,Climber,China,beijing university student,-2.0
+EVER00145,EVER,1975,Spring,M,Climber,China,beijing university student,-1.0
+EVER00147,EVER,1975,Spring,M,Leader,Denmark,engineer,11.0
+EVER00147,EVER,1975,Spring,M,Climber,Denmark,electrical technician,3.0
+EVER00148,EVER,1975,Spring,M,Deputy Leader,Spain,tourism entrepreneur,10.0
+EVER00148,EVER,1975,Spring,F,Climber,Spain,high school sports teacher,12.0
+EVER00149,EVER,1975,Spring,M,Climber,Netherlands,philosophy student,-2.0
+EVER00149,EVER,1975,Spring,M,Climber,Netherlands,student,4.0
+EVER00149,EVER,1975,Spring,M,BC Manager,Netherlands,telecom services salesman,6.0
+EVER00149,EVER,1975,Spring,M,Climber,Netherlands,teacher,8.0
+EVER00149,EVER,1975,Spring,M,Climber,Netherlands,weekly news magazine editor,11.0
+EVER00149,EVER,1975,Spring,M,Deputy Leader,Netherlands,management consultant,12.0
+EVER00149,EVER,1975,Spring,M,Exp Doctor,Netherlands,physician,7.0
+EVER00151,EVER,1975,Spring,M,Leader,Austria,physiotherapist,10.0
+EVER00152,EVER,1975,Spring,F,Leader,Andorra,hostel owner ski instructor,12.0
+EVER00152,EVER,1975,Spring,M,Climber,Andorra,ski resort manager,11.0
+EVER00152,EVER,1975,Spring,M,Climber,Andorra,senior banker,11.0
+EVER00154,EVER,1975,Spring,M,Climber,Spain,mechanic,6.0
+EVER00154,EVER,1975,Spring,M,Climber,Spain,journalist,3.0
+EVER00154,EVER,1975,Spring,M,Climber,Spain,teacher,8.0
+EVER00154,EVER,1975,Spring,M,Leader,Spain,alpine instructor lecturer guide,8.0
+EVER00154,EVER,1975,Spring,M,Climber,Spain,chemical engineer,11.0
+EVER00154,EVER,1975,Spring,M,Climber,Spain,firefighter,5.0
+EVER00155,EVER,1975,Spring,M,Leader,Spain,mechanic,9.0
+EVER00155,EVER,1975,Spring,M,Climber,Spain,marketing manager,10.0
+EVER00155,EVER,1975,Spring,M,Climber,Argentina,alpine guide,4.0
+EVER00155,EVER,1975,Spring,M,Climber,Spain,alpine guide,6.0
+EVER00155,EVER,1975,Spring,F,Climber,Spain,engineer,2.0
+EVER00155,EVER,1975,Spring,M,H-A Worker,Nepal,unknown,1.0
+EVER00101,EVER,1976,Spring,M,Deputy Leader,UK,alpine guide,11.0
+EVER00101,EVER,1976,Spring,M,Climber,USA,investor,12.0
+EVER00101,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,7.0
+EVER00102,EVER,1976,Spring,M,Leader,Italy,alpinist,9.0
+EVER00102,EVER,1976,Spring,M,Climber,Kazakhstan,underofficer of kazakhstan military sports club,3.0
+EVER00104,EVER,1976,Spring,M,Leader,UK,executive of expedition-organizing company,10.0
+EVER00104,EVER,1976,Spring,M,Climber,UK,computer/communications engineer,12.0
+EVER00104,EVER,1976,Spring,F,BC Manager,UK,computer company director,10.0
+EVER00104,EVER,1976,Spring,F,Climber,UK,ski instructor,3.0
+EVER00104,EVER,1976,Spring,F,Climber,UK,nurse,6.0
+EVER00104,EVER,1976,Spring,M,Climber,UK,director of outdoor clothing and equipment,5.0
+EVER00104,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER00104,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,3.0
+EVER00105,EVER,1976,Spring,M,Climber,Spain,mechanical engineer,5.0
+EVER00105,EVER,1976,Spring,M,Leader/Exp Doctor,Spain,construction company manager,11.0
+EVER00105,EVER,1976,Spring,M,Climber,Spain,veterinarian manager of construction company,7.0
+EVER00105,EVER,1976,Spring,M,Climber,Spain,firefighter,11.0
+EVER00106,EVER,1976,Spring,M,Climber,Spain,university teacher,10.0
+EVER00106,EVER,1976,Spring,M,Climber,Spain,alpine guide,9.0
+EVER00106,EVER,1976,Spring,M,Climber,Spain,university teacher,12.0
+EVER00106,EVER,1976,Spring,M,Climber,Spain,firefighter,6.0
+EVER00106,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,2.0
+EVER00106,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,2.0
+EVER00107,EVER,1976,Spring,M,Climber,Denmark,high school science teacher,11.0
+EVER00107,EVER,1976,Spring,M,Climber,Denmark,alpine equipment sales assistant,3.0
+EVER00107,EVER,1976,Spring,M,Climber,Denmark,student alpine guide,2.0
+EVER00107,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,9.0
+EVER00107,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER00109,EVER,1976,Spring,M,Climber,Spain,alpine guide,8.0
+EVER00109,EVER,1976,Spring,M,BC Manager,Spain,physician,8.0
+EVER00109,EVER,1976,Spring,M,Leader,Spain,physician,12.0
+EVER00109,EVER,1976,Spring,M,Climber,Spain,physiotherapist,8.0
+EVER00109,EVER,1976,Spring,M,Climber,Spain,electrical technician,8.0
+EVER00110,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,3.0
+EVER00111,EVER,1976,Spring,M,Climber,Canada,medical student,2.0
+EVER00111,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,9.0
+EVER00111,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,8.0
+EVER00111,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,6.0
+EVER00112,EVER,1976,Spring,M,Leader,Nepal,alpine guide climber,11.0
+EVER00113,EVER,1976,Spring,M,Sirdar,Nepal,trekking guide assistant alpine instructor,4.0
+EVER00113,EVER,1976,Spring,M,H-A Worker,Nepal,trekking guide alpinist,-4.0
+EVER00113,EVER,1976,Spring,M,Climber,Nepal,schoolboy,-9.0
+EVER00113,EVER,1976,Spring,M,Climber,Nepal,trekking guide alpinist,-1.0
+EVER00114,EVER,1976,Spring,F,BC Manager,USA,ski patroller alpine guide,1.0
+EVER00114,EVER,1976,Spring,M,BC Manager,USA,outdoor equipment store manager,6.0
+EVER00114,EVER,1976,Spring,M,Climber,USA,alpine guide,8.0
+EVER00114,EVER,1976,Spring,M,BC Manager,USA,recreational equipment sales representative,-1.0
+EVER00114,EVER,1976,Spring,F,Film Team,USA,producer,9.0
+EVER00114,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,5.0
+EVER00114,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,-1.0
+EVER00114,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,3.0
+EVER00114,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER00114,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,3.0
+EVER00114,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,5.0
+EVER00115,EVER,1976,Spring,F,Leader,USA,owns business organizing expedition running climbing school,9.0
+EVER00115,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER00115,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,9.0
+EVER00115,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER00115,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,0.0
+EVER00115,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,3.0
+EVER00116,EVER,1976,Spring,F,Leader,Nepal,helper in trekking groups,3.0
+EVER00116,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,9.0
+EVER00116,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,8.0
+EVER00117,EVER,1976,Spring,M,Climber,Canada,manager,8.0
+EVER00117,EVER,1976,Spring,M,Climber,Canada,scientific researcher,11.0
+EVER00117,EVER,1976,Spring,F,Exp Doctor,Canada,physician,8.0
+EVER00117,EVER,1976,Spring,M,Climber,Canada,photographer,11.0
+EVER00117,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,-1.0
+EVER00117,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER00117,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,-1.0
+EVER00117,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER00117,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,6.0
+EVER00118,EVER,1976,Spring,M,Climber,Canada,alpinist poster salesman,4.0
+EVER00118,EVER,1976,Spring,M,Climber,Canada,builds climbing walls salesman of prints bridge inspector,2.0
+EVER00119,EVER,1976,Spring,M,Climber,USA,film-maker,10.0
+EVER00119,EVER,1976,Spring,F,BC Support,Australia,field assistant,2.0
+EVER00119,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,6.0
+EVER00119,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,4.0
+EVER00120,EVER,1976,Spring,M,Climber,Yugoslavia,unknown,7.0
+EVER00120,EVER,1976,Spring,M,Climber,USA,alpine guide,12.0
+EVER00120,EVER,1976,Spring,M,Climber,USA,park ranger,2.0
+EVER00120,EVER,1976,Spring,M,Climber,Canada,physician,10.0
+EVER00120,EVER,1976,Spring,F,Climber,USA,teacher,4.0
+EVER00120,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,7.0
+EVER00121,EVER,1976,Spring,M,Climber,S Korea,unemployed formerly on staff of climbing-equipment company,6.0
+EVER00121,EVER,1976,Spring,M,Climber,S Korea,student,4.0
+EVER00121,EVER,1976,Spring,M,Climbing Leader,S Korea,electrical engineer,10.0
+EVER00121,EVER,1976,Spring,M,Climber,S Korea,student,2.0
+EVER00121,EVER,1976,Spring,M,Climber,S Korea,newspaper reporter,9.0
+EVER00123,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,1.0
+EVER00124,EVER,1976,Spring,M,Member,Mexico,computer communications specialist in govt,2.0
+EVER00126,EVER,1976,Spring,M,Leader,New Zealand,alpine guide,7.0
+EVER00128,EVER,1976,Spring,M,Climber,Japan,economics student,0.0
+EVER00128,EVER,1976,Spring,M,Climber,Japan,alpine guide,11.0
+EVER00128,EVER,1976,Spring,M,Climber,Japan,law student,-2.0
+EVER00128,EVER,1976,Spring,M,Climber,Japan,gardener,4.0
+EVER00128,EVER,1976,Spring,M,Climber,Australia,student of japanese,10.0
+EVER00128,EVER,1976,Spring,M,Exp Doctor,Japan,physician,3.0
+EVER00128,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,6.0
+EVER00128,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,4.0
+EVER00128,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER00128,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,8.0
+EVER00128,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,-3.0
+EVER00128,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER00129,EVER,1976,Spring,M,Climber,Japan,sports shop consultant,10.0
+EVER00129,EVER,1976,Spring,F,Climber,Japan,restaurant waitress,11.0
+EVER00129,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,5.0
+EVER00129,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,4.0
+EVER00133,EVER,1976,Spring,M,Climber,Mexico,business manager,9.0
+EVER00133,EVER,1976,Spring,M,Climber/Guide,USA,alpine guide,12.0
+EVER00134,EVER,1976,Spring,F,BC Manager,Canada,teacher of problem children,6.0
+EVER00134,EVER,1976,Spring,M,Leader,Canada,physician,8.0
+EVER00134,EVER,1976,Spring,M,Climber,Canada,outdoor guide,6.0
+EVER00135,EVER,1976,Spring,M,Exp Doctor,Japan,physician,3.0
+EVER00135,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,-1.0
+EVER00135,EVER,1976,Spring,M,H-A Worker,Nepal,unknown,0.0
+EVER00156,EVER,1976,Spring,M,Leader,Germany,high altitude research scientist,11.0
+EVER00156,EVER,1976,Spring,M,Climber,Austria,alpine guide,10.0
+EVER21101,EVER,1979,Spring,M,Climber,UK,unknown,114.0
+EVER21101,EVER,1979,Spring,M,Climber,UK,schoolmaster at charterhouse,93.0
+EVER21101,EVER,1979,Spring,M,Climber,Canada,surveyor,89.0
+EVER21101,EVER,1979,Spring,M,Climber,UK,consulor service,92.0
+EVER21101,EVER,1979,Spring,M,Surveyor,UK,surveyor,97.0
+EVER21101,EVER,1979,Spring,M,Member,UK,unknown,111.0
+EVER22101,EVER,1979,Spring,M,Climber,UK,unknown,89.0
+EVER22101,EVER,1979,Spring,M,Climber,Australia,unknown,91.0
+EVER22101,EVER,1979,Spring,M,Exp Doctor,UK,physician,104.0
+EVER22101,EVER,1979,Spring,M,Climber,UK,schoolmaster at charterhouse,93.0
+EVER22101,EVER,1979,Spring,M,Climber,UK,unknown,97.0
+EVER22101,EVER,1979,Spring,M,Climber,UK,unknown,95.0
+EVER22101,EVER,1979,Spring,M,Cameraman,UK,unknown,89.0
+EVER22101,EVER,1979,Spring,M,Climber,UK,physician,89.0
+EVER22101,EVER,1979,Spring,M,Climber,UK,unknown,105.0
+EVER22101,EVER,1979,Spring,M,Climber,UK,unknown,103.0
+EVER24101,EVER,1979,Spring,M,Climber,UK,schoolmaster,93.0
+EVER24101,EVER,1979,Spring,M,Climber,UK,unknown,91.0
+EVER24101,EVER,1979,Spring,M,Exp Doctor,UK,medical officer,92.0
+EVER24101,EVER,1979,Spring,M,Cameraman,UK,unknown,89.0
+EVER24101,EVER,1979,Spring,M,Climber,UK,geologist,89.0
+EVER24101,EVER,1979,Spring,M,Transport Officer,UK,naturalist,95.0
+EVER24101,EVER,1979,Spring,M,Climber,UK,physician,89.0
+EVER33101,EVER,1979,Spring,M,Climber,UK,major in military service,89.0
+EVER33101,EVER,1979,Spring,M,Climber,UK,unknown,89.0
+EVER33101,EVER,1979,Spring,M,Transport Officer,UK,naturalist,95.0
+EVER36101,EVER,1979,Spring,M,Exp Doctor,UK,physician et al,96.0
+EVER38101,EVER,1979,Spring,M,Climber,UK,unknown,89.0
+EVER50301,EVER,1979,Autumn,M,Member,USA,unknown,96.0
+EVER93106,EVER,1980,Spring,M,Climber,S Korea,university student of horticulture,12.0
+EVER99130,EVER,1980,Spring,M,H-A Worker,Nepal,unknown,3.0
+EVER99131,EVER,1980,Spring,M,Climber,UK,management consultant,10.0
+EVER99131,EVER,1980,Spring,M,ABC Manager,USA,general contractor natural resource specialist,9.0
+EVER99131,EVER,1980,Spring,F,ABC Manager,USA,biologist,9.0
+EVER99131,EVER,1980,Spring,M,Deputy Leader,USA,biologist,11.0
+EVER99131,EVER,1980,Spring,M,Climber,Japan,tour guide,9.0
+EVER99132,EVER,1980,Spring,M,Leader,Nepal,high school student,-3.0
+EVER99134,EVER,1980,Spring,M,Climber,Ukraine,alpine instructor,9.0
+EVER99134,EVER,1980,Spring,M,Climber,Ukraine,mediator family labor disputes,12.0
+EVER99137,EVER,1980,Spring,M,Climber,Mexico,bank employee,9.0
+EVER99137,EVER,1980,Spring,M,BC Manager,Mexico,insurance company employee,7.0
+EVER99137,EVER,1980,Spring,M,Climber,Mexico,university student of administration,7.0
+EVER99137,EVER,1980,Spring,M,H-A Worker,Nepal,unknown,8.0
+EVER99137,EVER,1980,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER99137,EVER,1980,Spring,M,H-A Worker,Nepal,unknown,9.0
+EVER99301,EVER,1980,Autumn,M,Climber,Spain,attorney,12.0
+EVER99302,EVER,1980,Autumn,M,Climber,Spain,forester,10.0
+EVER99304,EVER,1980,Autumn,M,Climber,S Korea,owns tent manufacturing company,10.0
+EVER99304,EVER,1980,Autumn,M,Climber,S Korea,insurance company employee,12.0
+EVER99304,EVER,1980,Autumn,M,Climber,S Korea,office worker,8.0
+EVER99304,EVER,1980,Autumn,M,Climber,S Korea,student,5.0
+EVER99304,EVER,1980,Autumn,M,Climber,S Korea,employee of camping-equipment manufacturing company,10.0
+EVER99304,EVER,1980,Autumn,M,Climber,S Korea,construction worker,10.0
+EVER99304,EVER,1980,Autumn,M,Climber,S Korea,construction worker,6.0
+EVER92102,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER93109,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER93109,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,10.0
+EVER93114,EVER,1981,Spring,M,Climber,Russia,russian army agent,10.0
+EVER93303,EVER,1981,Autumn,M,H-A Worker,Nepal,unknown,11.0
+EVER95108,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,10.0
+EVER96118,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,9.0
+EVER96304,EVER,1981,Autumn,M,H-A Worker,Nepal,unknown,10.0
+EVER99101,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER99104,EVER,1981,Spring,M,Leader,Belgium,organizer and guide for travel in mountain areas,11.0
+EVER99104,EVER,1981,Spring,M,Climber,Belgium,trekking guide,9.0
+EVER99105,EVER,1981,Spring,F,Climber,Spain,industrial engineer,8.0
+EVER99110,EVER,1981,Spring,M,Leader,USA,alpinist,9.0
+EVER99111,EVER,1981,Spring,M,Historian,Germany,geologist,10.0
+EVER99111,EVER,1981,Spring,M,Climber,USA,alpine guide,8.0
+EVER99111,EVER,1981,Spring,M,Climber,USA,alpine guide,7.0
+EVER99112,EVER,1981,Spring,F,Climber,Sweden,helps run kropp s lecturing leadership-training business,8.0
+EVER99112,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER99113,EVER,1981,Spring,M,Climber,USA,real estate developer,7.0
+EVER99113,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER99115,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,5.0
+EVER99115,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,4.0
+EVER99116,EVER,1981,Spring,F,Climber,China,unknown,12.0
+EVER99118,EVER,1981,Spring,M,Climber,UK,securities trader,4.0
+EVER99118,EVER,1981,Spring,M,Climber,USA,student,9.0
+EVER99118,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER99118,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,5.0
+EVER99118,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,7.0
+EVER99118,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER99118,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,5.0
+EVER99118,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,2.0
+EVER99119,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,9.0
+EVER99121,EVER,1981,Spring,M,Climber,Switzerland,alpinist student,11.0
+EVER99121,EVER,1981,Spring,M,Climber,USA,photographer,8.0
+EVER99123,EVER,1981,Spring,M,BC Manager,Denmark,manages a shop selling outdoor equipment camping climbing gear,11.0
+EVER99125,EVER,1981,Spring,M,Climber,India,alpinist,8.0
+EVER99125,EVER,1981,Spring,F,Climber,India,alpine instructor,10.0
+EVER99126,EVER,1981,Spring,M,Climber,Finland,computer wiring expert,5.0
+EVER99126,EVER,1981,Spring,M,Climber,Argentina,alpine guide,11.0
+EVER99127,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,10.0
+EVER99127,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,10.0
+EVER99128,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,6.0
+EVER99129,EVER,1981,Spring,M,Climber,Japan,student of international relations,8.0
+EVER99129,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER99129,EVER,1981,Spring,M,H-A Worker,Nepal,unknown,8.0
+EVER99130,EVER,1981,Spring,M,Climber,Georgia,student,8.0
+EVER99130,EVER,1981,Spring,M,Climber,Georgia,university student,11.0
+EVER21101,EVER,1982,Spring,M,Exp Doctor,UK,physician,107.0
+EVER21101,EVER,1982,Spring,M,Scientist,UK,geologist,98.0
+EVER24101,EVER,1982,Spring,M,Climber,UK,schoolmaster at charterhouse,96.0
+EVER94108,EVER,1982,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER95102,EVER,1982,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER95102,EVER,1982,Spring,M,H-A Worker,Nepal,unknown,9.0
+EVER95103,EVER,1982,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER95104,EVER,1982,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER96113,EVER,1982,Spring,M,H-A Worker,Nepal,unknown,11.0
+EVER96113,EVER,1982,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER97115,EVER,1982,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER98306,EVER,1983,Autumn,M,Leader,Japan,university student of international relations,10.0
+EVER98309,EVER,1983,Autumn,M,Climber,France,alpine guide,12.0
+EVER21101,EVER,1984,Spring,M,Leader,UK,unknown,101.0
+EVER22101,EVER,1984,Spring,M,Leader,UK,unknown,118.0
+EVER24101,EVER,1984,Spring,M,Leader,UK,unknown,100.0
+EVER33101,EVER,1984,Spring,M,Leader,UK,unknown,100.0
+EVER34101,EVER,1984,Spring,M,Leader,UK,unknown,86.0
+EVER36101,EVER,1984,Spring,M,Leader,UK,unknown,100.0
+EVER38101,EVER,1984,Spring,M,Leader,UK,unknown,86.0
+EVER52101,EVER,1984,Spring,M,Leader,Switzerland,unknown,87.0
+EVER98116,EVER,1991,Spring,M,H-A Worker,Nepal,unknown,12.0
+EVER95107,EVER,1992,Spring,M,Climber,USA,high school student,12.0
+EVER96116,EVER,1992,Spring,M,Climber,USA,high school student,12.0
+EVER63101,EVER,1995,Spring,M,Climber,USA,writer,88.0
+EVER73301,EVER,1995,Autumn,M,Leader (Honorable),Japan,professor of university of osaka,88.0
+EVER81102,EVER,1995,Spring,M,Climber,Japan,president of katano farm sheep breeding,87.0
+EVER17147,EVER,2017,Spring,M,Leader,Nepal,retired british gurkha soldier,86.0
+FANG79301,FANG,1954,Autumn,M,H-A Worker,Nepal,unknown,4.0
+GAN100301,GAN1,1971,Autumn,M,Leader,Spain,architectural technician,2.0
+GAN100301,GAN1,1971,Autumn,F,Climber,Spain,computer instructor,0.0
+GAN100301,GAN1,1971,Autumn,M,Climber,Spain,firefighter,5.0
+GAN100301,GAN1,1971,Autumn,M,Climber,Spain,sports shopping center salesman,-2.0
+GAN100301,GAN1,1971,Autumn,M,Climber,Spain,architectural technician,-4.0
+GAN149201,GAN1,1984,Summer,M,Leader,UK,unknown,86.0
+GAN297301,GAN2,1958,Autumn,M,H-A Worker,Nepal,unknown,7.0
+GAN200101,GAN2,1975,Spring,M,Climber,Japan,student of outdoor-activities education,-1.0
+GAN200101,GAN2,1975,Spring,M,Climber,Japan,biology student,-1.0
+GAN200101,GAN2,1975,Spring,M,Climber,Japan,forester,7.0
+GAN200101,GAN2,1975,Spring,M,Climber,Japan,forester,8.0
+GAN481101,GAN4,1954,Spring,M,Sirdar,Nepal,unknown,1.0
+GAN681101,GAN6,1969,Spring,M,Climber,Japan,physics student,12.0
+GAN681101,GAN6,1969,Spring,M,Climber,Japan,physics student,11.0
+GAN681101,GAN6,1969,Spring,M,Climber,Japan,sales engineer,12.0
+GAN600101,GAN6,1974,Spring,M,Climber,Japan,student of outdoor-activities education,-2.0
+GAN600101,GAN6,1974,Spring,M,Climber,Japan,biology student,-2.0
+GAN600101,GAN6,1974,Spring,M,Climber,Japan,forester,6.0
+GAN600101,GAN6,1974,Spring,M,Climber,Japan,forester,7.0
+GANC93301,GANC,1953,Autumn,M,Co-Leader,Spain,unknown,-17.0
+GANC99301,GANC,1980,Autumn,M,Climber,Switzerland,consulting engineer,12.0
+GANC99301,GANC,1980,Autumn,M,Climber,Switzerland,student,6.0
+GANC99301,GANC,1980,Autumn,M,Climber,Norway,student,3.0
+GANC49201,GANC,1984,Summer,M,Leader,UK,unknown,86.0
+GANG83302,GANG,1936,Autumn,M,Climber,Yugoslavia,technician,-15.0
+GANG98301,GANG,1959,Autumn,M,Climber,UK,royal navy aeronautical engineer,-8.0
+GANG98301,GANG,1959,Autumn,M,Climber,UK,sergeant marine,-4.0
+GANG91401,GANG,1970,Winter,M,Climber,USA,factory production manager,6.0
+GANG99101,GANG,1980,Spring,M,Climber,USA,outdoor activities instructor ski patrolman,11.0
+GANG99101,GANG,1980,Spring,M,Climber,USA,alpine guide outdoor activities instructor,8.0
+GANG99101,GANG,1980,Spring,F,BC Manager,USA,student outdoor activities instructor,9.0
+GANG98301,GANG,1983,Autumn,M,Climber,UK,marine,9.0
+GAUS84301,GAUS,1939,Autumn,M,Climber,Japan,alpine guide,-8.0
+GAUS84301,GAUS,1940,Autumn,M,Climber,Japan,bookshop salesman,-20.0
+GAUS84301,GAUS,1947,Autumn,M,Climber,Japan,salesman,-11.0
+GAUS84301,GAUS,1947,Autumn,M,Climber,Japan,office worker,-2.0
+GAUS84301,GAUS,1947,Autumn,M,Climber,Japan,travel agent,-8.0
+GAUS84301,GAUS,1947,Autumn,M,Climber,Japan,alpine guide,-4.0
+GAUS84301,GAUS,1947,Autumn,M,Climber,Japan,engineer petroleum,-6.0
+GAUS84301,GAUS,1947,Autumn,M,Climber,Japan,sports shop owner,-10.0
+GAUS79301,GAUS,1949,Autumn,M,Leader,UK,director of the international school of mountaineering,-1.0
+GAUS79301,GAUS,1949,Autumn,M,Climber,UK,director of the national centre for mountain activities,5.0
+GAUS79301,GAUS,1949,Autumn,M,Climber,UK,architectural student at a polytechnic in manchester,-9.0
+GAUS79301,GAUS,1949,Autumn,M,Climber,Switzerland,alpine guide instructor at the international school mountain,-2.0
+GAUS83301,GAUS,1949,Autumn,M,Leader,Yugoslavia,technical manager in factory,0.0
+GAUS83301,GAUS,1949,Autumn,M,Deputy Leader,Yugoslavia,physical education teacher,-5.0
+GAUS83301,GAUS,1949,Autumn,F,Member,Yugoslavia,professor of physical education,-2.0
+GAUS83301,GAUS,1949,Autumn,M,Climber,Yugoslavia,butcher,-6.0
+GAUS83301,GAUS,1949,Autumn,M,Member,Yugoslavia,economist,12.0
+GAUS83301,GAUS,1949,Autumn,M,Member,Yugoslavia,chemical engineer,1.0
+GAUS83301,GAUS,1949,Autumn,M,Climber,Yugoslavia,salesman jewelery shop,-10.0
+GAUS83301,GAUS,1949,Autumn,M,Member,Yugoslavia,physician,-7.0
+GAUS83301,GAUS,1949,Autumn,M,Climber,Yugoslavia,worker agriculture machinery factory,-7.0
+GAUS83301,GAUS,1949,Autumn,F,Climber,Yugoslavia,professor of education,-9.0
+GAUS83301,GAUS,1949,Autumn,M,Climber,Yugoslavia,forestry student,-8.0
+GAUS83301,GAUS,1949,Autumn,M,Climber,Yugoslavia,law student,-11.0
+GAUS83301,GAUS,1949,Autumn,M,Climber,Yugoslavia,newspaperman,-4.0
+GAUS83301,GAUS,1949,Autumn,M,Climber,Yugoslavia,student of art history,-11.0
+GAUS83301,GAUS,1949,Autumn,M,Exp Doctor,Yugoslavia,physician,0.0
+GAUS84301,GAUS,1949,Autumn,M,Leader,Japan,law professor,12.0
+GAUS84301,GAUS,1949,Autumn,M,Climbing Leader,Japan,sports shop manager,4.0
+GAUS84301,GAUS,1949,Autumn,M,Deputy Leader,Japan,staff member ministry education,8.0
+GAUS84301,GAUS,1949,Autumn,M,Climber,Japan,salesman,-2.0
+GAUS84301,GAUS,1949,Autumn,M,Climber,Japan,sports shop,-7.0
+GIME94301,GIME,1981,Autumn,M,H-A Worker,Nepal,unknown,9.0
+GIMM39201,GIMM,1920,Summer,M,Climber,Germany,unknown,11.0
+GIMM39201,GIMM,1920,Summer,M,Climber,Germany,unknown,7.0
+GIMM36201,GIMM,1984,Summer,M,Leader,Germany,unknown,88.0
+GIMM37101,GIMM,1984,Spring,M,Leader,Switzerland,unknown,91.0
+GLAC83301,GLAC,1935,Autumn,F,Climber,Austria,housewife,-9.0
+GLAC83301,GLAC,1935,Autumn,M,Climber,Austria,salesman bathroom tiles,-12.0
+GLAC83301,GLAC,1935,Autumn,M,Climber,Austria,executive of seed company,-22.0
+GLAC83301,GLAC,1935,Autumn,M,Climber,Austria,owner home construction company,-6.0
+GLAC83301,GLAC,1935,Autumn,M,Climber,Austria,factory worker,-1.0
+GLAC84302,GLAC,1935,Autumn,M,Climber,Switzerland,alpine guide,-25.0
+GLAC81301,GLAC,1936,Autumn,M,Climber,Austria,technician,9.0
+GLAC81301,GLAC,1936,Autumn,M,Climber,Austria,chemist,-3.0
+GLAC81301,GLAC,1936,Autumn,M,Climber,Austria,technician,-7.0
+GLAC81301,GLAC,1936,Autumn,M,Climber,Austria,salesman,-18.0
+GLAC81301,GLAC,1936,Autumn,M,Climber,Austria,baker,-4.0
+GLAC81301,GLAC,1936,Autumn,M,Climber,Austria,physicist,-4.0
+GLAC81301,GLAC,1936,Autumn,M,Climber,Austria,railway employee,-8.0
+GLAC83301,GLAC,1936,Autumn,M,Climber,Austria,tax consultant,-7.0
+GLAC88301,GLAC,1961,Autumn,M,Climber,Poland,metallurgist,9.0
+GLAC81101,GLAC,1962,Spring,M,Climber,Sweden,civil engineer,12.0
+GLAC81101,GLAC,1962,Spring,M,Climber,Sweden,economics student,10.0
+GLAC81101,GLAC,1962,Spring,M,Climber,Sweden,organiser of leisure activities,11.0
+GLAC81101,GLAC,1962,Spring,M,Sirdar,Nepal,unknown,10.0
+GLAC88301,GLAC,1962,Autumn,M,Climber,Italy,alpine guide,7.0
+GLAC88301,GLAC,1962,Autumn,M,Climber,USA,carpenter photographer,6.0
+GLAC88301,GLAC,1973,Autumn,M,Climber,Poland,cultural anthropology student,11.0
+GURK98301,GURK,1983,Autumn,M,Climber,Japan,unemployed entering climbing profession,12.0
+GURK98301,GURK,1983,Autumn,F,Climber,Japan,university student of geography,9.0
+GYAC98302,GYAC,1958,Autumn,M,H-A Worker,Nepal,unknown,-3.0
+GYAC00101,GYAC,1960,Spring,M,H-A Worker,Nepal,unknown,-1.0
+GYAC00101,GYAC,1960,Spring,M,H-A Worker,Nepal,unknown,-10.0
+GYAC99301,GYAC,1980,Autumn,M,Climber,Slovenia,sports student,11.0
+GYAC99301,GYAC,1980,Autumn,M,Climber,Slovenia,student of technical education and home economics,10.0
+GYAC99301,GYAC,1980,Autumn,M,Climber,Slovenia,geogetic engineer,9.0
+GYAC99301,GYAC,1980,Autumn,M,Climber,Slovenia,mechanical engineering student,8.0
+GYAC99301,GYAC,1980,Autumn,M,Climber,Slovenia,electrician,6.0
+HCHI00101,HCHI,1960,Spring,M,Climber,Japan,electrical engineer,10.0
+HCHI00101,HCHI,1960,Spring,M,H-A Worker,Nepal,unknown,-1.0
+HCHI00101,HCHI,1960,Spring,M,H-A Worker,Nepal,unknown,-10.0
+HCHI84301,HCHI,1964,Autumn,M,Leader,UK,just finished studies in biology physical education,8.0
+HIME83101,HIME,1954,Spring,M,Climber,Poland,unknown,4.0
+HIML00301,HIML,1971,Autumn,F,Exp Doctor,Spain,physician,5.0
+HIML00301,HIML,1971,Autumn,M,Climber,Spain,writer of books,-5.0
+HIML99301,HIML,1980,Autumn,M,Climber,Germany,civil engineer,9.0
+IMJA58301,IMJA,1984,Autumn,M,Climber,Italy,unknown,101.0
+JANE93301,JANE,1929,Autumn,M,Climber,Slovenia,student of literature,-35.0
+JANE93301,JANE,1929,Autumn,M,Climber,Slovenia,student of computers,-38.0
+JANE96301,JANE,1929,Autumn,M,Leader,Slovenia,forester environmental consultant,-34.0
+JANE96301,JANE,1929,Autumn,F,Climber,Slovenia,physician,-23.0
+JANE96301,JANE,1929,Autumn,M,Climber,Slovenia,student of physical education,-42.0
+JANE98101,JANE,1929,Spring,M,Leader,Slovenia,economist,-29.0
+JANE98101,JANE,1929,Spring,M,Deputy Leader,Slovenia,electrician,-37.0
+JANE98101,JANE,1929,Spring,M,Climber,Slovenia,salesman in shop,-32.0
+JANE98101,JANE,1929,Spring,M,Exp Doctor,Slovenia,physician,-17.0
+JANE98101,JANE,1929,Spring,M,Climber,Slovenia,engineer,-42.0
+JANE98101,JANE,1929,Spring,M,Climber,Slovenia,builder,-37.0
+JANE98101,JANE,1929,Spring,M,Climber,Slovenia,builder,-36.0
+JANE98101,JANE,1929,Spring,M,Climber,Slovenia,computer technician,-38.0
+JANE91101,JANE,1930,Spring,M,Leader,Yugoslavia,electrical technician,-7.0
+JANE91101,JANE,1930,Spring,M,Climber,Yugoslavia,metal worker,-36.0
+JANE91101,JANE,1930,Spring,M,Climber,Yugoslavia,forester,-33.0
+JANE92101,JANE,1930,Spring,M,Leader,Slovenia,forestry student,-36.0
+JANE92101,JANE,1930,Spring,M,Climber,Slovenia,forester,-33.0
+JANE92101,JANE,1930,Spring,M,Exp Doctor,Slovenia,physician internal medicine,-19.0
+JANE92301,JANE,1930,Autumn,M,Leader,Slovenia,electrician,-36.0
+JANE92301,JANE,1930,Autumn,M,Climber,Slovenia,social worker,-24.0
+JANE92301,JANE,1930,Autumn,M,Climber,Slovenia,farmer,-35.0
+JANE92301,JANE,1930,Autumn,M,Climber,Slovenia,mechanic,-37.0
+JANE92301,JANE,1930,Autumn,M,Climber,Slovenia,graphic artist,-31.0
+JANE92301,JANE,1930,Autumn,M,Climber,Slovenia,student of computer systems,-37.0
+JANE93301,JANE,1930,Autumn,M,Leader,Slovenia,electrician,-36.0
+JANU00301,JANU,1971,Autumn,M,Leader,USA,adventure consultant,0.0
+JANU00301,JANU,1971,Autumn,M,Climber,USA,alpinist,2.0
+JANU00301,JANU,1971,Autumn,M,Climber,UK,professional alpinist,4.0
+JANU00101,JANU,1975,Spring,M,Exp Doctor,Australia,physician,8.0
+JANU00101,JANU,1975,Spring,M,Climber,Australia,writer about climbing,4.0
+JANU99301,JANU,1980,Autumn,M,Exp Doctor,Uzbekistan,neurologist,11.0
+JANU99301,JANU,1980,Autumn,M,Climber,Russia,manager of automobile plant,9.0
+JANU99301,JANU,1980,Autumn,M,Climber,Russia,professional climber,12.0
+JANU98301,JANU,1982,Autumn,M,Climber,France,alpine guide,10.0
+JANU98301,JANU,1982,Autumn,M,Leader,France,alpine guide,8.0
+JANU97301,JANU,1990,Autumn,M,Climber,Argentina,student just finished high school,11.0
+JASG64101,JASG,1949,Spring,M,Climber,W Germany,compositor printing,9.0
+JASG96301,JASG,1949,Autumn,M,Leader,Japan,printing company president,7.0
+JASG96301,JASG,1949,Autumn,M,Climber,Japan,alpine guide,-13.0
+JASG96301,JASG,1949,Autumn,F,Climber,Japan,office staff of printing company,-3.0
+JASG96301,JASG,1949,Autumn,M,Climber,Japan,alpine guide,1.0
+JASG96301,JASG,1949,Autumn,M,Climber,Japan,office worker,-11.0
+JONG00301,JONG,1971,Autumn,M,Climber,Slovenia,student of electrical engineering,-5.0
+JONG00301,JONG,1971,Autumn,M,Climber (Kirat Chuli),Slovenia,architecture student,-3.0
+JONG00301,JONG,1971,Autumn,M,Climber (Pyramid),Slovenia,sports student,-6.0
+JONG00301,JONG,1971,Autumn,M,Climber,Slovenia,geodesy student,-6.0
+JONG00301,JONG,1971,Autumn,M,Climber (Pyramid),Slovenia,sports student,-6.0
+JONG00301,JONG,1971,Autumn,M,Climber,Slovenia,architecture student,2.0
+JONG00301,JONG,1971,Autumn,M,Climber,Slovenia,forester,-3.0
+JONG00301,JONG,1971,Autumn,M,Climber,Slovenia,sports student,-5.0
+JONG00301,JONG,1971,Autumn,M,Climber (Kirat Chuli),Slovenia,sports student,-4.0
+JONG00301,JONG,1971,Autumn,M,Climber,Slovenia,biology student,-3.0
+JONG09301,JONG,1984,Autumn,M,Leader,UK,unknown,116.0
+JONG30101,JONG,1984,Spring,M,Leader,Germany,unknown,98.0
+JONG30101,JONG,1984,Spring,M,Climber,Switzerland,cartographer,97.0
+KABD82301,KABD,1963,Autumn,F,Climber,India,unknown,4.0
+KABD82301,KABD,1963,Autumn,F,Climber,India,unknown,4.0
+KABD82301,KABD,1963,Autumn,F,Climber,India,unknown,6.0
+KABD87101,KABD,1970,Spring,M,Climber,India,unknown,6.0
+KABD85101,KABD,1973,Spring,M,Climber,France,sergeant french army,11.0
+KABD25101,KABD,1984,Spring,M,Leader,Greece,unknown,90.0
+KABN85101,KABN,1963,Spring,M,Climber,France,sergeant french army alpine guide ski instructor,4.0
+KABN94101,KABN,1963,Spring,M,Climber,India,indian army,-6.0
+KABN94101,KABN,1963,Spring,M,Climber,India,indian army,-7.0
+KABN94101,KABN,1963,Spring,M,Climber,India,indian army,-1.0
+KABN94101,KABN,1963,Spring,M,Climber,India,indian army,-5.0
+KABN07301,KABN,1965,Autumn,M,Climber,Norway,unknown,116.0
+KABN94101,KABN,1965,Spring,M,Climber,India,major indian army,6.0
+KABN94101,KABN,1965,Spring,M,Exp Doctor,India,major indian army,7.0
+KABN94101,KABN,1965,Spring,M,Exp Doctor,India,major indian army,5.0
+KABN94101,KABN,1965,Spring,M,Climber,India,captain indian army,4.0
+KABN94101,KABN,1965,Spring,M,Climber,India,captain indian army,6.0
+KABN07301,KABN,1984,Autumn,M,Leader,Norway,unknown,99.0
+KABN20401,KABN,1984,Winter,M,Leader,UK,unknown,116.0
+KABR94101,KABR,1963,Spring,M,Climber,India,naik subedar indian army,11.0
+KABS94101,KABS,1963,Spring,M,Climber,India,captain indian army,2.0
+KABS94101,KABS,1963,Spring,M,Climber,India,captain indian army,4.0
+KALI84101,KALI,1938,Spring,M,Sirdar,Nepal,unknown,-10.0
+KALI94101,KALI,1938,Spring,M,Leader,Czechoslovakia,building site engineer,-16.0
+KALI94101,KALI,1938,Spring,M,Climber,Czechoslovakia,telecommunications worker,-23.0
+KALI94101,KALI,1938,Spring,M,Exp Doctor,Czechoslovakia,physician,-13.0
+KALI94101,KALI,1938,Spring,M,Climber,Czechoslovakia,carpenter,-23.0
+KALI94101,KALI,1938,Spring,M,Climber,Czechoslovakia,firefighter,-24.0
+KALI94101,KALI,1938,Spring,M,Climber,Czechoslovakia,secondary school teacher,-28.0
+KALI94101,KALI,1938,Spring,M,Climber,Czechoslovakia,worker on tall buildings,-29.0
+KALI83101,KALI,1939,Spring,M,Leader,Netherlands,medical student,-18.0
+KALI83101,KALI,1939,Spring,M,Climber,Netherlands,student of mathematics,-19.0
+KALI83101,KALI,1939,Spring,F,Climber,Netherlands,linguistics student,-20.0
+KALI83101,KALI,1939,Spring,M,Climber,Netherlands,medical student,-21.0
+KALI84101,KALI,1939,Spring,M,Leader,S Korea,restaurant owner,-10.0
+KALI84101,KALI,1939,Spring,M,Deputy Leader,S Korea,construction company staff,-17.0
+KALI84101,KALI,1939,Spring,M,Climber,S Korea,student of chinese language literature,-17.0
+KALI84101,KALI,1939,Spring,M,Climber,S Korea,student of chinese language literature,-23.0
+KALI84101,KALI,1939,Spring,M,Climber,S Korea,staff member import-export company,-18.0
+KALI84101,KALI,1939,Spring,M,Climber,S Korea,student of indonesian malayasian languages literature,-20.0
+KALI84101,KALI,1939,Spring,M,Climber,S Korea,student of portugese language literature,-23.0
+KAN184101,KAN1,1961,Spring,M,Climber,UK,oil techonologist,10.0
+KANB30101,KANB,1984,Spring,M,Leader,Germany,unknown,98.0
+KANC91101,KANC,1961,Spring,M,Climber,Yugoslavia,metal worker,-5.0
+KANC91101,KANC,1961,Spring,M,Climber,Yugoslavia,forester,-2.0
+KANG80102,KANG,1954,Spring,M,H-A Worker,Nepal,unknown,-4.0
+KANG82101,KANG,1954,Spring,M,H-A Worker,Nepal,unknown,8.0
+KANG83101,KANG,1954,Spring,M,H-A Worker,Nepal,unknown,8.0
+KANG85401,KANG,1954,Winter,M,Climber,Poland,mining engineer,3.0
+KANG88101,KANG,1954,Spring,M,Sirdar,Nepal,unknown,-1.0
+KANG88103,KANG,1954,Spring,M,Climber,India,computer operator,-2.0
+KANG91101,KANG,1954,Spring,M,H-A Worker,India,unknown,-13.0
+KANG91101,KANG,1954,Spring,M,H-A Worker,India,unknown,-11.0
+KANG00101,KANG,1955,Spring,M,Sirdar,Nepal,unknown,-8.0
+KANG99301,KANG,1955,Autumn,M,Cameraman,S Korea,unknown,-2.0
+KANG99301,KANG,1955,Autumn,M,H-A Worker,Nepal,unknown,-8.0
+KANG99301,KANG,1955,Autumn,M,H-A Worker,Nepal,unknown,-17.0
+KANG00301,KANG,1959,Autumn,M,H-A Worker,Nepal,unknown,-2.0
+KANG05201,KANG,1970,Summer,M,Climber,Switzerland,unknown,102.0
+KANG91101,KANG,1970,Spring,M,Climber,India,itbp subinspector,3.0
+KANG91101,KANG,1970,Spring,M,Film Team,India,itbp constable,6.0
+KANG00301,KANG,1971,Autumn,M,Climber,Czech Republic,building company manager,7.0
+KANG00301,KANG,1971,Autumn,M,Climber,Czech Republic,travel agency owner,4.0
+KANG00301,KANG,1971,Autumn,M,Climber,Czech Republic,motor technician,10.0
+KANG00301,KANG,1971,Autumn,M,Leader,Czech Republic,unknown,7.0
+KANG00301,KANG,1971,Autumn,F,Climber,Czech Republic,university teacher of sports,0.0
+KANG00107,KANG,1974,Spring,M,Sirdar,Nepal,unknown,2.0
+KANG87102,KANG,1974,Spring,M,Climber,Nepal,havildar assam rifles,11.0
+KANG99101,KANG,1974,Spring,M,Climber,S Korea,farmer,7.0
+KANG99101,KANG,1974,Spring,M,Climber,S Korea,tour guide,6.0
+KANG99101,KANG,1974,Spring,M,Climber,S Korea,owner of bankrupt animal-feed company,10.0
+KANG99101,KANG,1974,Spring,M,Climber,S Korea,civil engineering student,-1.0
+KANG99101,KANG,1974,Spring,M,Climber,S Korea,civil engineering student,-1.0
+KANG00102,KANG,1975,Spring,M,Climber,India,policeman,12.0
+KANG00102,KANG,1975,Spring,M,Climber,India,policeman,6.0
+KANG00102,KANG,1975,Spring,M,Climber,India,government servant,7.0
+KANG00102,KANG,1975,Spring,M,Climber,India,police officer,9.0
+KANG00102,KANG,1975,Spring,M,Climber,India,police officer,2.0
+KANG00102,KANG,1975,Spring,F,Climber,India,policewoman,7.0
+KANG00102,KANG,1975,Spring,M,Climber,India,police,5.0
+KANG00102,KANG,1975,Spring,M,Climber,India,police,7.0
+KANG00102,KANG,1975,Spring,M,Climber,India,unknown,4.0
+KANG00102,KANG,1975,Spring,M,Climber,India,unknown,5.0
+KANG00102,KANG,1975,Spring,M,Climber,India,unknown,10.0
+KANG00102,KANG,1975,Spring,M,Climber,India,unknown,10.0
+KANG00102,KANG,1975,Spring,M,Climber,India,itbp subinspector,10.0
+KANG00102,KANG,1975,Spring,M,Climber,India,unknown,8.0
+KANG00102,KANG,1975,Spring,M,H-A Worker,Nepal,unknown,3.0
+KANG00102,KANG,1975,Spring,M,H-A Worker,Nepal,unknown,3.0
+KANG00103,KANG,1975,Spring,F,Climber,Switzerland,alpine guide wineyard worker,11.0
+KANG00104,KANG,1975,Spring,F,Climber,Austria,sales manager,8.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,army staff,7.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,marine captain,2.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,air force chief technician,12.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,unknown,11.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,army sergeant,10.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,unknown,6.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,sergeant in army engineers,5.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,major in army s higlanders regiment,12.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,physical training instructor in royal marines colour sergeant,11.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,marine sergeant,1.0
+KANG00106,KANG,1975,Spring,M,Climber,UK,air force corporal,7.0
+KANG00107,KANG,1975,Spring,M,Climber,S Korea,unknown,9.0
+KANG00107,KANG,1975,Spring,M,Climber,S Korea,alpine ski instructor,6.0
+KANG00107,KANG,1975,Spring,M,Climber,S Korea,alpine instructor,8.0
+KANG30101,KANG,1979,Spring,F,Secretary,Germany,unknown,87.0
+KANG30101,KANG,1979,Spring,M,Deputy Leader,Switzerland,cartographer,92.0
+KANG99101,KANG,1980,Spring,M,H-A Worker,Nepal,unknown,11.0
+KANG99301,KANG,1980,Autumn,M,Climber,S Korea,automotive parts importer,12.0
+KANG99301,KANG,1980,Autumn,M,Climber,S Korea,iron and stell products salesman,12.0
+KANG99301,KANG,1980,Autumn,M,Climber,S Korea,unemployed,12.0
+KANG99301,KANG,1980,Autumn,M,Climber,S Korea,tour guide,10.0
+KANG91101,KANG,1981,Spring,M,Climber,Japan,surveying equipment salesman,11.0
+KANG91101,KANG,1981,Spring,F,Climber,India,up government village development officer,12.0
+KANG05201,KANG,1984,Summer,M,Leader,UK,unknown,109.0
+KANG10101,KANG,1984,Spring,M,Leader,UK,unknown,116.0
+KANG20301,KANG,1984,Autumn,M,Leader,UK,unknown,119.0
+KANG25101,KANG,1984,Spring,M,Leader,Greece,photographer geologist,90.0
+KANG29201,KANG,1984,Summer,M,Leader,Germany,notary,88.0
+KANG30101,KANG,1984,Spring,M,Leader,Germany,unknown,98.0
+KANG31201,KANG,1984,Summer,M,Leader,Germany,unknown,88.0
+KANS78101,KANS,1954,Spring,F,Member,USA,teacher,2.0
+KANS78101,KANS,1954,Spring,F,Member,Poland,student,-3.0
+KANS78101,KANS,1961,Spring,M,Climber,USA,construction worker,9.0
+KANS78101,KANS,1961,Spring,M,Climber,USA,student,8.0
+KANT98301,KANT,1958,Autumn,M,H-A Worker,Nepal,unknown,-3.0
+KANT98301,KANT,1958,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+KANT98301,KANT,1958,Autumn,M,H-A Worker,Nepal,unknown,-8.0
+KANT98301,KANT,1958,Autumn,M,H-A Worker,Nepal,unknown,-2.0
+KCHS84301,KCHS,1939,Autumn,M,Leader,Yugoslavia,electrician,-16.0
+KCHS84302,KCHS,1939,Autumn,M,Leader,UK,just finished studies in biology physical education,-17.0
+KGUR00301,KGUR,1971,Autumn,F,Climber,France,diving instructor,8.0
+KGUR00301,KGUR,1971,Autumn,M,Climber,France,information technology engineer,5.0
+KGUR00301,KGUR,1971,Autumn,F,Climber,France,engineer working in bank,4.0
+KGUR00301,KGUR,1971,Autumn,M,Climber,France,diver,10.0
+KGUR99302,KGUR,1979,Autumn,M,H-A Worker,Nepal,unknown,8.0
+KGUR99302,KGUR,1979,Autumn,M,H-A Worker,Nepal,unknown,9.0
+KGUR99302,KGUR,1980,Autumn,M,Climber,France,alpine guide,11.0
+KGUR91301,KGUR,1981,Autumn,M,H-A Worker,Nepal,unknown,9.0
+KGUR50201,KGUR,1984,Summer,M,Leader,UK,unknown,86.0
+KHUM79101,KHUM,1964,Spring,M,Climber,Yugoslavia,machinist,9.0
+KIRA95301,KIRA,1959,Autumn,M,Climber,Germany,technician,-4.0
+KIRA95301,KIRA,1959,Autumn,M,Climber,Germany,student,-9.0
+KIRA95301,KIRA,1959,Autumn,M,Climber,Germany,student,-9.0
+KIRA95301,KIRA,1959,Autumn,M,Climber,Germany,physicist,-7.0
+KIRA95301,KIRA,1959,Autumn,M,Climber,Germany,construction worker,-8.0
+KIRA95301,KIRA,1959,Autumn,M,Climber,Germany,student,-7.0
+KIRA95301,KIRA,1959,Autumn,M,Climber,Germany,student,-9.0
+KIRA00301,KIRA,1970,Autumn,M,Climber,Slovenia,architecture student,-4.0
+KIRA00301,KIRA,1970,Autumn,M,Climber,Slovenia,sports student,-5.0
+KIRA10101,KIRA,1984,Spring,M,Leader,UK,unknown,116.0
+KIRA36201,KIRA,1984,Summer,M,Leader,Germany,unknown,88.0
+KIRA37101,KIRA,1984,Spring,M,Leader,Switzerland,unknown,91.0
+KIRA39101,KIRA,1984,Spring,M,Leader,Switzerland,unknown,91.0
+KJRS99301,KJRS,1980,Autumn,M,Climber,UK,anthropology student,8.0
+KJRS99301,KJRS,1980,Autumn,M,Exp Doctor,UK,dental surgeon,9.0
+KJRS99301,KJRS,1980,Autumn,M,Climber,UK,management consultant,6.0
+KJRS99301,KJRS,1980,Autumn,M,Climber,UK,physiotherapist,11.0
+KJRS99301,KJRS,1980,Autumn,M,Deputy Leader,UK,civil engineer,10.0
+KJRS99301,KJRS,1980,Autumn,F,Climber,UK,environmental economist,10.0
+KJRS99301,KJRS,1980,Autumn,F,Climber,UK,nurse,9.0
+KJRS99301,KJRS,1980,Autumn,M,Climber,UK,journalist,6.0
+KJRS99301,KJRS,1980,Autumn,M,Leader,UK,industrial engineer,9.0
+KOTA93302,KOTA,1963,Autumn,M,Leader,India,major indian army,3.0
+KOTA93302,KOTA,1963,Autumn,M,Support,India,unknown,4.0
+KTEG00301,KTEG,1971,Autumn,M,Climber,Australia,police officer,-2.0
+KTEG00301,KTEG,1971,Autumn,M,Climber,Australia,manager of printing supply firm,8.0
+KTEG00301,KTEG,1971,Autumn,M,Leader,Australia,lecturer,12.0
+KTEG00301,KTEG,1971,Autumn,M,Climber,Australia,store manager,3.0
+KTEG00101,KTEG,1975,Spring,M,Leader,Russia,alpinist,11.0
+KTEG00101,KTEG,1975,Spring,F,Climber,Russia,couturier,11.0
+KTEG98302,KTEG,1982,Autumn,M,Climber,Italy,sports equipment salesman,10.0
+KTEG98302,KTEG,1982,Autumn,F,Climber,Italy,woodcarving painter,10.0
+KTEG98302,KTEG,1982,Autumn,M,Climber,Italy,alpine guide,12.0
+KTEG98301,KTEG,1983,Autumn,M,Climber,France,training to be alpine guide,10.0
+KTEG98301,KTEG,1983,Autumn,M,Climber,France,student,8.0
+KTEG98301,KTEG,1983,Autumn,M,Climber,France,student,9.0
+KTEG98301,KTEG,1983,Autumn,M,Climber,France,training to be alpine guide,7.0
+KTEG98301,KTEG,1983,Autumn,M,Climber,France,student,4.0
+KTOK96301,KTOK,1964,Autumn,M,Climber,France,alpine guide,1.0
+KTOK96301,KTOK,1964,Autumn,M,Climber,France,ski instructor,6.0
+KTOK99201,KTOK,1969,Summer,M,Climber,Japan,motorcyle rider,9.0
+KUSU85102,KUSU,1964,Spring,M,Climber,USA,unknown,7.0
+KUSU98101,KUSU,1981,Spring,M,Climber,Japan,mountain porter,12.0
+KWAN91301,KWAN,1953,Autumn,M,Co-Leader,UK,alpine guide,-12.0
+KWAN91301,KWAN,1953,Autumn,M,Co-Leader,UK,unknown,-11.0
+KWAN95301,KWAN,1960,Autumn,M,Climber,France,alpine guide,-11.0
+KWAN95301,KWAN,1960,Autumn,M,Leader,France,unknown,-1.0
+KWAN95301,KWAN,1960,Autumn,M,Climber,France,alpine guide,-10.0
+KWAN95301,KWAN,1960,Autumn,M,Climber,France,alpine guide,-10.0
+LANG94401,LANG,1955,Winter,M,H-A Worker,Nepal,unknown,-9.0
+LANG91302,LANG,1970,Autumn,M,Climber,UK,solicitor,8.0
+LANG99301,LANG,1980,Autumn,M,Climber,Spain,electrician,10.0
+LANG99301,LANG,1980,Autumn,M,Climber,Spain,office worker,6.0
+LANG99302,LANG,1980,Autumn,M,Climber,Switzerland,electrical engineer alpine guide,9.0
+LANG99302,LANG,1980,Autumn,M,Climber,Switzerland,carpenter,10.0
+LANG49201,LANG,1984,Summer,M,Leader,UK,unknown,86.0
+LANR71301,LANR,1925,Autumn,M,Climber,Japan,unknown,-21.0
+LANR71301,LANR,1929,Autumn,M,Leader,Japan,unknown,-21.0
+LANR71301,LANR,1929,Autumn,M,Climber,Japan,unknown,-11.0
+LEON93301,LEON,1953,Autumn,M,Co-Leader,Spain,unknown,-17.0
+LHOT79101,LHOT,1954,Spring,M,H-A Worker,Nepal,unknown,4.0
+LHOT90101,LHOT,1954,Spring,M,Climber,USA,alpine guide film technician,-3.0
+LHOT90101,LHOT,1954,Spring,M,Climber,USA,ski instructor,-4.0
+LHOT96101,LHOT,1955,Spring,M,Climber,UK,photo lab manager,-7.0
+LHOT96101,LHOT,1955,Spring,M,Climber,New Zealand,computer programmer,-9.0
+LHOT97301,LHOT,1955,Autumn,M,H-A Worker,Nepal,unknown,-7.0
+LHOT99103,LHOT,1959,Spring,M,H-A Worker,Nepal,unknown,-11.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,5.0
+LHOT00303,LHOT,1970,Autumn,M,Deputy Leader,Russia,rescuer,6.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,5.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,2.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,3.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,7.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,4.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Ukraine,rescuer,9.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Ukraine,rescuer,4.0
+LHOT00303,LHOT,1970,Autumn,M,BC Manager,Russia,rescuer,-3.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,8.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,-3.0
+LHOT00303,LHOT,1970,Autumn,M,Exp Doctor,Russia,rescuer cameraman,6.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,3.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,0.0
+LHOT00303,LHOT,1970,Autumn,M,Climber,Russia,rescuer,12.0
+LHOT00304,LHOT,1970,Autumn,M,Leader,S Korea,building contractor,8.0
+LHOT00304,LHOT,1970,Autumn,M,Climber,S Korea,student,-6.0
+LHOT00304,LHOT,1970,Autumn,M,Climber,S Korea,student,-5.0
+LHOT00301,LHOT,1971,Autumn,M,Leader,Spain,professional alpinist,6.0
+LHOT00302,LHOT,1971,Autumn,M,Climber,S Korea,hyundai office worker,4.0
+LHOT00302,LHOT,1971,Autumn,M,Climber,S Korea,hyundai office worker,6.0
+LHOT00302,LHOT,1971,Autumn,M,Climber,S Korea,hyundai office worker,0.0
+LHOT00302,LHOT,1971,Autumn,M,Climber,S Korea,hyundai office worker,-4.0
+LHOT00302,LHOT,1971,Autumn,M,Climber,S Korea,hyundai office worker,-4.0
+LHOT00302,LHOT,1971,Autumn,M,Climber,S Korea,hyundai office worker,3.0
+LHOT00103,LHOT,1974,Spring,M,H-A Worker,Nepal,unknown,11.0
+LHOT00105,LHOT,1974,Spring,M,Exp Doctor (Ev & Lhotse),Canada,physician,5.0
+LHOT00105,LHOT,1974,Spring,M,Climber,Canada,physician,8.0
+LHOT00107,LHOT,1974,Spring,M,Climber,USA,photography director,7.0
+LHOT00107,LHOT,1974,Spring,M,Climber,USA,businessman film industry,11.0
+LHOT00107,LHOT,1974,Spring,M,Climber,Canada,environmental/technology consultant,2.0
+LHOT00101,LHOT,1975,Spring,M,Climber,Slovenia,electrician,9.0
+LHOT00101,LHOT,1975,Spring,M,Climber,Slovenia,electrician,-2.0
+LHOT00101,LHOT,1975,Spring,M,Climber,Slovenia,electrician,9.0
+LHOT00101,LHOT,1975,Spring,M,Climber,Slovenia,mechanic,8.0
+LHOT00101,LHOT,1975,Spring,M,Climber,Croatia,student,-1.0
+LHOT00101,LHOT,1975,Spring,M,Leader,Slovenia,computer technician,8.0
+LHOT00103,LHOT,1975,Spring,F,Leader,S Africa,director of adventure travel company,7.0
+LHOT00104,LHOT,1975,Spring,M,Leader,Georgia,engineer,11.0
+LHOT00104,LHOT,1975,Spring,M,H-A Worker,Nepal,unknown,2.0
+LHOT99101,LHOT,1980,Spring,F,Climber,Czech Republic,university sports teacher,9.0
+LHOT99102,LHOT,1980,Spring,M,Climber,Japan,physician,12.0
+LHOT99102,LHOT,1980,Spring,M,H-A Worker,Nepal,unknown,11.0
+LHOT99301,LHOT,1980,Autumn,M,Climber,S Korea,window cleaner,8.0
+LHOT99301,LHOT,1980,Autumn,M,Climber,S Korea,farmer,8.0
+LHOT99301,LHOT,1980,Autumn,M,Climber,S Korea,mechanical engineer,7.0
+LHOT99301,LHOT,1980,Autumn,F,Climber,S Korea,just graduated from university,11.0
+LHOT99301,LHOT,1980,Autumn,M,Climber,S Korea,student,5.0
+LHOT99301,LHOT,1980,Autumn,M,Climber,S Korea,computer engineer,9.0
+LNKE99201,LNKE,1964,Summer,M,Climber,Japan,motorcyle rider,4.0
+LNKE99201,LNKE,1964,Summer,M,H-A Worker,Nepal,unknown,-2.0
+LNKE99201,LNKE,1964,Summer,M,H-A Worker,Nepal,unknown,4.0
+LNPO09301,LNPO,1984,Autumn,M,Leader,UK,unknown,116.0
+LNPO10101,LNPO,1984,Spring,M,Leader,UK,unknown,116.0
+LNPS39201,LNPS,1907,Summer,M,H-A Worker,Nepal,unknown,-9.0
+LNPS39201,LNPS,1909,Summer,M,Sirdar,Nepal,unknown,2.0
+LNPS39201,LNPS,1909,Summer,M,H-A Worker,Nepal,unknown,-4.0
+LNPS39201,LNPS,1910,Summer,M,Climber,Germany,unknown,-3.0
+LNPS39201,LNPS,1910,Summer,M,H-A Worker,India,unknown,1.0
+LNPS39201,LNPS,1910,Summer,M,H-A Worker,Nepal,unknown,-1.0
+LNPS39201,LNPS,1920,Summer,M,Climber,Germany,unknown,11.0
+LOBE94301,LOBE,1921,Autumn,M,Climber,France,alpine guide,-51.0
+LOBE94301,LOBE,1921,Autumn,M,Climber,France,alpine guide,-50.0
+LOBE94301,LOBE,1922,Autumn,M,Leader,France,alpine guide,-36.0
+LOBE94301,LOBE,1922,Autumn,M,Climber,France,alpine guide,-48.0
+LOBE94301,LOBE,1922,Autumn,M,Climber,France,alpine guide,-48.0
+LOBE94301,LOBE,1922,Autumn,M,Climber,France,alpine guide,-45.0
+LOBE89401,LOBE,1970,Winter,M,Climber,UK,alpine instructor,5.0
+LOBE89401,LOBE,1970,Winter,M,Climber,UK,alpine instructor,7.0
+LOBE97301,LOBE,1982,Autumn,M,Climber,Slovenia,carpenter,9.0
+LSIS00301,LSIS,1970,Autumn,M,Climber,Japan,office worker in magazine publishing office,-3.0
+LSIS00301,LSIS,1970,Autumn,M,Climber,Japan,office staff of water supply inspectorate,1.0
+LSIS00301,LSIS,1970,Autumn,M,Climber,Japan,student of economics,-9.0
+LSIS00301,LSIS,1970,Autumn,M,H-A Worker,Nepal,unknown,-7.0
+MAK280301,MAK2,1961,Autumn,F,Climber,Switzerland,secretary,10.0
+MAK280301,MAK2,1961,Autumn,F,BC Manager,Australia,herbalist prescribes herbs for medical treatment,11.0
+MAK281102,MAK2,1961,Spring,M,Climber,Nepal,journalist,6.0
+MAK284101,MAK2,1963,Spring,M,Climber,Spain,trained as biologist but does variety of odd jobs,11.0
+MAK292303,MAK2,1970,Autumn,M,Original Leader,UK,alpine guide,9.0
+MAK292303,MAK2,1970,Autumn,M,Climber,UK,unemployed blind,12.0
+MAKA85402,MAKA,1954,Winter,M,Cameraman,Italy,tour operator,8.0
+MAKA85402,MAKA,1954,Winter,M,Cameraman,France,cameraman alpine guide,5.0
+MAKA85402,MAKA,1954,Winter,M,Cameraman,Italy,alpine guide cameraman,7.0
+MAKA92101,MAKA,1954,Spring,M,H-A Worker,Nepal,unknown,-7.0
+MAKA00102,MAKA,1956,Spring,M,Climber,Germany,clerk,-6.0
+MAKA00102,MAKA,1956,Spring,M,Climber,Germany,engineer,6.0
+MAKA98301,MAKA,1958,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+MAKA98304,MAKA,1958,Autumn,M,H-A Worker,Nepal,unknown,-3.0
+MAKA92301,MAKA,1960,Autumn,M,H-A Worker,Nepal,unknown,-1.0
+MAKA93102,MAKA,1964,Spring,M,Climber,USA,mountaineering equipment distributor,6.0
+MAKA87301,MAKA,1965,Autumn,M,Climber,France,alpine guide,6.0
+MAKA87301,MAKA,1965,Autumn,F,Climber,France,owner/manager of adventure travel agency,8.0
+MAKA00401,MAKA,1970,Winter,M,Climber,Georgia,archeologist,10.0
+MAKA00401,MAKA,1970,Winter,M,Climber,Poland,owner of import company,11.0
+MAKA00401,MAKA,1970,Winter,M,Climber,Poland,employee of company providing security guards and himself a guard,5.0
+MAKA91101,MAKA,1970,Spring,M,H-A Worker,Nepal,unknown,11.0
+MAKA91101,MAKA,1970,Spring,M,H-A Worker,Nepal,unknown,4.0
+MAKA00101,MAKA,1974,Spring,M,H-A Worker,Nepal,unknown,-4.0
+MAKA00101,MAKA,1975,Spring,M,Climber,S Korea,tour guide,8.0
+MAKA00101,MAKA,1975,Spring,M,Deputy Leader,S Korea,tour guide,7.0
+MAKA00101,MAKA,1975,Spring,M,Climber,S Korea,farmer,2.0
+MAKA00101,MAKA,1975,Spring,M,Leader,S Korea,tour guide,12.0
+MAKA00101,MAKA,1975,Spring,M,Climber,S Korea,student,1.0
+MAKA00102,MAKA,1975,Spring,F,Exp Doctor,Germany,physician,7.0
+MAKA00102,MAKA,1975,Spring,M,Climber,Germany,engineer,9.0
+MAKA00102,MAKA,1975,Spring,M,Climber,Germany,engineer,10.0
+MAKA00102,MAKA,1975,Spring,M,Climber,Germany,physiotherapist,9.0
+MAKA00103,MAKA,1975,Spring,M,Climber,Italy,designer,7.0
+MAKA00104,MAKA,1975,Spring,M,Climber,USA,student,-2.0
+MAKA00104,MAKA,1975,Spring,M,Climber,Austria,alpine guide,-4.0
+MAKA99101,MAKA,1980,Spring,M,Climber,USA,alpine guide,10.0
+MAKA99101,MAKA,1980,Spring,M,Climber,USA,skier,9.0
+MAKA99101,MAKA,1980,Spring,M,Leader,Australia,health consultant,12.0
+MAKA99104,MAKA,1980,Spring,M,Climber,Sweden,police officer,12.0
+MAKA99104,MAKA,1980,Spring,M,Climber,Switzerland,computer consultant,12.0
+MAKA99301,MAKA,1980,Autumn,M,Climber,S Korea,student,4.0
+MAKA99301,MAKA,1980,Autumn,M,Climber,S Korea,travel agency employee,11.0
+MAKA99301,MAKA,1980,Autumn,M,Deputy Leader,S Korea,travel agency employee,12.0
+MAKA99301,MAKA,1980,Autumn,M,Climber,S Korea,travel agency employee,7.0
+MAKA99301,MAKA,1980,Autumn,M,Climber,S Korea,television producer and cameraman,12.0
+MAKA98303,MAKA,1982,Autumn,M,Climber,Poland,student,3.0
+MAKA98302,MAKA,1983,Autumn,M,Climber,S Korea,engineering student,8.0
+MAKA98302,MAKA,1983,Autumn,M,Climber,S Korea,computer science student,9.0
+MAKA98304,MAKA,1983,Autumn,M,Climber,Japan,law student,7.0
+MALA00101,MALA,1974,Spring,F,Climber,USA,alpine guide,6.0
+MANA96302,MANA,1958,Autumn,M,H-A Worker,Nepal,unknown,-1.0
+MANA96305,MANA,1958,Autumn,M,H-A Worker,Nepal,unknown,-3.0
+MANA96307,MANA,1958,Autumn,M,H-A Worker,Nepal,unknown,-2.0
+MANA98301,MANA,1958,Autumn,M,H-A Worker,Nepal,unknown,-15.0
+MANA98301,MANA,1958,Autumn,M,H-A Worker,Nepal,unknown,-16.0
+MANA98301,MANA,1958,Autumn,M,H-A Worker,Nepal,unknown,-8.0
+MANA98301,MANA,1958,Autumn,M,H-A Worker,Nepal,unknown,-12.0
+MANA97304,MANA,1959,Autumn,M,H-A Worker,Nepal,unknown,-3.0
+MANA97401,MANA,1959,Winter,M,H-A Worker,Nepal,unknown,-4.0
+MANA98303,MANA,1959,Autumn,M,H-A Worker,Nepal,unknown,-6.0
+MANA92302,MANA,1961,Autumn,M,H-A Worker,Nepal,havildar mtn rgt indian army,7.0
+MANA92303,MANA,1964,Autumn,M,Climber,Belgium,manager,8.0
+MANA00104,MANA,1969,Spring,M,H-A Worker,Nepal,unknown,-9.0
+MANA97402,MANA,1969,Winter,M,BC Manager,Spain,physical education teacher high school,7.0
+MANA99303,MANA,1969,Autumn,M,Deputy Leader,Belgium,alpine guide,-4.0
+MANA00301,MANA,1970,Autumn,M,Leader,Spain,industrial engineering student,-3.0
+MANA00301,MANA,1970,Autumn,M,Climber,Spain,cartographer,-2.0
+MANA00301,MANA,1970,Autumn,M,Climber,Spain,student,-2.0
+MANA00301,MANA,1970,Autumn,M,Climber,Spain,student,-5.0
+MANA00301,MANA,1970,Autumn,M,Climber,Spain,student,-4.0
+MANA00301,MANA,1970,Autumn,M,Climber,Spain,student,-5.0
+MANA89101,MANA,1974,Spring,M,Climber,Italy,sport shop salesman,10.0
+MANA00101,MANA,1975,Spring,M,Co-Leader,Spain,mechanic,7.0
+MANA00101,MANA,1975,Spring,M,Co-Leader,Spain,alpinist,8.0
+MANA00102,MANA,1975,Spring,M,Leader,France,alpine guide,10.0
+MANA00103,MANA,1975,Spring,M,Leader,S Korea,alpine guide,9.0
+MANA00103,MANA,1975,Spring,M,Climber,S Korea,businessman,11.0
+MANA00103,MANA,1975,Spring,M,Climber,S Korea,alpinist,3.0
+MANA00103,MANA,1975,Spring,M,Climber,S Korea,alpinist,9.0
+MANA00103,MANA,1975,Spring,M,Climber,S Korea,businessman,8.0
+MANA00104,MANA,1975,Spring,M,Climber,Italy,tax advisor,11.0
+MANA00104,MANA,1975,Spring,M,Climber,Italy,tax advisor,3.0
+MANA00104,MANA,1975,Spring,M,Climber,Italy,salesman of household appliances,11.0
+MANA99102,MANA,1980,Spring,M,Leader,Spain,engineer,10.0
+MANA99103,MANA,1980,Spring,M,Climber,Finland,alpinist,12.0
+MANA99104,MANA,1980,Spring,M,Climber,Germany,engineering student,10.0
+MANA99104,MANA,1980,Spring,M,Climber,Germany,craftsman,12.0
+MANA99104,MANA,1980,Spring,M,Climber,Germany,civil engineer,7.0
+MANA99301,MANA,1980,Autumn,M,Climber,Spain,cameraman,4.0
+MANA99301,MANA,1980,Autumn,M,Climber,Spain,cameraman,10.0
+MANA99302,MANA,1980,Autumn,M,Climber,S Korea,car salesman,10.0
+MANA99303,MANA,1980,Autumn,M,Climber,France,worker on tall buildings,2.0
+MANA99303,MANA,1980,Autumn,F,Climber,France,alpine guide,12.0
+MANA99304,MANA,1980,Autumn,M,Climber,Spain,electronics engineer,12.0
+MANA99304,MANA,1980,Autumn,M,Leader,Spain,alpine guide,12.0
+MANA99402,MANA,1980,Winter,M,Climber,Japan,has no job lives with his parents,7.0
+MANA99402,MANA,1980,Winter,M,Climber,Japan,telecommunications engineer,11.0
+MANA99402,MANA,1980,Winter,M,Climber,Japan,has no job lives with his parents,12.0
+MANA99402,MANA,1980,Winter,M,Climber,Japan,engineer,3.0
+MANA98401,MANA,1982,Winter,M,Climber,S Korea,civil engineering student,7.0
+MANA98401,MANA,1982,Winter,M,H-A Worker,Nepal,unknown,10.0
+MANA50201,MANA,1984,Summer,M,Leader,UK,unknown,86.0
+MANA56101,MANA,1984,Spring,M,Leader,Japan,unknown,90.0
+MANA97303,MANA,1986,Autumn,M,Climber,Japan,college student,10.0
+MANA97303,MANA,1986,Autumn,M,Climber,Japan,student,11.0
+MANA97303,MANA,1986,Autumn,M,Climber,Japan,electrical engineer,12.0
+MANA97303,MANA,1986,Autumn,M,H-A Worker,Nepal,unknown,8.0
+MANA97304,MANA,1986,Autumn,M,Climber,Japan,architecture student,10.0
+MANA84302,MANA,1987,Autumn,F,Member,Italy,unknown,10.0
+MANA96302,MANA,1987,Autumn,M,Climber,Japan,alpine guide,10.0
+MANN99301,MANN,1980,Autumn,M,H-A Worker,Nepal,unknown,8.0
+MPNE77101,MPNE,1922,Spring,M,Leader,Italy,alpinist writer,-22.0
+MPNE77101,MPNE,1922,Spring,M,Film Crew,UK,photographer,-24.0
+MPNE77101,MPNE,1922,Spring,M,Film Crew,UK,decorator camera assistant,-14.0
+MPNE77101,MPNE,1922,Spring,M,Climber,W Germany,alpine guide instructor,-29.0
+NALS00201,NALS,1974,Summer,M,H-A Worker,Nepal,unknown,8.0
+NEPA85301,NEPA,1961,Autumn,M,Co-Leader,Nepal,army major,6.0
+NEPA85301,NEPA,1961,Autumn,M,Exp Doctor,UK,physician in army,12.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,colour sergeant in royal army,12.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,army captain british army,3.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,warrant officer royal artillery,8.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,flight lieutenant in royal air force,9.0
+NEPA85301,NEPA,1961,Autumn,F,Climber,UK,captain queen alexandra s army nursing corps,8.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,trooper special air service,0.0
+NEPA85301,NEPA,1961,Autumn,F,Exp Doctor,UK,captain military hospital hong kong physician,2.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,london metropolitan police force,-5.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,lieutenant duke of edinburgh s royal regiment,-2.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,Nepal,army captain,5.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,father is with british embassy,-6.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,Nepal,rifleman brigade of gurkhas,-4.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,Nepal,signalman gurkhas,-1.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,lieutenant royal signals,1.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,army captain parachute regiment,5.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,Nepal,rifleman gurkhas,-1.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,Nepal,army captain,9.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,artist paints marine subjects - civilian,10.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,officer brigade of gurkhas,6.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,Nepal,army major,7.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,petty officer royal navy,8.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,captain royal hampshire regiment,5.0
+NEPA85301,NEPA,1961,Autumn,M,Climber,UK,police cadet,-5.0
+NEPA30101,NEPA,1984,Spring,M,Leader,Germany,unknown,98.0
+NEPA36201,NEPA,1984,Summer,M,Leader,Germany,unknown,88.0
+NEPA37101,NEPA,1984,Spring,M,Leader,Switzerland,unknown,91.0
+NEPA39101,NEPA,1984,Spring,M,Leader,Switzerland,unknown,91.0
+NILC82101,NILC,1954,Spring,M,Climber,S Korea,university student,-2.0
+NILC82101,NILC,1954,Spring,M,Climber,S Korea,graduate student,4.0
+NILC82101,NILC,1954,Spring,M,Climber,S Korea,mountaineering equipment salesman,-3.0
+NILC82101,NILC,1954,Spring,M,Climber,S Korea,office worker,0.0
+NILN00101,NILN,1975,Spring,M,Leader,France,army captain chief of military high mountain group,12.0
+NILN00101,NILN,1975,Spring,M,Climber,France,sergeant-major in army,9.0
+NILN00101,NILN,1975,Spring,M,Deputy Leader,France,alpine guide in army lieutenant,6.0
+NILN00101,NILN,1975,Spring,M,Climber,France,alpine guide,7.0
+NILN00101,NILN,1975,Spring,M,Climber,France,army corporal,4.0
+NILN00101,NILN,1975,Spring,M,Climber,France,army alpine guide with rank of sergeant,2.0
+NILS99301,NILS,1980,Autumn,M,Climber,Slovenia,electrical engineering student,2.0
+NILS99301,NILS,1980,Autumn,M,Climber,Slovenia,photographer musician,10.0
+NILS99301,NILS,1980,Autumn,M,Climber,Slovenia,alpinist,4.0
+NUPE95301,NUPE,1964,Autumn,M,Film Team,Germany,camerman,-2.0
+NUPK64101,NUPK,1949,Spring,M,Climber,W Germany,compositor printing,9.0
+NUPT99102,NUPT,1980,Spring,M,BC Manager,USA,architect,8.0
+NUPT99103,NUPT,1980,Spring,M,Climber,France,alpine guide,7.0
+NUPW88401,NUPW,1933,Winter,M,Climber,S Korea,engineer,-27.0
+NUPW88401,NUPW,1933,Winter,M,Climber,S Korea,engineer,-30.0
+NUPW88401,NUPW,1933,Winter,M,Climber,S Korea,engineer,-33.0
+NUPW88401,NUPW,1933,Winter,M,Climber,S Korea,student,-28.0
+NUPW88401,NUPW,1933,Winter,M,Climber,S Korea,engineer,-31.0
+NUPW88401,NUPW,1933,Winter,M,Climber,S Korea,shop owner,-31.0
+NUPW88401,NUPW,1933,Winter,M,Climber,S Korea,shop owner,-15.0
+NUPW89301,NUPW,1933,Autumn,M,Leader,W Germany,alpine guide,-28.0
+NUPW89301,NUPW,1933,Autumn,M,Climber,W Germany,alpine guide student of technology,-31.0
+NUPW89301,NUPW,1933,Autumn,M,Climber,W Germany,alpine guide furniture maker,-22.0
+NUPW89301,NUPW,1933,Autumn,M,Climber,W Germany,salesman,-31.0
+NUPW89301,NUPW,1933,Autumn,M,Climber,W Germany,electrician,-31.0
+NUPW96201,NUPW,1933,Summer,M,Leader,Indonesia,student of electrical engineering,-41.0
+NUPW96201,NUPW,1933,Summer,M,Climber,Indonesia,student of economics and sociology,-42.0
+NUPW96201,NUPW,1933,Summer,M,Climber,Indonesia,sociology student,-40.0
+NUPW97301,NUPW,1933,Autumn,M,Leader,Slovenia,electrician,-36.0
+NUPW97301,NUPW,1933,Autumn,M,Deputy Leader,Slovenia,wood technician,-26.0
+NUPW97301,NUPW,1933,Autumn,M,Climber,Mexico,motivational speaker outdoor leadership trainer,-29.0
+NUPW97301,NUPW,1933,Autumn,M,Climber,Slovenia,alpine guide,-28.0
+NUPW97301,NUPW,1933,Autumn,M,Climber,Slovenia,carpenter,-40.0
+NUPW97301,NUPW,1933,Autumn,M,Exp Doctor,Slovenia,physician,-26.0
+NUPW97301,NUPW,1933,Autumn,M,Climber,Slovenia,civil engineer,-31.0
+NUPW97301,NUPW,1933,Autumn,M,Climber,Slovenia,technician,-14.0
+NUPW97301,NUPW,1933,Autumn,M,Climber,Slovenia,veterinarian,-26.0
+NUPW88401,NUPW,1934,Winter,M,Leader,S Korea,pharmacist,-16.0
+NUPW88401,NUPW,1934,Winter,M,Climbing Leader,S Korea,salesman,-26.0
+NUPW88401,NUPW,1934,Winter,M,Deputy Leader,S Korea,engineer,-16.0
+NUPW88401,NUPW,1934,Winter,M,Climber,S Korea,engineering teacher,-30.0
+NUPW77101,NUPW,1935,Spring,M,Leader,Japan,unknown,-4.0
+NUPW77101,NUPW,1935,Spring,M,Deputy Leader,Japan,sporting goods salesman,-9.0
+NUPW77101,NUPW,1935,Spring,M,Climber,Japan,computer engineer,-12.0
+NUPW77101,NUPW,1935,Spring,M,Climber,Japan,engineer,-7.0
+NUPW77101,NUPW,1935,Spring,M,Climber,Japan,bookkeeper pharmaceutical company,-12.0
+NUPW77101,NUPW,1935,Spring,F,Climber,Japan,nurse in day nursery,-12.0
+NUPW77101,NUPW,1935,Spring,M,Climber,Japan,engineer in typewriter-manufacturing company,-16.0
+NUPW77101,NUPW,1935,Spring,M,Climber,Japan,university history student,-17.0
+NUPW84301,NUPW,1935,Autumn,M,Leader,France,alpine guide,-6.0
+NUPW84301,NUPW,1935,Autumn,M,Climber,France,alpine guide,-22.0
+NUPW84301,NUPW,1935,Autumn,M,Climber,France,physician,-19.0
+NUPW84301,NUPW,1935,Autumn,M,Climber,France,physician,-20.0
+NUPW84301,NUPW,1935,Autumn,M,Climber,France,alpine guide,-16.0
+NUPW84301,NUPW,1935,Autumn,M,Climber,France,alpine guide,-21.0
+NUPW84301,NUPW,1935,Autumn,M,Climber,France,alpine guide,-16.0
+NUPW84301,NUPW,1935,Autumn,M,Climber,France,alpine guide,-22.0
+NUPW84301,NUPW,1935,Autumn,M,Climber,France,alpine guide,-14.0
+NUPW84301,NUPW,1935,Autumn,M,Climber,France,alpine guide,-18.0
+OHMI89101,OHMI,1954,Spring,M,Sirdar,India,alpine instructor,-13.0
+PALD49201,PALD,1984,Summer,M,Leader,UK,unknown,86.0
+PASA86301,PASA,1963,Autumn,M,Climber,Japan,municipal official,10.0
+PASA95301,PASA,1986,Autumn,F,Climber,S Korea,engineering student,11.0
+PASA96302,PASA,1986,Autumn,M,H-A Worker,Nepal,unknown,7.0
+PETH84301,PETH,1962,Autumn,F,Member,Spain,primary school teacher,1.0
+PISA94301,PISA,1981,Autumn,M,Leader,Germany,unknown,12.0
+PK4100101,PK41,1965,Spring,M,Leader,Finland,unknown,11.0
+PK4100101,PK41,1965,Spring,M,Climber,Finland,unknown,6.0
+PK4100101,PK41,1965,Spring,M,Climber,USA,photojournalist,6.0
+PTHE54101,PTHE,1921,Spring,M,Leader,New Zealand,apiarist alpinist,2.0
+PTHE54101,PTHE,1921,Spring,M,Climber,New Zealand,civil engineer,-3.0
+PTHE54101,PTHE,1921,Spring,M,Climber,New Zealand,unknown,-4.0
+PUMO89307,PUMO,1954,Autumn,M,Climber,UK,alpine guide,-3.0
+PUMO98304,PUMO,1955,Autumn,M,Climber,Australia,manager,-8.0
+PUMO96305,PUMO,1957,Autumn,M,H-A Worker,Nepal,unknown,0.0
+PUMO97303,PUMO,1957,Autumn,M,H-A Worker,Nepal,unknown,0.0
+PUMO97304,PUMO,1957,Autumn,M,H-A Worker,Nepal,unknown,-10.0
+PUMO96302,PUMO,1958,Autumn,M,H-A Worker,Nepal,unknown,-8.0
+PUMO91401,PUMO,1964,Winter,M,Climber,UK,geologist,0.0
+PUMO91401,PUMO,1964,Winter,M,Climber,UK,surveyor,4.0
+PUMO94101,PUMO,1964,Spring,F,Member,Italy,kindergarten assistant,6.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,USA,alpine guide,-7.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,Canada,attorney,10.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,USA,ski patrolman guide musician,1.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,USA,physician,8.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,USA,alpine guide,-3.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,France,trekking guide,-5.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,UK,service,-6.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,UK,businessman,0.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,UK,sports shop chain managing director,5.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,UK,firefighter,-10.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,UK,manager,-5.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,UK,unemployed industrial designer,-11.0
+PUMO99304,PUMO,1965,Autumn,M,Climber,Australia,service,-9.0
+PUMO00301,PUMO,1970,Autumn,M,Climber,Italy,geologist,-1.0
+PUMO00301,PUMO,1970,Autumn,M,Leader,Italy,alpine guide geologist,1.0
+PUMO00301,PUMO,1970,Autumn,M,Climber,Italy,alpine guide,0.0
+PUMO00301,PUMO,1970,Autumn,M,Climber,Italy,alpine guide,1.0
+PUMO00302,PUMO,1970,Autumn,M,Climber,Austria,hotel cook,-8.0
+PUMO00302,PUMO,1970,Autumn,M,Climber,Austria,technical manager on a hotel,-2.0
+PUMO00303,PUMO,1970,Autumn,M,Climber,Austria,systems engineer,10.0
+PUMO00303,PUMO,1970,Autumn,M,Climber,Germany,chemical labaratory staff,-5.0
+PUMO00303,PUMO,1970,Autumn,M,Climber,Austria,technician,8.0
+PUMO00303,PUMO,1970,Autumn,M,H-A Worker,Nepal,unknown,-4.0
+PUMO00304,PUMO,1970,Autumn,M,Climber,Mexico,computer programmer,3.0
+PUMO00304,PUMO,1970,Autumn,F,Climber,Mexico,assistant to vice-president of telecommunications company,-2.0
+PUMO00304,PUMO,1970,Autumn,M,Climber,Mexico,student of chemical engineering,-9.0
+PUMO00304,PUMO,1970,Autumn,M,Climber,Mexico,environmental engineering student,-7.0
+PUMO00304,PUMO,1970,Autumn,M,Leader,Mexico,chemical engineer in corn-products factory,-6.0
+PUMO00304,PUMO,1970,Autumn,M,Climber,Mexico,medical equipment sales manager,10.0
+PUMO94305,PUMO,1970,Autumn,M,Climber,Japan,office worker,4.0
+PUMO00102,PUMO,1974,Spring,M,Leader,Austria,alpine guide,7.0
+PUMO00101,PUMO,1975,Spring,F,Exp Doctor,Russia,personnel manager for publishing company,9.0
+PUMO00102,PUMO,1975,Spring,M,Climber,Netherlands,insurance company manager,10.0
+PUMO00102,PUMO,1975,Spring,M,Climber,Netherlands,owner of training institute for executives,6.0
+PUMO00103,PUMO,1975,Spring,M,Climber,USA,museum development,-1.0
+PUMO00103,PUMO,1975,Spring,M,Climber,USA,ski instructor,12.0
+PUMO00103,PUMO,1975,Spring,M,Climber,USA,computer programmer,1.0
+PUMO00103,PUMO,1975,Spring,F,Climber,USA,educator,3.0
+PUMO00103,PUMO,1975,Spring,F,Climber,USA,teacher,8.0
+PUMO00103,PUMO,1975,Spring,M,Climber,USA,teacher alpine instructor,5.0
+PUMO00103,PUMO,1975,Spring,F,Climber,USA,teacher,12.0
+PUMO00103,PUMO,1975,Spring,F,Climber,USA,ski instructor alpine guide,6.0
+PUMO00103,PUMO,1975,Spring,M,Climber,USA,teacher,2.0
+PUMO00104,PUMO,1975,Spring,M,Climber,Austria,distillery proprietor,5.0
+PUMO00104,PUMO,1975,Spring,M,Climber,Austria,mountain lodge owner and manager,8.0
+PUMO00104,PUMO,1975,Spring,M,Climber,Austria,bus driver,5.0
+PUMO00104,PUMO,1975,Spring,M,Climber,Austria,bus driver,2.0
+PUMO99301,PUMO,1980,Autumn,M,Climber,Denmark,bartender,3.0
+PUMO99301,PUMO,1980,Autumn,M,Climber,UK,self employed,10.0
+PUMO99301,PUMO,1980,Autumn,M,Climber,USA,physicist,12.0
+PUMO99301,PUMO,1980,Autumn,M,Climber,Czech Republic,office worker,5.0
+PUMO99301,PUMO,1980,Autumn,M,Climber,Czech Republic,teacher,9.0
+PUMO99302,PUMO,1980,Autumn,M,Climber,Canada,stunt performer and actor,10.0
+PUMO99302,PUMO,1980,Autumn,M,Climber,Canada,engineer,10.0
+PUMO99302,PUMO,1980,Autumn,M,Climber,Canada,student,2.0
+PUMO99302,PUMO,1980,Autumn,M,Climber,Canada,forest fighter and student,2.0
+PUMO99302,PUMO,1980,Autumn,M,Climber,Norway,biochemical engineer,12.0
+PUMO99303,PUMO,1980,Autumn,M,Climber,Norway,construction engineering student,5.0
+PUMO99303,PUMO,1980,Autumn,M,Climber,Norway,engineering student,4.0
+PUMO99303,PUMO,1980,Autumn,M,Leader,Norway,civil engineering student,5.0
+PUMO99303,PUMO,1980,Autumn,M,BC Manager,Norway,student of outdoor recreation,5.0
+PUMO99303,PUMO,1980,Autumn,M,Climber,Norway,engineering student,7.0
+PUMO95308,PUMO,1981,Autumn,M,Climber,Switzerland,engineer,12.0
+PUMO97307,PUMO,1982,Autumn,M,Climber,Slovenia,carpenter,9.0
+PUMO98307,PUMO,1982,Autumn,M,Climber,Austria,machine mechanic,3.0
+PUMO98307,PUMO,1982,Autumn,M,H-A Worker,Nepal,unknown,2.0
+PUMO98301,PUMO,1983,Autumn,M,Climber,Ukraine,alpinist,12.0
+PUMO98301,PUMO,1983,Autumn,M,Climber,Ukraine,alpinist,12.0
+PUMO98302,PUMO,1983,Autumn,M,Climber,Czech Republic,technical engineer,10.0
+PUMO98302,PUMO,1983,Autumn,M,Climber,Czech Republic,computer engineer,9.0
+PUMO98302,PUMO,1983,Autumn,M,Climber,Czech Republic,computer engineer,11.0
+PUMO98303,PUMO,1983,Autumn,M,Climber,Italy,student,6.0
+PUMO98304,PUMO,1983,Autumn,M,Climber,Australia,physician,11.0
+PUMO98304,PUMO,1983,Autumn,M,Climber,New Zealand,science technician,12.0
+PUMO91301,PUMO,1985,Autumn,M,Climber,France,student,12.0
+PUMO91301,PUMO,1985,Autumn,M,Climber,France,student,11.0
+PUMO91301,PUMO,1985,Autumn,M,Climber,France,student,12.0
+PUMO95401,PUMO,1985,Winter,M,Climber,Japan,engineer,11.0
+PUMO97101,PUMO,1985,Spring,M,Climber,Austria,cabinetmaker,12.0
+PUMO97101,PUMO,1985,Spring,F,Climber,Austria,shop assistant,9.0
+PUMO97102,PUMO,1985,Spring,M,Climber,New Zealand,ski instructor,9.0
+PUMO97301,PUMO,1985,Autumn,M,Climber,Slovakia,engineer,12.0
+PUMO98102,PUMO,1985,Spring,M,Climber,Canada,tow-truck driver,10.0
+PUTH76301,PUTH,1953,Autumn,M,H-A Worker,Nepal,unknown,10.0
+PUTH92301,PUTH,1954,Autumn,M,H-A Worker,Nepal,unknown,4.0
+PUTH78101,PUTH,1956,Spring,M,H-A Worker,Nepal,unknown,4.0
+PUTH98301,PUTH,1959,Autumn,M,H-A Worker,Nepal,unknown,-8.0
+PUTH98301,PUTH,1959,Autumn,M,H-A Worker,Nepal,unknown,-20.0
+PUTH00303,PUTH,1970,Autumn,M,Climber,France,journalist,5.0
+PUTH00303,PUTH,1970,Autumn,M,Climber,Andorra,hotel manager,-3.0
+PUTH00303,PUTH,1970,Autumn,F,Climber,Andorra,hotel manager,-2.0
+PUTH00303,PUTH,1970,Autumn,M,Climber,France,contruction worker,-10.0
+PUTH00303,PUTH,1970,Autumn,M,H-A Worker,Nepal,unknown,3.0
+PUTH00303,PUTH,1970,Autumn,M,H-A Worker,Nepal,unknown,-9.0
+PUTH00301,PUTH,1974,Autumn,M,Climber,France,engineer on helicopter simulation,0.0
+PUTH00301,PUTH,1974,Autumn,F,Climber,France,student of business administration,-3.0
+PUTH00301,PUTH,1974,Autumn,F,Climber,France,midwife,-2.0
+PUTH00302,PUTH,1974,Autumn,M,Climber,Spain,house painter,10.0
+PUTH00302,PUTH,1974,Autumn,M,Climber,Spain,teacher,3.0
+PUTH00302,PUTH,1974,Autumn,M,H-A Worker,Nepal,unknown,2.0
+PUTH00302,PUTH,1974,Autumn,M,H-A Worker,Nepal,unknown,10.0
+PUTH97301,PUTH,1985,Autumn,M,Climber,Canada,waiter,10.0
+PYRM39201,PYRM,1905,Summer,M,Leader,Switzerland,unknown,12.0
+PYRM39201,PYRM,1905,Summer,M,Climber,Germany,unknown,-4.0
+PYRM39201,PYRM,1905,Summer,M,Climber,Germany,unknown,-8.0
+PYRM00301,PYRM,1970,Autumn,M,Climber,Slovenia,sports student,-7.0
+PYRM00301,PYRM,1970,Autumn,M,Climber,Slovenia,sports student,-7.0
+RAKS99301,RAKS,1980,Autumn,F,Climber,Austria,medical technician,9.0
+RAKS99301,RAKS,1980,Autumn,M,Climber,Austria,carpenter,7.0
+RAKS99301,RAKS,1980,Autumn,F,Climber,Austria,shop assistant,4.0
+RAKS97301,RAKS,1985,Autumn,M,Dep Leader (admin),Austria,regional manager for eu rural programs,11.0
+RAKS97301,RAKS,1985,Autumn,M,Climber,Austria,sports student,11.0
+RAKS97301,RAKS,1985,Autumn,M,Climber,Austria,technical student,12.0
+RAKS97301,RAKS,1985,Autumn,M,Member,Austria,sports student,11.0
+RAKS97301,RAKS,1985,Autumn,M,Climber,Austria,ecology student,11.0
+RAKS97301,RAKS,1985,Autumn,M,Climber,Austria,border policemen,11.0
+RAMT98301,RAMT,1957,Autumn,M,H-A Worker,Nepal,unknown,-11.0
+RAMT00101,RAMT,1975,Spring,M,Climber,UK,armed forces petty officer,5.0
+RAMT00101,RAMT,1975,Spring,M,Climber,UK,lieutenant in armed forces,4.0
+RAMT00101,RAMT,1975,Spring,M,Exp Doctor,UK,physician,3.0
+RAMT00101,RAMT,1975,Spring,M,Climber,UK,armed forces lance corporal,2.0
+RAMT00101,RAMT,1975,Spring,M,Climber,UK,lieutenant in armed forces,-1.0
+RAMT00101,RAMT,1975,Spring,M,Climber,UK,armed forces lieutenant,3.0
+RAMT00101,RAMT,1975,Spring,M,Climber,UK,army lance corporal,4.0
+RAMT00101,RAMT,1975,Spring,F,Exp Doctor,UK,armed forces doctor,2.0
+RAMT00101,RAMT,1975,Spring,M,Climber,UK,armed forces lance corporal,2.0
+RAMT98302,RAMT,1982,Autumn,M,Climber,Ireland,student,7.0
+RAMT98302,RAMT,1982,Autumn,M,Climber,Germany,medical student,9.0
+RAMT30101,RAMT,1984,Spring,M,Leader,Germany,unknown,98.0
+RATC00301,RATC,1970,Autumn,M,Leader,France,alpine guide,0.0
+RATC00301,RATC,1970,Autumn,M,Climber,France,bank staff,-2.0
+RATC00301,RATC,1970,Autumn,M,Climber,France,alpine guide,1.0
+RATC00301,RATC,1970,Autumn,F,Climber,France,computer technician,4.0
+RATC00301,RATC,1970,Autumn,M,Climber,France,cabinet maker,-2.0
+RATC00301,RATC,1970,Autumn,M,Climber,France,engineer,11.0
+RATC00301,RATC,1970,Autumn,M,Exp Doctor,France,physician,10.0
+RATC00301,RATC,1970,Autumn,M,Climber,France,engineer,12.0
+RATC96301,RATC,1985,Autumn,M,Climber,Japan,education student,9.0
+RATC96301,RATC,1985,Autumn,M,Climber,Japan,student of culture,8.0
+RATH87101,RATH,1970,Spring,M,Climber,India,unknown,6.0
+ROCN86301,ROCN,1961,Autumn,M,Deputy Leader,France,public works inspector,8.0
+ROCN86301,ROCN,1961,Autumn,M,Climber,France,management consultant,5.0
+ROCN86301,ROCN,1961,Autumn,M,Climber,Belgium,apprentice guide,-2.0
+ROCN86301,ROCN,1961,Autumn,M,Climber,France,graphic designer,5.0
+ROCN86301,ROCN,1961,Autumn,M,Climber,France,computer operator,8.0
+ROCN86301,ROCN,1961,Autumn,M,Exp Doctor,France,physician,9.0
+ROCN88301,ROCN,1961,Autumn,M,Climber,UK,technician,12.0
+ROCN88301,ROCN,1961,Autumn,M,Climber,Italy,alpine guide,6.0
+ROCN88301,ROCN,1961,Autumn,M,Climber,USA,carpenter photographer,5.0
+ROCN88301,ROCN,1961,Autumn,M,Climber,Poland,metallurgist,9.0
+ROCN81101,ROCN,1962,Spring,M,Climber,Sweden,civil engineer,12.0
+ROCN81101,ROCN,1962,Spring,M,Climber,Switzerland,forester,7.0
+ROCN81101,ROCN,1962,Spring,M,Climber,Sweden,economics student,10.0
+ROCN81101,ROCN,1962,Spring,M,Climber,Sweden,organiser of leisure activities,11.0
+ROCN81101,ROCN,1962,Spring,M,Sirdar,Nepal,unknown,10.0
+ROCN84301,ROCN,1962,Autumn,M,Climber,Switzerland,alpine guide,3.0
+ROCN84301,ROCN,1973,Autumn,M,Climber,Switzerland,alpine guide,12.0
+ROCN88301,ROCN,1973,Autumn,M,Climber,Poland,cultural anthropology student,11.0
+ROCN91401,ROCN,1985,Winter,M,Climber,S Korea,high school student,11.0
+SAIP98301,SAIP,1983,Autumn,M,Climber,Japan,university of geography,11.0
+SAIP98302,SAIP,1983,Autumn,F,Leader,USA,geological researcher,11.0
+SAIP98302,SAIP,1983,Autumn,M,Climber,USA,biologist geologist,10.0
+SHNW80301,SHNW,1939,Autumn,M,Leader,UK,author alpinist,-2.0
+SHNW80301,SHNW,1939,Autumn,M,Climber,UK,alpine guide,-11.0
+SHNW80301,SHNW,1939,Autumn,M,Climber,France,alpine guide,-11.0
+SHNW80401,SHNW,1939,Winter,M,Leader,Italy,professional alpinist,-9.0
+SHNW80401,SHNW,1939,Winter,M,Climber,Italy,mason,3.0
+SHNW80401,SHNW,1939,Winter,M,Climber,Switzerland,alpine guide,-7.0
+SHNW80401,SHNW,1939,Winter,M,Climber,Switzerland,alpine guide,-13.0
+SHNW84101,SHNW,1939,Spring,M,Leader,UK,alpinist writer,-2.0
+SHNW84101,SHNW,1939,Spring,M,Climber,France,alpine guide,-14.0
+SHNW84101,SHNW,1939,Spring,M,Climber,USA,carpenter,-21.0
+SPH462101,SPH4,1922,Spring,M,Sirdar,Nepal,unknown,-10.0
+SURM74101,SURM,1905,Spring,M,Leader,UK,civil engineer,-39.0
+SURM74101,SURM,1905,Spring,M,Climber,UK,industrial chemist,-39.0
+SURM74101,SURM,1905,Spring,M,Climber,UK,civil engineer,-43.0
+SURM74101,SURM,1905,Spring,M,Climber,UK,alpine instructor,-43.0
+TAKP00201,TAKP,1974,Summer,M,H-A Worker,Nepal,unknown,8.0
+TARS90301,TARS,1930,Autumn,M,Climber,S Korea,university student of politics diplomacy,-37.0
+TARS90301,TARS,1930,Autumn,F,Climber,S Korea,student of mathematics,-34.0
+TARS90301,TARS,1930,Autumn,M,Climber,S Korea,student of accounting,-36.0
+TARS94301,TARS,1930,Autumn,M,Leader,Germany,retired decorator,-5.0
+TARS94301,TARS,1930,Autumn,M,Climber,Germany,technician,-14.0
+TARS94301,TARS,1930,Autumn,M,Climber,Austria,machine operator,-28.0
+TARS94301,TARS,1930,Autumn,M,Climber,Austria,car mechanic,-39.0
+TARS94301,TARS,1930,Autumn,M,Climber,Germany,car repairs supervisor,-20.0
+TARS94301,TARS,1930,Autumn,M,Climber,Germany,physiotherapist,-35.0
+TARS94301,TARS,1930,Autumn,M,Climber,Germany,machine technician,-26.0
+TARS98301,TARS,1930,Autumn,M,Leader,Czech Republic,geographer,-39.0
+TARS98301,TARS,1930,Autumn,M,Climber,Czech Republic,construction engineer,-22.0
+TARS98301,TARS,1930,Autumn,M,Climber,Czech Republic,mechanical engineer,-27.0
+TARS98301,TARS,1930,Autumn,M,Climber,Czech Republic,mechanical engineer,-35.0
+TARS83301,TARS,1931,Autumn,M,Climber,France,engineer,-14.0
+TARS83301,TARS,1931,Autumn,M,Climber,France,engineer,-22.0
+TARS83301,TARS,1931,Autumn,M,Climber,France,manager of sporting-goods shop,-13.0
+TARS83301,TARS,1931,Autumn,M,Climber,France,manager of sporting-goods shop,-21.0
+TARS83301,TARS,1931,Autumn,M,Climber,France,bank employee,-17.0
+TARS83301,TARS,1931,Autumn,M,Exp Doctor,France,physician,-17.0
+TARS83301,TARS,1931,Autumn,M,Climber,France,alpine guide,-28.0
+TARS83301,TARS,1931,Autumn,M,Climber,France,owner home insulating business,1.0
+TARS83301,TARS,1931,Autumn,M,Climber,France,pharmacist,-23.0
+TARS84301,TARS,1931,Autumn,M,Leader,S Korea,office worker food processing company,-24.0
+TARS84301,TARS,1931,Autumn,M,Climber,S Korea,salesman,-29.0
+TARS84301,TARS,1931,Autumn,M,Climber,S Korea,teacher,-19.0
+TARS90301,TARS,1931,Autumn,M,Leader,S Korea,manager in taxi company,-25.0
+TARS90301,TARS,1931,Autumn,M,Climbing Leader,S Korea,teacher commercial high school,-31.0
+TARS81301,TARS,1933,Autumn,M,Leader,Italy,mechanical engineer,-5.0
+TARS81301,TARS,1933,Autumn,M,Climbing Leader,Italy,alpine guide,-16.0
+TARS81301,TARS,1933,Autumn,M,Exp Doctor,Italy,medical student,-15.0
+TARS81301,TARS,1933,Autumn,M,Climber,Italy,alpine guide,-19.0
+TARS81301,TARS,1933,Autumn,M,Climber,Italy,alpine guide,-22.0
+TARS81301,TARS,1933,Autumn,M,Climber,Italy,alpine guide,-16.0
+TARS81301,TARS,1933,Autumn,M,H-A Worker,Nepal,unknown,-17.0
+TARS82301,TARS,1933,Autumn,M,Leader,France,alpine guide,-6.0
+TARS82301,TARS,1933,Autumn,M,Climber,France,specialist in children s education,-10.0
+TARS82301,TARS,1933,Autumn,F,Climber,France,biologist,-14.0
+TARS82301,TARS,1933,Autumn,M,Climber,France,technician,-17.0
+TARS82301,TARS,1933,Autumn,M,Climber,France,civil servant in ministry of research industry,-14.0
+TARS83301,TARS,1933,Autumn,M,Leader,France,alpine guide,-19.0
+TARS83301,TARS,1933,Autumn,F,Deputy Leader,France,school teacher of mathematics,-24.0
+TAWO82301,TAWO,1960,Autumn,M,Climber,Switzerland,construction engineer,7.0
+TAWO82301,TAWO,1960,Autumn,M,Climber,France,home builder,12.0
+TAWO82301,TAWO,1960,Autumn,M,Climber,Switzerland,electronics engineer,3.0
+TAWO85101,TAWO,1965,Spring,M,Climber (Cholatse),Japan,window washer of tall buildings,8.0
+TAWO85101,TAWO,1965,Spring,M,Climber (Cholatse),Japan,worker plastics factory,2.0
+TENG00301,TENG,1969,Autumn,M,Climber,USA,unknown,11.0
+TENG99301,TENG,1980,Autumn,M,Climber,Denmark,carpenter,5.0
+TENG99301,TENG,1980,Autumn,M,Climber,USA,primary school teacher,10.0
+TENG99301,TENG,1980,Autumn,M,Climber,France,accountant/bookeeper,12.0
+TILI71301,TILI,1953,Autumn,M,Climbing Leader,Italy,alpine guide,9.0
+TILI00306,TILI,1969,Autumn,M,Co-Leader,Spain,physical education teacher,-2.0
+TILI00306,TILI,1969,Autumn,M,Co-Leader,Spain,firefighter,2.0
+TILI00305,TILI,1970,Autumn,M,Climber,Singapore,marketing administrator,10.0
+TILI91301,TILI,1970,Autumn,M,H-A Worker,Nepal,unknown,11.0
+TILI00101,TILI,1974,Spring,F,Climber,Japan,accountant,8.0
+TILI00101,TILI,1974,Spring,F,Climber,Japan,computer programmer,8.0
+TILI00301,TILI,1974,Autumn,F,Climber,Austria,sportswear product,7.0
+TILI00302,TILI,1974,Autumn,M,Climber,France,botanist,4.0
+TILI00302,TILI,1974,Autumn,M,H-A Worker,Nepal,unknown,3.0
+TILI00303,TILI,1974,Autumn,M,Climber,France,mechanical engineer specializing in acoustics and vibration,7.0
+TILI00303,TILI,1974,Autumn,F,Climber,Switzerland,laboratoray technician,3.0
+TILI00304,TILI,1974,Autumn,M,Climber,Germany,physicist,7.0
+TILI00304,TILI,1974,Autumn,M,Climber,Germany,mathematician,3.0
+TILI00304,TILI,1974,Autumn,F,Climber,Germany,software engineer,10.0
+TILI00304,TILI,1974,Autumn,M,Leader,Germany,software engineer,5.0
+TILI00101,TILI,1975,Spring,M,Leader,Japan,office worker,9.0
+TILI99302,TILI,1979,Autumn,M,Climber,France,consultant,11.0
+TILI99302,TILI,1979,Autumn,M,Climber,France,engineer,9.0
+TILI99302,TILI,1979,Autumn,F,Climber,France,marketing manager,8.0
+TILI99302,TILI,1979,Autumn,M,Climber,France,alpine guide,12.0
+TILI99302,TILI,1979,Autumn,M,H-A Worker,Nepal,unknown,12.0
+TILI92301,TILI,1984,Autumn,M,Climber,Argentina,student,12.0
+TKPO84301,TKPO,1964,Autumn,M,Leader,UK,just finished studies in biology physical education,8.0
+TKPO84301,TKPO,1964,Autumn,M,Climber,USA,unknown,10.0
+TLNG20301,TLNG,1984,Autumn,M,Leader,UK,unknown,119.0
+TRIP93301,TRIP,1970,Autumn,M,Climber,France,technician,11.0
+TRIP93301,TRIP,1970,Autumn,M,Climber,Spain,factory worker,8.0
+TSOK95301,TSOK,1965,Autumn,M,Leader,USA,ophthalmologist,9.0
+TSOK95301,TSOK,1965,Autumn,M,Climber,UK,physicist,-1.0
+TSOK95301,TSOK,1965,Autumn,M,Climber,USA,physician,11.0
+TSOK95301,TSOK,1965,Autumn,M,Climber,USA,student,-6.0
+TSOK95301,TSOK,1965,Autumn,M,H-A Worker,Nepal,unknown,5.0
+TSOK95301,TSOK,1965,Autumn,M,H-A Worker,Nepal,unknown,-1.0
+TSOK95301,TSOK,1965,Autumn,M,H-A Worker,Nepal,unknown,-3.0
+TUKU91301,TUKU,1954,Autumn,M,Climber,France,municipality staffer,7.0
+TUKU92301,TUKU,1954,Autumn,M,Climber,UK,education advisor for outdoor activities,6.0
+TUKU97301,TUKU,1957,Autumn,M,H-A Worker,Nepal,unknown,-1.0
+TUKU97301,TUKU,1957,Autumn,M,H-A Worker,Nepal,unknown,-16.0
+TUKU97101,TUKU,1984,Spring,M,Climber,Australia,army captain,12.0
+TUKU97101,TUKU,1984,Spring,M,Climber,Australia,army lieutenant,11.0
+URKM99101,URKM,1969,Spring,M,Leader,France,alpine guide,10.0
+YALU87301,YALU,1954,Autumn,M,H-A Worker,Nepal,alpine guide,-6.0
+YALU81102,YALU,1964,Spring,M,Climber,Japan,driver and office worker in a transport company,10.0
+YALU81102,YALU,1964,Spring,M,Climber,Japan,electronics engineer,10.0
+YALU81102,YALU,1964,Spring,M,Climber,Japan,civil engineer,9.0
+YALU81102,YALU,1964,Spring,M,Climber,Japan,construction worker,9.0
+YALU81102,YALU,1964,Spring,M,Climber,Japan,salesman in mountaineering-equipment shop,11.0
+YAUP89301,YAUP,1962,Autumn,M,Co-Leader,UK,alpine guide,2.0
+YAUP89301,YAUP,1963,Autumn,M,Co-Leader,UK,writer,0.0
+YAUP89301,YAUP,1963,Autumn,M,Climber,USA,joiner,3.0
