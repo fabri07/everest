@@ -1,4 +1,4 @@
 # 03 Model Training
 
-Aqui viven los scripts que entrenan el baseline y el modelo principal.
+Script unificado que entrena CatBoost, Logistic Regression (L1) y Random Forest sobre el target binario `exito`, y genera ranking cruzado de feature importance.
 

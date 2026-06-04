@@ -13,6 +13,10 @@
     "abandona_muere": 898,
     "cima_muere": 260
   },
+  "exito_counts": {
+    "0": 52331,
+    "1": 36669
+  },
   "age_valid_count": 81111,
   "age_invalid_count": 2481,
   "age_missing_count": 5408,

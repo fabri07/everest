@@ -307,6 +307,9 @@ def create_targets(df: pd.DataFrame) -> pd.DataFrame:
     df.loc[(df["msuccess"] == True) & (df["death"] == False), "outcome_4"] = "cima_vive"
     df.loc[(df["msuccess"] == True) & (df["death"] == True), "outcome_4"] = "cima_muere"
     df.loc[(df["msuccess"] != True) & (df["death"] == True), "outcome_4"] = "abandona_muere"
+
+    # Target binario: 1 = hizo cima y sobrevivió, 0 = todo lo demás
+    df["exito"] = ((df["msuccess"] == True) & (df["death"] == False)).astype(int)
     return df
 
 
@@ -418,6 +421,7 @@ def make_quality_summary(master: pd.DataFrame, duplicate_expids: list[str]) -> d
         "duplicate_expids_in_exped": duplicate_expids,
         "n_duplicate_expids_in_exped": int(len(duplicate_expids)),
         "outcome_4_counts": master["outcome_4"].value_counts().to_dict(),
+        "exito_counts": master["exito"].value_counts().to_dict(),
         "age_valid_count": int(age_valid_mask.sum()),
         "age_invalid_count": int(master["age_out_of_range_flag"].sum()),
         "age_missing_count": int(master["age_missing_flag"].sum()),

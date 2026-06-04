@@ -1,0 +1,272 @@
+feature,importance,rank
+peak_prev_summit_rate,0.12101850743874007,1
+myear,0.07499060155000863,2
+hired_True,0.06137272797880782,3
+sherpa_True,0.05438617286455538,4
+hired_False,0.05222855580004735,5
+peak_prev_death_rate,0.049196245184483754,6
+exp_camps,0.048913042117343666,7
+bconly_True,0.04821403128348512,8
+peak_heightm,0.04237372257995021,9
+sherpa_False,0.042115467958676794,10
+bconly_False,0.042046495056399194,11
+occupation_missing_flag_False,0.02360938174652659,12
+occupation_missing_flag_True,0.023338043865259606,13
+occupation_group_unknown,0.021482057362258646,14
+ref_pubyear_min,0.021442513214784912,15
+peak_himal_Khumbu,0.01994282373820998,16
+age_clean,0.01980749980953335,17
+exp_tothired,0.019760131405254688,18
+ref_pubyear_max,0.018918854987457587,19
+exp_totmembers,0.013854117336112848,20
+peak_region_Khumbu-Rolwaling-Makalu,0.012657809942403966,21
+ref_n_unique_types,0.0117325334506842,22
+ref_n_refs,0.01116236817486134,23
+age_missing_flag_False,0.008826672429618541,24
+age_missing_flag_True,0.00865605329816369,25
+mseason_Spring,0.007825619275869132,26
+peak_himal_Annapurna,0.007070914183319074,27
+nottobc_False,0.006860724971664373,28
+mseason_Autumn,0.005706363544292543,29
+occupation_group_guide_instructor,0.005578233692767067,30
+peak_phost_Nepal & China,0.005541413454543686,31
+nottobc_True,0.004872983266810122,32
+peak_phost_Nepal only,0.0046263489970527335,33
+tibetan_True,0.004003770697843784,34
+ref_n_languages,0.003813629522282684,35
+exp_nohired_True,0.0036985174477570586,36
+tibetan_False,0.003578850164313924,37
+exp_nohired_False,0.0035739936931727238,38
+exp_host_China,0.003141738878160702,39
+peak_open_False,0.002873014268251745,40
+occupation_group_other,0.0026342127682496223,41
+exp_host_Nepal,0.00261204628355287,42
+peak_region_Annapurna-Damodar-Peri,0.002519919116142002,43
+peak_open_True,0.002308796176784225,44
+exp_rope_0.0,0.00221017597970576,45
+leader_False,0.0020487388923113117,46
+exp_traverse_False,0.0019561025671412037,47
+leader_True,0.001938127580928339,48
+exp_traverse_True,0.0017524401260508816,49
+peak_region_Manaslu-Ganesh,0.0015757568909485625,50
+occupation_group_doctor_health,0.0014303534525260148,51
+peak_trekking_False,0.001420339429316818,52
+peak_region_Kangchenjunga-Janak,0.0013919616422199046,53
+occupation_group_climber_alpinist,0.0013366359056556927,54
+peak_himal_Manaslu/Mansiri,0.0012909523486357949,55
+peak_trekking_True,0.0012626194713167996,56
+peak_himal_Makalu,0.0012337390767270424,57
+peak_himal_Dhaulagiri,0.001226258876071422,58
+peak_himal_Kangchenjunga/Simhalila,0.0011529390660826788,59
+age_out_of_range_flag_True,0.0010332801633735362,60
+peak_region_Dhaulagiri-Mukut,0.0009254020680268065,61
+age_out_of_range_flag_False,0.0009218790141605646,62
+peak_himal_Damodar,0.0008633874753604982,63
+mseason_Winter,0.0008167479946502468,64
+peak_pstatus_Climbed,0.0007625438606240625,65
+peak_restrict_Opened in 2014,0.0006887412605482712,66
+peak_restrict_Opened in 2002,0.0006689549353580032,67
+exp_ski_False,0.0006422133562986669,68
+peak_phost_Nepal & India,0.0006354873030383183,69
+exp_ski_True,0.0006319355363848783,70
+sex_F,0.0006245729272646096,71
+occupation_group_engineer,0.0006185352406686455,72
+peak_pstatus_Unclimbed,0.0006103423775737649,73
+sex_M,0.0006063930108995682,74
+occupation_group_business_exec,0.0005911958784135947,75
+peak_himal_Rolwaling,0.00047889348026491257,76
+exp_host_India,0.0004765417196882655,77
+peak_himal_Peri,0.0004277442501642497,78
+peak_himal_Mukut/Mustang,0.00040947856359103014,79
+support_False,0.0004089552897028513,80
+exp_rope_500.0,0.00036602718492955073,81
+occupation_group_media_photo,0.0003374199982364954,82
+occupation_group_military_police,0.0003137169223579881,83
+peak_region_Langtang-Jugal,0.0002867493101798882,84
+mseason_Summer,0.0002819995199705083,85
+peak_restrict_Opened in 2003,0.00027802159377557053,86
+peak_region_Kanjiroba-Far West,0.00027306764280076937,87
+exp_rope_800.0,0.00027174268214826263,88
+peak_himal_Jugal,0.00026391253301888873,89
+exp_rope_700.0,0.00024795190806925103,90
+occupation_group_student,0.0002470636063967762,91
+exp_rope_400.0,0.00024209338415236305,92
+support_True,0.0002401276647968833,93
+peak_himal_Jongsang,0.00023525234885510935,94
+peak_himal_Ganesh/Shringi,0.00022270937771688324,95
+occupation_group_trades_manual,0.00022113530404803072,96
+exp_rope_600.0,0.00021964790582379104,97
+occupation_group_scientist_academic,0.0002104596843388175,98
+exp_rope_200.0,0.00020389061191987515,99
+deputy_True,0.0001861554754220937,100
+deputy_False,0.000185784076015889,101
+peak_himal_Kanjiroba,0.00017523491014789398,102
+exp_rope_2000.0,0.0001604842562303657,103
+peak_restrict_Converted to trekking peak in 2002,0.00014444647747790333,104
+exp_rope_300.0,0.00011573921794363845,105
+exp_rope_5000.0,0.00011214993808634641,106
+exp_rope_1260.0,0.00010888775240965856,107
+exp_rope_1200.0,0.0001055650320081313,108
+exp_rope_100.0,0.00010150051117807521,109
+exp_rope_1000.0,9.560716913273769e-05,110
+peak_himal_Janak/Ohmi Kangri,9.4059713460833e-05,111
+peak_restrict_Peak entirely within China,8.672329481545074e-05,112
+peak_restrict_Opened in 2001,8.228511384543853e-05,113
+peak_himal_Api/Byas Risi/Guras,7.767368140925487e-05,114
+exp_rope_900.0,7.719611868014224e-05,115
+exp_parapente_True,7.153864187827112e-05,116
+peak_phost_China only,6.87050394532442e-05,117
+exp_rope_6000.0,6.857692590880406e-05,118
+exp_rope_7000.0,6.835851567845195e-05,119
+peak_himal_Langtang,6.488091300233575e-05,120
+exp_rope_1500.0,5.7723766241347535e-05,121
+exp_rope_1800.0,5.340916340737374e-05,122
+peak_himal_Saipal,5.013494307929003e-05,123
+exp_rope_250.0,4.864407876029475e-05,124
+exp_rope_1600.0,4.843530920105e-05,125
+exp_rope_50.0,4.625349770325339e-05,126
+peak_restrict_One permit for Churen Himal's three summits,4.333917858154305e-05,127
+peak_phost_India only,4.1038228056496006e-05,128
+peak_restrict_Opened in 2002 as trekking peak,3.612290444847975e-05,129
+exp_parapente_False,3.135639414903964e-05,130
+peak_restrict_Opened in 2014 as Tenzing Peak,2.946470968082054e-05,131
+exp_rope_650.0,2.806761542498785e-05,132
+exp_rope_3500.0,2.610468259109797e-05,133
+exp_rope_4000.0,2.519356240061364e-05,134
+exp_rope_1100.0,2.302374940596066e-05,135
+exp_rope_1400.0,2.1697030743365897e-05,136
+peak_restrict_Opened in 1997,2.1535022753040564e-05,137
+peak_restrict_Requires permit for Annapurna I,2.0761069341713676e-05,138
+exp_rope_150.0,1.8347263568587547e-05,139
+exp_rope_1300.0,1.7911837628438976e-05,140
+exp_rope_3000.0,1.642312826092421e-05,141
+exp_rope_350.0,1.5427477861522325e-05,142
+exp_rope_2300.0,1.5296702066616388e-05,143
+peak_himal_Nalakankar/Chandi/Changla,1.3960766164054609e-05,144
+exp_rope_6400.0,1.2509748678866471e-05,145
+peak_restrict_Requires permit for Nuptse,7.854176913961482e-06,146
+exp_rope_2200.0,7.583606032328601e-06,147
+exp_rope_4500.0,7.226488832857698e-06,148
+exp_rope_30.0,7.067741576551183e-06,149
+exp_rope_2800.0,6.6903451064030285e-06,150
+exp_rope_2500.0,6.637667536818638e-06,151
+exp_rope_5400.0,6.366864133496627e-06,152
+peak_restrict_Opened in 1997; converted to trekking peak in 2002,5.82927149684946e-06,153
+exp_rope_450.0,4.881459367924722e-06,154
+peak_restrict_Requires Jannu permit,2.2521440617731e-06,155
+exp_rope_1700.0,2.0456120762485645e-06,156
+exp_rope_8000.0,9.5284679374923e-07,157
+peak_restrict_Requires permit for Jobo Rinjang,0.0,158
+"peak_phost_Nepal, China & India",0.0,159
+exp_rope_7800.0,0.0,160
+exp_rope_7600.0,0.0,161
+exp_rope_7500.0,0.0,162
+exp_rope_7400.0,0.0,163
+exp_rope_7100.0,0.0,164
+exp_rope_8700.0,0.0,165
+exp_rope_7900.0,0.0,166
+exp_rope_6900.0,0.0,167
+peak_himal_Kanti/Palchung,0.0,168
+peak_restrict_Requires permit for Gimmigela Chuli,0.0,169
+peak_restrict_Closed,0.0,170
+peak_restrict_One permit for Kanjiroba's north and south summits,0.0,171
+peak_restrict_Delisted in 2014,0.0,172
+"peak_restrict_Opened in 2002, delisted in 2013?",0.0,173
+peak_restrict_Opened in 2013?,0.0,174
+peak_restrict_Opened in 2014 (as Khang Karpo),0.0,175
+exp_rope_10.0,0.0,176
+exp_rope_3.0,0.0,177
+exp_rope_1.0,0.0,178
+exp_host_Unknown,0.0,179
+disabled_True,0.0,180
+disabled_False,0.0,181
+peak_restrict_Requires permit for Amphu I,0.0,182
+exp_rope_235.0,0.0,183
+exp_rope_120.0,0.0,184
+exp_rope_130.0,0.0,185
+exp_rope_160.0,0.0,186
+exp_rope_140.0,0.0,187
+exp_rope_220.0,0.0,188
+exp_rope_210.0,0.0,189
+exp_rope_180.0,0.0,190
+exp_rope_190.0,0.0,191
+exp_rope_280.0,0.0,192
+exp_rope_270.0,0.0,193
+exp_rope_225.0,0.0,194
+exp_rope_80.0,0.0,195
+exp_rope_113.0,0.0,196
+exp_rope_110.0,0.0,197
+exp_rope_90.0,0.0,198
+exp_rope_20.0,0.0,199
+exp_rope_60.0,0.0,200
+exp_rope_70.0,0.0,201
+exp_rope_75.0,0.0,202
+exp_rope_73.0,0.0,203
+exp_rope_25.0,0.0,204
+exp_rope_40.0,0.0,205
+exp_rope_45.0,0.0,206
+exp_rope_15.0,0.0,207
+exp_rope_1220.0,0.0,208
+exp_rope_1150.0,0.0,209
+exp_rope_1127.0,0.0,210
+exp_rope_1067.0,0.0,211
+exp_rope_1010.0,0.0,212
+exp_rope_1050.0,0.0,213
+exp_rope_850.0,0.0,214
+exp_rope_820.0,0.0,215
+exp_rope_750.0,0.0,216
+exp_rope_370.0,0.0,217
+exp_rope_455.0,0.0,218
+exp_rope_457.0,0.0,219
+exp_rope_480.0,0.0,220
+exp_rope_470.0,0.0,221
+exp_rope_510.0,0.0,222
+exp_rope_550.0,0.0,223
+exp_rope_310.0,0.0,224
+exp_rope_320.0,0.0,225
+exp_rope_315.0,0.0,226
+exp_rope_420.0,0.0,227
+exp_rope_1950.0,0.0,228
+exp_rope_2100.0,0.0,229
+exp_rope_2250.0,0.0,230
+exp_rope_2050.0,0.0,231
+exp_rope_2400.0,0.0,232
+exp_rope_1900.0,0.0,233
+exp_rope_1599.0,0.0,234
+exp_rope_1750.0,0.0,235
+exp_rope_1240.0,0.0,236
+exp_rope_1550.0,0.0,237
+exp_rope_1250.0,0.0,238
+exp_rope_1450.0,0.0,239
+exp_rope_3050.0,0.0,240
+exp_rope_2950.0,0.0,241
+exp_rope_2900.0,0.0,242
+exp_rope_2750.0,0.0,243
+exp_rope_2600.0,0.0,244
+exp_rope_2700.0,0.0,245
+exp_rope_2350.0,0.0,246
+exp_rope_3100.0,0.0,247
+exp_rope_3625.0,0.0,248
+exp_rope_3600.0,0.0,249
+exp_rope_3800.0,0.0,250
+exp_rope_3700.0,0.0,251
+exp_rope_3375.0,0.0,252
+exp_rope_3400.0,0.0,253
+exp_rope_3300.0,0.0,254
+exp_rope_3200.0,0.0,255
+exp_rope_4400.0,0.0,256
+exp_rope_4300.0,0.0,257
+exp_rope_4240.0,0.0,258
+exp_rope_3900.0,0.0,259
+exp_rope_4800.0,0.0,260
+exp_rope_4700.0,0.0,261
+exp_rope_4575.0,0.0,262
+exp_rope_4600.0,0.0,263
+exp_rope_5500.0,0.0,264
+exp_rope_5200.0,0.0,265
+exp_rope_5600.0,0.0,266
+exp_rope_5550.0,0.0,267
+exp_rope_5700.0,0.0,268
+exp_rope_6200.0,0.0,269
+exp_rope_6600.0,0.0,270
+exp_rope_6700.0,0.0,271
