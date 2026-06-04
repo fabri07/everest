@@ -7,11 +7,11 @@
 2. `02_data_processing`
    Limpieza, consolidacion, features y datasets listos para modelado.
 3. `03_model_training`
-   Entrenamiento de baseline y modelo principal.
+   Entrenamiento unificado: CatBoost, Logistic Regression y Random Forest sobre target binario.
 4. `04_model_evaluation`
-   Metricas, predicciones y explicabilidad del modelo.
+   Metricas, predicciones, SHAP y grafico de consenso.
 5. `05_data_analytics`
-   Tablas de negocio, notebooks y documentacion.
+   Tablas de importancia, ranking consensuado, notebooks y documentacion.
 
 ## Regla De Diseno
 
@@ -24,6 +24,16 @@
 
 1. Ingesta y validacion de claves.
 2. Procesamiento y feature engineering.
-3. Entrenamiento reproducible.
-4. Evaluacion con metricas y explicabilidad.
+3. Entrenamiento reproducible con multiples modelos.
+4. Evaluacion con metricas, explicabilidad (SHAP) y consenso cruzado.
 5. Analitica, storytelling y documentacion.
+
+## Patron De Consenso
+
+Para responder "que variables realmente importan" se cruzan tres fuentes independientes:
+
+- CatBoost feature importance (ganancia en splits)
+- Logistic Regression L1 (magnitud absoluta de coeficientes)
+- Random Forest (importancia por impureza)
+
+Las features que aparecen en el top 10 de los 3 modelos son las mas robustas. Las que solo aparecen en un modelo pueden ser artefactos del algoritmo.

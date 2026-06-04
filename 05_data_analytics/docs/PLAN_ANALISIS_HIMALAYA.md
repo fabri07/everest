@@ -4,9 +4,18 @@
 
 Construir una base maestra a nivel montanista-expedicion para:
 
-- describir los factores asociados a `cima_vive`, `cima_muere`, `abandona_vive` y `abandona_muere`
-- preparar un dataset reproducible para modelado
-- entrenar un baseline interpretable que sirva como punto de partida
+- identificar las variables que realmente influyen en **llegar a la cima y sobrevivir**
+- preparar un dataset reproducible para modelado binario
+- entrenar multiples modelos y cruzar sus importancias para separar senial real de ruido
+
+## Target binario
+
+El dataset original tiene fuerte desbalanceo en muerte (~1.3%), lo que impide modelar las 4 categorias por separado con confianza. Se simplifica a:
+
+- `exito = 1`: hizo cima **y** sobrevivio (cima_vive)
+- `exito = 0`: cualquier otro resultado (abandona_vive, abandona_muere, cima_muere)
+
+Distribucion resultante: 41% exito vs 59% no-exito. Practicamente balanceado.
 
 ## Regla de edad
 
@@ -27,20 +36,7 @@ Se conservan dos columnas:
 - `occupation_raw_clean`: texto limpio original
 - `occupation_group`: agrupacion analitica
 
-Grupos incluidos:
-
-- `guide_instructor`
-- `climber_alpinist`
-- `doctor_health`
-- `engineer`
-- `military_police`
-- `student`
-- `business_exec`
-- `scientist_academic`
-- `media_photo`
-- `trades_manual`
-- `other`
-- `unknown`
+Grupos: `guide_instructor`, `climber_alpinist`, `doctor_health`, `engineer`, `military_police`, `student`, `business_exec`, `scientist_academic`, `media_photo`, `trades_manual`, `other`, `unknown`.
 
 ## Merge
 
@@ -59,93 +55,60 @@ Grupos incluidos:
 - `peak_prev_summit_rate = peak_prev_summits / peak_prev_members`
 - `peak_prev_death_rate = peak_prev_deaths / peak_prev_members`
 
-## Variables eliminadas del modelo principal
+## Variables eliminadas del modelo
 
-Se quitan variables por alguno de estos motivos:
+Se quitan variables por:
 
-- fuga temporal o post-evento
-- identificadores sin valor predictivo
+- fuga temporal o post-evento (fechas de cima, detalles de muerte, uso real de oxigeno)
+- identificadores sin valor predictivo (nombres, ids internos)
 - texto libre de baja calidad
-- alta nulidad con poco valor en v1
+- alta nulidad con poco valor
 
-Ejemplos:
+## Tratamiento de datos faltantes
 
-- miembros:
-  - nombres, ids internos, fechas de cima, detalles de muerte, rutas realizadas, uso real de oxigeno
-- expediciones:
-  - fechas de cima, razones de terminacion, muertes observadas, tiempos, accidentes, exito observado de la ruta
-- picos:
-  - duplicados de altura, texto libre de primera ascension, variables muy vacias
+- **Edad**: fuera de rango se convierte en NaN + flag; faltante se marca con flag
+- **Ocupacion**: 34.5% faltante, se marca con flag y grupo "unknown"
+- **Numericas**: CatBoost maneja NaN nativamente; LogReg/RF imputan con mediana
+- **Categoricas**: NaN se rellena con "Unknown" como string
+- **No se eliminan filas** por datos faltantes (excepto sin target msuccess/death)
 
-## Salidas del pipeline
+## Separacion de features por cardinalidad
 
-- `02_data_processing/data/himalaya_master_clean.csv`
-- `02_data_processing/data/himalaya_model_ready.csv`
-- `05_data_analytics/tables/age_inconsistencies.csv`
-- `05_data_analytics/tables/occupation_group_summary.csv`
-- `05_data_analytics/tables/occupation_raw_summary.csv`
-- `05_data_analytics/tables/region_summary.csv`
-- `04_model_evaluation/metrics/data_quality_summary.json`
-- `04_model_evaluation/metrics/baseline_metrics.json`
-- `04_model_evaluation/predictions/baseline_predictions.csv`
+- **Baja cardinalidad** (todos los modelos): mseason, sex, occupation_group, peak_himal, peak_region, flags binarios, etc.
+- **Alta cardinalidad** (solo CatBoost): citizen_clean (253 valores), status (554), exp_route1 (1265), exp_nation (100)
+
+CatBoost maneja categoricas de alta cardinalidad nativamente. LogReg y RF usan OHE, que con 1000+ categorias genera features ruidosas y lentitud.
 
 ## Estrategia de modelado
 
-Baseline jerarquico:
+Tres modelos independientes sobre el mismo target binario `exito`:
 
-1. modelo de `P(cima)`
-2. modelo de `P(muerte | cima)`
-3. modelo de `P(muerte | no cima)`
+1. **CatBoost**: gradient boosting con soporte nativo de categoricas. 500 iteraciones, depth 6, early stopping.
+2. **Logistic Regression (L1)**: coeficientes sparse interpretables. Solver liblinear.
+3. **Random Forest**: 200 arboles, max_depth 12.
 
-Luego se combinan las probabilidades para estimar:
-
-- `P(cima_vive)`
-- `P(cima_muere)`
-- `P(abandona_vive)`
-- `P(abandona_muere)`
+Luego se cruzan las importancias de los 3 modelos en un ranking consensuado.
 
 ## Validacion
 
 Split temporal:
 
-- train: `myear <= 2014`
-- valid: `2015 <= myear <= 2019`
-- test: `myear >= 2020`
+- train: `myear <= 2014` (64,076 filas)
+- valid: `2015 <= myear <= 2019` (14,005 filas)
+- test: `myear >= 2020` (10,919 filas)
 
-Metricas:
+Metricas: `balanced_accuracy`, `ROC AUC`, `PR AUC`, `F1`, `Brier score`, `log_loss`.
 
-- `balanced_accuracy`
-- `f1`
-- `macro_f1`
-- `PR-AUC`
+## Salidas del pipeline
 
-## Siguiente mejora recomendada
-
-Una vez validado este baseline:
-
-- reemplazar regresion logistica por CatBoost o LightGBM
-- agregar calibration
-- comparar con un multiclass directo
-- crear SHAP global y local
-
-## Modelo avanzado implementado
-
-Script:
-
-- `src/everest_analytics/train_catboost.py`
-
-Salidas:
-
-- `04_model_evaluation/metrics/catboost_metrics.json`
-- `04_model_evaluation/predictions/catboost_predictions.csv`
-- `04_model_evaluation/metrics/catboost_calibration_summary.csv`
-- `04_model_evaluation/figures/shap/*.csv`
-- `04_model_evaluation/figures/shap/*.png`
-
-Notas:
-
-- el modelo usa CatBoost con variables numericas y categoricas
-- la calibracion usa Platt scaling ajustado sobre el split `valid`
-- las metricas de validacion se reportan sin calibrar
-- la calibracion se evalua solo en `test` para evitar optimismo al medir sobre el mismo split usado para ajustarla
-- SHAP explica el modelo CatBoost base; la calibracion se reporta por separado
+- `02_data_processing/data/himalaya_model_ready.csv`
+- `04_model_evaluation/metrics/success_metrics.json`
+- `04_model_evaluation/metrics/data_quality_summary.json`
+- `04_model_evaluation/predictions/success_predictions.csv`
+- `04_model_evaluation/figures/consensus_feature_importance.png`
+- `04_model_evaluation/figures/shap/exito_shap_*.png`
+- `05_data_analytics/tables/consensus_feature_ranking.csv`
+- `05_data_analytics/tables/importance_catboost.csv`
+- `05_data_analytics/tables/importance_logreg.csv`
+- `05_data_analytics/tables/importance_rf.csv`
+- `05_data_analytics/tables/permutation_importance_catboost.csv`
