@@ -4,6 +4,7 @@ __pycache__/
 .venv/
 venv/
 outputs/
+.claude/
 
 # Archivos generados grandes (regenerar con prepare_data.py)
 02_data_processing/data/himalaya_master_clean.csv
